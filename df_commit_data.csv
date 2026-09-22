@@ -1,0 +1,750 @@
+commit,tree,parent,author,author_time,author_tz,committer,committer_time,committer_tz,message,sha1,project
+00144f85329256bf24124729a0554f76fda95877,116d1fe9034b233f623863ccaac7f9b597013d68,['f254d1c0a5e9e80b9f7e8d3b4709b9e93d52f618'],mmorise <mmorise@yamanashi.ac.jp>,1492872352,+0900,mmorise <mmorise@yamanashi.ac.jp>,1492872352,+0900,"DC component is removed
+",00144f85329256bf24124729a0554f76fda95877,mmorise_world
+001cffd6e178dce0cb9dc56a1c38e0a4aa6edb8a,cd51ae757e60e0e077f9b7ee28c219dcfb31cbb1,"['d2ff2b9e5210f2c898f470749fc34d96e071372b', 'd8a1b1b9da5f7eab26f699f76f59f333eba90f3c']",mmorise <masanori.morise@gmail.com>,1457054604,+0900,mmorise <masanori.morise@gmail.com>,1457054604,+0900,"Merge pull request #10 from giuliopaci/master
+
+Complete the move of headers into a ""world"" directory",001cffd6e178dce0cb9dc56a1c38e0a4aa6edb8a,mmorise_world
+03dde19b57276a300f74812092fe1c84578dc997,3ae3dde81961915ebe3e04a27fb1b5cf8c8ccfcd,['9a0532b49f9badcef2e3856f96e6aae6917736cd'],mmorise <masanori.morise@gmail.com>,1482051912,+0900,GitHub <noreply@github.com>,1482051912,+0900,minor warning was fixed,03dde19b57276a300f74812092fe1c84578dc997,mmorise_world
+04052de2ffa16c006a494a4e514b6190cc0beb3b,cf54d33661a22ddcb96c4eb41896259e0bac2a56,"['f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882', '87841e01fd08a9993f380fdd1714be18d40a5ef1']",3628800 <49071618+3628800@users.noreply.github.com>,1582845773,-0600,GitHub <noreply@github.com>,1582845773,-0600,"Merge 87841e01fd08a9993f380fdd1714be18d40a5ef1 into f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882
+",04052de2ffa16c006a494a4e514b6190cc0beb3b,mmorise_world
+04bdec30a91ed01834c14bef061cff3453276ec9,efc6e71544d7cdf2bc792c5460f6b435664092e5,['06bda6187200156e8866e2599ebcde21aed63de8'],mmorise <masanori.morise@gmail.com>,1483342949,+0900,GitHub <noreply@github.com>,1483342949,+0900,Update common.cpp,04bdec30a91ed01834c14bef061cff3453276ec9,mmorise_world
+04d7d3beb54d07a7acf83d8d1e4cf32b4949651a,c6d5aeed8c5f3172c581f75299c901f56552504b,"['27530ac8c0f0e792e5b9da50cbe8775980189143', '4864223b28c8cc12f218990740b6327137b464c7']",mmorise <masanori.morise@gmail.com>,1456797138,+0900,mmorise <masanori.morise@gmail.com>,1456797138,+0900,"Merge pull request #8 from giuliopaci/master
+
+Small changes about static and const keywords",04d7d3beb54d07a7acf83d8d1e4cf32b4949651a,mmorise_world
+04de8a94fc947fe0caebabd9335495a7f258b2fa,3fb0a552bae55576b24432c84ae185ac3a9887dd,['30c95a8a8072687b3e01d6c961159ec3490611de'],mmorise <masanori.morise@gmail.com>,1503514197,+0900,GitHub <noreply@github.com>,1503514197,+0900,References were updated.,04de8a94fc947fe0caebabd9335495a7f258b2fa,mmorise_world
+061b2bc76985703e712e3a52db2eccdf7a6ca743,eaa7dc88c3977491a815e0e1d1b3e69ec5287b6a,['4133ccb90c9c6bd095d06b93f70529e0b86c2d5e'],Giulio Paci <giuliopaci@gmail.com>,1454028049,+0100,Giulio Paci <giuliopaci@gmail.com>,1454399123,+0100,"Added ctest.c.
+",061b2bc76985703e712e3a52db2eccdf7a6ca743,mmorise_world
+06bda6187200156e8866e2599ebcde21aed63de8,4b4f22033d4290e01997d82d8084a035788eed6c,['c65a30a1a43613bcacafb8e49a7b67e1d697df0a'],mmorise <masanori.morise@gmail.com>,1483338919,+0900,GitHub <noreply@github.com>,1483338919,+0900,Update README.md,06bda6187200156e8866e2599ebcde21aed63de8,mmorise_world
+07325aed6c710174fff77240df0ed7a1a0e7118c,10a0cba58205100556c7133132bd7e5cba1cb1f6,['2214d3cf3804f31a15aa2031fb22f32243cae8b0'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from common.h.
+",07325aed6c710174fff77240df0ed7a1a0e7118c,mmorise_world
+0776c74479f91b754203192ae673fe9f5dc60f75,bc85255cc88a3a2edf591379daddc52a39f45455,"['5e5569be2984e266b24190efbee4503181746f7a', '10f14a00d976bfb7e23ce07f5e9f92517b422a91']",mmorise <masanori.morise@gmail.com>,1536809483,+0900,GitHub <noreply@github.com>,1536809483,+0900,"Merge pull request #69 from vlee78/master
+
+fix decimate bug",0776c74479f91b754203192ae673fe9f5dc60f75,mmorise_world
+085ff9a9c845b0cc62d6a226177de1afc035d635,299a72658f19a39cde35b4fc7315fb64689dd8e2,['a677687e8caa30892b5e95f242670d116fd2b19e'],mmorise <mmorise@yamanashi.ac.jp>,1485956776,+0900,mmorise <mmorise@yamanashi.ac.jp>,1485956776,+0900,"Copyright message was simplified
+",085ff9a9c845b0cc62d6a226177de1afc035d635,mmorise_world
+099efb887680091f9f634cb5f334cb8b5586f23a,a6c76d4feb3ee07bfa2cdf706502ed83ba2deecc,['97e64fce706139f2e13029ce11b223cbad77226f'],Theo <lamcilaktheo@outlook.fr>,1599840780,+0200,Theo <lamcilaktheo@outlook.fr>,1599840780,+0200,"Updated the CMakeLists.txt to add the headers to project files and the install target
+",099efb887680091f9f634cb5f334cb8b5586f23a,mmorise_world
+0b530e0aab4fb7ba1b31074a45302b906c6cc1c3,4351497bc1daa7f5d117afbec74dc84af4b8be3d,['0b9ad152655571c00e1c2ce8b6288d5e085837a2'],mmorise <masanori.morise@gmail.com>,1477391951,+0900,GitHub <noreply@github.com>,1477391951,+0900,Update synthesis.cpp,0b530e0aab4fb7ba1b31074a45302b906c6cc1c3,mmorise_world
+0b709a81db5cee7faebc7b5724673d98758dca43,06cac21aff56e18f9865cc22b64a0be5b88ccd8e,['6ea44b7316ad5d69c654f4cc15464302de270a7a'],dingzeyu li <lidingzeyu@gmail.com>,1497048532,-0700,dingzeyu li <lidingzeyu@gmail.com>,1497048532,-0700,"corrected typos and added comments on FFT computation
+",0b709a81db5cee7faebc7b5724673d98758dca43,mmorise_world
+0b9ad152655571c00e1c2ce8b6288d5e085837a2,ee97b826c2f608d94f2811fe49de7e048b78e7f3,['5909a863daf3b15f968c4ae3f03669b4321b9aa7'],mmorise <masanori.morise@gmail.com>,1477391931,+0900,GitHub <noreply@github.com>,1477391931,+0900,Update analysis.cpp,0b9ad152655571c00e1c2ce8b6288d5e085837a2,mmorise_world
+0bd6e51f2bbec5971cd4e281a5e6ad037ce93357,5d770f12d6da0835abc0e36a3d3450e84029b62e,"['93645b6cd0ed1629c2164f6ba3913b4eff79a37c', '7973de66ee92cbc9723b0c0bf613ba44fc590311']",mmorise <masanori.morise@gmail.com>,1461067638,+0900,mmorise <masanori.morise@gmail.com>,1461067638,+0900,"Merge pull request #11 from yamachu/fix/struct_cast
+
+Convert explicitly Struct-WorldSynthesizer's member",0bd6e51f2bbec5971cd4e281a5e6ad037ce93357,mmorise_world
+0c42cf66cff7f06ba6e284b50b4e68db1662fdad,44b8db4531380daafe44ea34b3b137786bcb5aeb,['061b2bc76985703e712e3a52db2eccdf7a6ca743'],Giulio Paci <giuliopaci@gmail.com>,1454028020,+0100,Giulio Paci <giuliopaci@gmail.com>,1454399123,+0100,"Make order in build directory and enable ctest.c in makefile.
+",0c42cf66cff7f06ba6e284b50b4e68db1662fdad,mmorise_world
+0d2667511691fc75fd65433f8abe800e7531582e,e506bf44bd70a4c49e5e0a973a022b436a5eddfc,['f88cfa7e761cc9119a5a2498b2e46fa110672a44'],mmorise <masanori.morise@gmail.com>,1485529915,+0900,GitHub <noreply@github.com>,1485529915,+0900,A bug was fixed,0d2667511691fc75fd65433f8abe800e7531582e,mmorise_world
+0d8e4afb060470ff01df63df4cccf94f331bd9a1,8f48aeb012b7e4985abde26bb0941f0c2ccf10c2,"['0dbc2e2975ddb7d25e413c42e91feb6ae7885529', '6bd04a4c7363f586b7630b1c634eaf3ce6a451c7']",mmorise <masanori.morise@gmail.com>,1453952209,+0900,mmorise <masanori.morise@gmail.com>,1453952209,+0900,"Merge pull request #2 from giuliopaci/master
+
+Exposing C interface in the library, instead of C++ interface",0d8e4afb060470ff01df63df4cccf94f331bd9a1,mmorise_world
+0d9b27b7f1f6a66bcafb8065125527ae37ff19ca,6c361869e400026acc4fa58e738e86c682a3ba90,['6979fa04f05b453cead623de9352a6f4bbd6c6a3'],mmorise <masanori.morise@gmail.com>,1496935526,+0900,GitHub <noreply@github.com>,1496935526,+0900,Create README.md,0d9b27b7f1f6a66bcafb8065125527ae37ff19ca,mmorise_world
+0dbc2e2975ddb7d25e413c42e91feb6ae7885529,237b85746e57b83d764d5df1004b47f3241f260d,['3dd286f0afe209b0c5c9346a3090284402e7adb0'],Masanori Morise <masanori.morise@gmail.com>,1453094245,+0900,Masanori Morise <masanori.morise@gmail.com>,1453094245,+0900,"Updated for vs2015
+",0dbc2e2975ddb7d25e413c42e91feb6ae7885529,mmorise_world
+0dd60c2d94fb902b33bf0c4043bdcb7e3c870e26,e81b5e5a40d71ae34ccb5440c97bc1fed6ff84a3,['f9286f264f45b11435445cbd4e169ffac42e1667'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821951,+0100,"Updated synthesis.cpp to use MyMin<Type> and MyMax<Type>.
+",0dd60c2d94fb902b33bf0c4043bdcb7e3c870e26,mmorise_world
+0ea128efa4fce2561dec12eec0488faec6a81b0f,7e4d556a77033393a417a401291f683ff3c2b408,['46a6d6df3a15628a7de5f00df7fa0f5f3f86ac11'],mmorise <masanori.morise@gmail.com>,1482848226,+0900,GitHub <noreply@github.com>,1482848226,+0900,debug code was removed,0ea128efa4fce2561dec12eec0488faec6a81b0f,mmorise_world
+0f39268c8bb3e5ff85fa3d22389d03adb346a223,7ec6b5d80635fbf17a6a62636afe2ad7e99f017f,['33159af1e3e7d7c5b626fb34a7d675c74193a624'],Ryuichi Yamamoto <zryuichi@gmail.com>,1592217960,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1592217960,+0900,"address review feedback
+",0f39268c8bb3e5ff85fa3d22389d03adb346a223,mmorise_world
+0f450dfa222cbea5ad83c2edf1269903b089665c,378532a159df44e2027b464b633251ceb44c37f4,['e461708609620b31c3e14851ee9791299afb5041'],Ryuichi Yamamoto <zryuichi@gmail.com>,1499070550,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1499070550,+0900,"Fix memory leak in Harvest
+
+Found by clang address sanitizer
+
+```
+build/test arctic_a0030.wav
+
+File information
+Sampling : 16000 Hz 16 Bit
+Length 23601 [sample]
+Length 1.475062 [sec]
+
+Analysis
+Harvest: 1696 [msec]
+CheapTrick: 77 [msec]
+D4C: 240 [msec]
+
+Synthesis 1 (conventional algorithm)
+    WORLD: 126 [msec]
+
+    Synthesis 2 (All frames are added at the same time)
+    WORLD: 126 [msec]
+
+    Synthesis 3 (Ring buffer is efficiently used.)
+    WORLD: 130 [msec]
+    complete.
+
+    =================================================================
+    ==4695==ERROR: LeakSanitizer: detected memory leaks
+
+    Direct leak of 8 byte(s) in 1 object(s) allocated from:
+        #0 0x50cd40 in operator new[](unsigned long)
+    /home/ryuichi/llvm/projects/compiler-rt/lib/asan/asan_new_delete.cc:84
+        #1 0x55183b in (anonymous namespace)::SmoothF0Contour(double
+                const*, int, double*)
+        /home/ryuichi/sp/world-cmake/src/harvest.cpp:1094:31
+            #2 0x550383 in (anonymous
+                    namespace)::HarvestGeneralBody(double const*, int,
+                        int, int, double, double, double, int, double*,
+                        double*)
+    /home/ryuichi/sp/world-cmake/src/harvest.cpp:1200:3
+        #3 0x54f9b8 in Harvest
+    /home/ryuichi/sp/world-cmake/src/harvest.cpp:1239:3
+        #4 0x51531d in (anonymous
+                namespace)::F0EstimationHarvest(double*, int,
+                    WorldParameters*)
+    /home/ryuichi/sp/world-cmake/test/test.cpp:155:3
+        #5 0x514237 in main
+    /home/ryuichi/sp/world-cmake/test/test.cpp:394:3
+        #6 0x7f8ac5d8382f in __libc_start_main
+    /build/glibc-bfm8X4/glibc-2.23/csu/../csu/libc-start.c:291
+
+```
+",0f450dfa222cbea5ad83c2edf1269903b089665c,mmorise_world
+0f667c284177562e66bf8aee6fd12f3cdba2f3ef,7801eef257f936c8e2257d408a7cd3a4dbef6922,['cf089dfbbff160c11d308cf47fd808f208caa5d4'],Masanori Morise <masanori.morise@gmail.com>,1447593554,+0900,Masanori Morise <masanori.morise@gmail.com>,1447593554,+0900,"2015/11/15
+",0f667c284177562e66bf8aee6fd12f3cdba2f3ef,mmorise_world
+101f75c57d8b575d9cde81c9f01cf37f95846349,5dccd7c62e279c0ed3831750127d2d61029e105a,['191f8b7e2d06a0643556a92fd1677372ebe99449'],Masanori Morise <masanori.morise@gmail.com>,1447577474,+0900,Masanori Morise <masanori.morise@gmail.com>,1447577474,+0900,"2015/11/15
+",101f75c57d8b575d9cde81c9f01cf37f95846349,mmorise_world
+1062a4c7015f2740e5e7b8ff08a452a8a25e34c9,c9a3aba42667e014392557544f5917e32e374c0a,['e7625f1970f0fd8fb6305c4779b801e88e3766e8'],wuaalb <merlijn.blaauw@gmail.com>,1496762279,+0200,wuaalb <merlijn.blaauw@gmail.com>,1496762279,+0200,"Fix phase continuation
+",1062a4c7015f2740e5e7b8ff08a452a8a25e34c9,mmorise_world
+10ea3ca866222833a511a4787a4b4f7d3f7f663d,7c61ccf704ab58a29744b09d8197cb1cd1522b0d,['21c16a74a796a5a14eaa4e62ec9cf0822ec20a35'],malyasova <malyasova.viktoriya@yandex.ru>,1606881164,+0300,malyasova <malyasova.viktoriya@yandex.ru>,1606881164,+0300,"Save some memory by not storing s array in interp1
+",10ea3ca866222833a511a4787a4b4f7d3f7f663d,mmorise_world
+10f14a00d976bfb7e23ce07f5e9f92517b422a91,bc85255cc88a3a2edf591379daddc52a39f45455,['fe5a2fdaad68fcecb043b49842bdd992692d097e'],vlee78 <vlee78@gmail.com>,1536772835,+0800,vlee78 <vlee78@gmail.com>,1536772835,+0800,"modify to conform to the google code style
+",10f14a00d976bfb7e23ce07f5e9f92517b422a91,mmorise_world
+11a4886d4d5ea93ed296693cb91b9f57daf57420,b1a0f8df375d62d170cce4d5cea5bd64a21940f3,['c4286d76790395c22684f5c5269ffbd7cdd72830'],mmorise <mmorise@yamanashi.ac.jp>,1482998340,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482998340,+0900,"simple refactoring for compatibility with MATLAB
+",11a4886d4d5ea93ed296693cb91b9f57daf57420,mmorise_world
+1302a4d77e2bd7d7faa1e05aeaead8838458ba82,73078f1b4c8496089ef79dcc4762064469fc6506,['13d96fc7da25da5fb808844d88337317e9fa0d76'],mmorise <masanori.morise@gmail.com>,1685954202,+0900,GitHub <noreply@github.com>,1685954202,+0900,Update README.md,1302a4d77e2bd7d7faa1e05aeaead8838458ba82,mmorise_world
+13afdd6df75efb85c0c90ab15a3e65014fffd04c,4fc014ea460bd6fed848e074079091413bef2a3b,['795c4690471dbee817f2dd04c879dcb6e8e86920'],mmorise <mmorise@yamanashi.ac.jp>,1576662509,+0900,mmorise <mmorise@yamanashi.ac.jp>,1576662509,+0900,"VS project was renamed
+",13afdd6df75efb85c0c90ab15a3e65014fffd04c,mmorise_world
+13d96fc7da25da5fb808844d88337317e9fa0d76,f527b3269e2b43fe2f37225878be724a3562f456,"['95066d4a190148a30445b809bb71898eee8e90bf', 'c859b759c108ed4c20a09d1a01f8f38becfbbabd']",mmorise <masanori.morise@gmail.com>,1645370150,+0900,GitHub <noreply@github.com>,1645370150,+0900,"Merge pull request #137 from wtrh/master
+
+Remove unused variable `tmp_spectrum`",13d96fc7da25da5fb808844d88337317e9fa0d76,mmorise_world
+146c22623adfde1d197fc1b6755de9a5e1ed33f9,15a3061121b6f39e13a9ee5f6a535799bd52a9a5,['69b13cfc36856153a302590789a0741a9ba49100'],Shinya Kitaoka <skitaoka@gmail.com>,1644173423,+0900,GitHub <noreply@github.com>,1644173423,+0900,Update codec.cpp,146c22623adfde1d197fc1b6755de9a5e1ed33f9,mmorise_world
+147ea09c8addfdc19a1c8d0aa2e2cdd308d9e19a,32fe6255fcf8161d42910ba624fb506f08e7bb93,['ca827c051e208786f63c5b84898d5f62d759fd7c'],mmorise <mmorise@yamanashi.ac.jp>,1520601038,+0900,mmorise <mmorise@yamanashi.ac.jp>,1520601038,+0900,"minor modification
+",147ea09c8addfdc19a1c8d0aa2e2cdd308d9e19a,mmorise_world
+14b937a07cde6768c905669b9edb2198b69da332,72b132208da27af8081a5aa192534bc5c0ae2ca3,['0bd6e51f2bbec5971cd4e281a5e6ad037ce93357'],mmorise <masanori.morise@gmail.com>,1464258224,+0900,mmorise <masanori.morise@gmail.com>,1464258224,+0900,Update README.md,14b937a07cde6768c905669b9edb2198b69da332,mmorise_world
+17fd80d49b1370535495b8413e36fdfc0f235e3a,f35a89bf716c1ea6ba41b7937491e19f229b3a0d,['d7c03432d572c5a162edba9c611b3c8e367069a9'],mmorise <mmorise@yamanashi.ac.jp>,1544593505,+0900,mmorise <mmorise@yamanashi.ac.jp>,1544593505,+0900,"A minor bug was fixed
+",17fd80d49b1370535495b8413e36fdfc0f235e3a,mmorise_world
+191f8b7e2d06a0643556a92fd1677372ebe99449,9b2a98c1de925ee3f401b7782724992ee0951c5e,['f957d4328a65692f8b28584acd09a06cf2f670bf'],Masanori Morise <masanori.morise@gmail.com>,1447575641,+0900,Masanori Morise <masanori.morise@gmail.com>,1447575641,+0900,"test
+",191f8b7e2d06a0643556a92fd1677372ebe99449,mmorise_world
+19d45278e70cc6c5169cb3a19600dfd0e35f3605,ac8f939bae4543ed0c90a19fff48ced9ab4656dd,"['a1403aa440c5b52585459c1f0acee514cc1e3299', '9cfc36b5b8a99c7771d4bda2c51d3efa76196f39']",mmorise <masanori.morise@gmail.com>,1447809692,+0900,mmorise <masanori.morise@gmail.com>,1447809692,+0900,"Merge pull request #1 from Sleepwalking/master
+
+Add makefile and fix a memory overflow bug.
+Thank you very much for your kind suggestions.
+The file structure in platform will also modified soon.",19d45278e70cc6c5169cb3a19600dfd0e35f3605,mmorise_world
+1a1bfb001e6ab16adac0faea46d971d6af7ebb33,592a6b94432074bfc1e4a8a8ad0363245a2eb107,['cf8ac551c358a8e0f2ea43da92253b0d363514db'],mmorise <mmorise@yamanashi.ac.jp>,1483171419,+0900,mmorise <mmorise@yamanashi.ac.jp>,1483171419,+0900,"minor bugs were fixed
+",1a1bfb001e6ab16adac0faea46d971d6af7ebb33,mmorise_world
+1ac4b7f7a7319afa4cecda7d3f90cb5d0eb54382,c7a4a0c73848b40541453c1f2652fd5f3b268c76,['fddaba28e6c2c7ef2f0c4f43c3c42a3e35e6e3d0'],Sebastien Le Maguer <slemaguer@coli.uni-saarland.de>,1477033063,+0200,Sebastien Le Maguer <slemaguer@coli.uni-saarland.de>,1477033063,+0200,"adding gitignore + example + minor reorg.
+",1ac4b7f7a7319afa4cecda7d3f90cb5d0eb54382,mmorise_world
+1c6aaea023f1c629602267ea6e6f8c336af9056e,fc1e11de1e0935d3a4599e3944e7780914abf687,['698975830d728d50e1004f9186b36a8225cb604a'],Oscar Gomez <42280574+oscarg933@users.noreply.github.com>,1546368666,-0700,GitHub <noreply@github.com>,1546368666,-0700,Create Busterblader77@msn.com,1c6aaea023f1c629602267ea6e6f8c336af9056e,mmorise_world
+1ce42c397c7733d9199a8c4eb013090d9535ae97,54d8c6de4f4bbb7f8c003bbb8d4a79180bc7b83d,['19d45278e70cc6c5169cb3a19600dfd0e35f3605'],Masanori Morise <masanori.morise@gmail.com>,1447810499,+0900,Masanori Morise <masanori.morise@gmail.com>,1447810499,+0900,"File structure is modified
+",1ce42c397c7733d9199a8c4eb013090d9535ae97,mmorise_world
+1d0b71a1693781ad25fcbaf66de79008cd1e3a8e,ebedd195a50f911d2cd944840d4d27c2773d0245,['28cbe2bd7a10a8edb1b70aa7a8fa5f2ca70867ed'],kantahuckle <70446187+kantahuckle@users.noreply.github.com>,1622775160,+0900,GitHub <noreply@github.com>,1622775160,+0900,Create first,1d0b71a1693781ad25fcbaf66de79008cd1e3a8e,mmorise_world
+1eb6602a7780f14c9a42fe9c82c444edb14157b8,c397686779246464253bc1a0546f609e7c515163,['a540c78fdc4a7c53d03b4fff18ec46484c56caca'],mmorise <masanori.morise@gmail.com>,1726199659,+0900,GitHub <noreply@github.com>,1726199659,+0900,The value of the safeguard is changed.,1eb6602a7780f14c9a42fe9c82c444edb14157b8,mmorise_world
+1f8815f7a85e344ea9f98ca6b1383578a161d4e2,aee894d83093ed1c0226febd5374d120e8207b7a,"['ac2784dd1039608ed2ce985a3f8b71c0d1fb8489', 'fefe759250a2c64fc36bcde955aba899b7f137b8']",mmorise <masanori.morise@gmail.com>,1594995645,+0900,GitHub <noreply@github.com>,1594995645,+0900,"Merge pull request #101 from sukumo28/fix-comment
+
+fix comment",1f8815f7a85e344ea9f98ca6b1383578a161d4e2,mmorise_world
+1f99fc40c4aa390e6a0e1fd2af5da91dde443dca,e74c2f3de0f1f5130845c2ef10c496667094f968,['e1f25e5295e616ff0174864641fb6c021b4b649f'],wuaalb <merlijn.blaauw@gmail.com>,1492536781,+0200,wuaalb <merlijn.blaauw@gmail.com>,1492536781,+0200,"expose CheapTrick lower f0 limit
+",1f99fc40c4aa390e6a0e1fd2af5da91dde443dca,mmorise_world
+2059862a581376a4f2d8ef14636b3718c68ea164,8d3216fe904d313e0d74c998764e738b196e5a07,"['a11d5338f2c0a91ea2168f0f45d0970bfaaac5b1', 'b53ef0ce38cfe29863a2a58ee656a65e06393748']",mmorise <masanori.morise@gmail.com>,1491135677,+0900,GitHub <noreply@github.com>,1491135676,+0900,"Merge pull request #25 from brunexgeek/master
+
+Fix makefile for 'analysis_synthesis' example",2059862a581376a4f2d8ef14636b3718c68ea164,mmorise_world
+20b6c2e50fca3a197e84a818ad037e7a8740d2c1,6aa7fa80d5d36cc8467e1f7e4efb90861cfcdb21,['1062a4c7015f2740e5e7b8ff08a452a8a25e34c9'],wuaalb <merlijn.blaauw@gmail.com>,1496762377,+0200,wuaalb <merlijn.blaauw@gmail.com>,1496762377,+0200,"Fix minor memory leak in aperiodicity codec
+",20b6c2e50fca3a197e84a818ad037e7a8740d2c1,mmorise_world
+21c16a74a796a5a14eaa4e62ec9cf0822ec20a35,a6c76d4feb3ee07bfa2cdf706502ed83ba2deecc,"['97e64fce706139f2e13029ce11b223cbad77226f', '099efb887680091f9f634cb5f334cb8b5586f23a']",mmorise <masanori.morise@gmail.com>,1599984945,+0900,GitHub <noreply@github.com>,1599984945,+0900,"Merge pull request #104 from SeleDreams/cmakelists
+
+Updated the cmake to add the headers to project files + install target",21c16a74a796a5a14eaa4e62ec9cf0822ec20a35,mmorise_world
+2214d3cf3804f31a15aa2031fb22f32243cae8b0,357a0bee27de2fa204febe6d47cdf2281df96ce4,['9e8722bb55d7708fe95b55c2cbb59e429d696150'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from cheaptrick.h.
+",2214d3cf3804f31a15aa2031fb22f32243cae8b0,mmorise_world
+25dfe9b829da7437c5c487831a05ae023a0a2d51,22c2c345f0a89e69f32ba90946a206c4fefc854a,['949fa249627d0252ad89906633ac5b45eb73e77c'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved dio.h into world/dio.h.
+",25dfe9b829da7437c5c487831a05ae023a0a2d51,mmorise_world
+2600d04a4b14b5efe61385e5c79d551cdc65cfd8,6e070824d54d23c53464fa22ea89a377e8c9d45b,['001cffd6e178dce0cb9dc56a1c38e0a4aa6edb8a'],mmorise <masanori.morise@gmail.com>,1458189871,+0900,mmorise <masanori.morise@gmail.com>,1458189871,+0900,Update README.md,2600d04a4b14b5efe61385e5c79d551cdc65cfd8,mmorise_world
+26896c08080592d5db2f18f6b8faa9d841c64a96,c0423883862ff168e71bb98144f83f7e7ed5dc4b,['07325aed6c710174fff77240df0ed7a1a0e7118c'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from d4c.h.
+",26896c08080592d5db2f18f6b8faa9d841c64a96,mmorise_world
+27530ac8c0f0e792e5b9da50cbe8775980189143,f78f4a9a83f9a2275cd5e7492552435850d8ae8c,"['4d777bf55fc2a9ba73987708fc53195e971e89f8', 'f12b952aa53cdf0ebb8a6421c9dab71616e2f7e2']",mmorise <masanori.morise@gmail.com>,1454426507,+0900,mmorise <masanori.morise@gmail.com>,1454426507,+0900,"Merge pull request #6 from giuliopaci/master
+
+Use static linkage in addition to anonymous namespace",27530ac8c0f0e792e5b9da50cbe8775980189143,mmorise_world
+28c655e36e427cac453b148b61f6911f5b01650e,f05a6a1390859d1945d1b9c1a6d610957e749328,['30c95a8a8072687b3e01d6c961159ec3490611de'],Martin Jansche <mjansche@google.com>,1501498790,+0100,Martin Jansche <mjansche@google.com>,1501498790,+0100,"Fix -Wunused-result warnings.
+",28c655e36e427cac453b148b61f6911f5b01650e,mmorise_world
+28cbe2bd7a10a8edb1b70aa7a8fa5f2ca70867ed,3acacdcb21d07202ab20b3f55d1aa700fe338000,"['f049f5fd826b2df9a99f58b49751f0095ad09a86', '4962378dd9eb099c8109fbfd0ba1b7981a7d02bc']",mmorise <masanori.morise@gmail.com>,1614521581,+0900,GitHub <noreply@github.com>,1614521581,+0900,"Merge pull request #113 from kaiidams/kaiidams/dev
+
+Build error with VisualStudio 2019 Debug|x64",28cbe2bd7a10a8edb1b70aa7a8fa5f2ca70867ed,mmorise_world
+2a1f7b2c773acba65c4b8ba62fcf6e86266772fd,54f7259bce4caa5f9fcf42c14e974372c05f2a3b,['b72a169ab0388e00d422ef9603fce69cd1ec862e'],abylouw <22814737+abylouw@users.noreply.github.com>,1537056954,+0200,GitHub <noreply@github.com>,1537056954,+0200,fixed determination of output file name length,2a1f7b2c773acba65c4b8ba62fcf6e86266772fd,mmorise_world
+2a5959f47ce0340957b5d18d6e545f6266341773,a034c0231c3881baeb7151ad6facad7b4a4287f9,['1f8815f7a85e344ea9f98ca6b1383578a161d4e2'],Shintaro Takemura <shintaro.takemura@dena.com>,1595925343,+0900,Shintaro Takemura <shintaro.takemura@dena.com>,1595925343,+0900,"feat: add controllable harvest parameters to HarvestOption
+",2a5959f47ce0340957b5d18d6e545f6266341773,mmorise_world
+2bb515f684316b40173925a1e86eda286132744e,76928bb21aad3c2cb4473d30510bfbf60a6de3d3,"['e29cd90abc306a26817d6c081cbad0a1779d7162', 'c087e64347182275b6216505868642cef3ea3874']",mmorise <masanori.morise@gmail.com>,1729562784,+0900,GitHub <noreply@github.com>,1729562784,+0900,"Merge pull request #148 from sabonerune/fix/cmake
+
+fix: support `add_subdirectory`",2bb515f684316b40173925a1e86eda286132744e,mmorise_world
+2c9d3030bf04516bdc19c0afa1ea5571eaaa2c59,047bfce5bd95c7de39fba840ba7069030c13ae26,"['31a1b1958751c8b8dd5c0d06730b4f4aa6f1856d', '8580144b3e2353b570ea32991e9943602ff6f1a9']",mmorise <masanori.morise@gmail.com>,1625730300,+0900,GitHub <noreply@github.com>,1625730300,+0900,"Merge pull request #121 from YuzukiTsuru/master
+
+Add new features in CMake",2c9d3030bf04516bdc19c0afa1ea5571eaaa2c59,mmorise_world
+2ca2c3dd32efc6cb28b420bfd4ec1ed26d769459,caf9af38864d9bf981ab2094d800747f8c1e962d,['4d777bf55fc2a9ba73987708fc53195e971e89f8'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in cheaptrick.cpp.
+",2ca2c3dd32efc6cb28b420bfd4ec1ed26d769459,mmorise_world
+2da91dd2f5870ff38599cdc75a71c2cc558e3819,a0ed05dd8d75a3dd79791fcc84141b74c6eabef8,['31a1b1958751c8b8dd5c0d06730b4f4aa6f1856d'],柚木鉉 <740291272@qq.com>,1624184517,+0800,柚木鉉 <740291272@qq.com>,1624184517,+0800,"fix CMake Warning in macOS:
+ CMake Warning (dev):
+      Policy CMP0042 is not set: MACOSX_RPATH is enabled by default.  Run ""cmake
+      --help-policy CMP0042"" for policy details.  Use the cmake_policy command to
+      set the policy and suppress this warning.
+
+      MACOSX_RPATH is not specified for the following targets:
+
+       WORLD
+",2da91dd2f5870ff38599cdc75a71c2cc558e3819,mmorise_world
+2dafb708c0ccae1300c8ecb7c4b295f1d262426d,0e7ef983056994f7304f9e9e762176911eb1c486,['8392d6be3310f91c31ee02e66eccf9846b5a76e6'],Masanori Morise <masanori.morise@gmail.com>,1454294478,+0900,Masanori Morise <masanori.morise@gmail.com>,1454294478,+0900,"Modify the format and test script. A controllable parameter is added
+",2dafb708c0ccae1300c8ecb7c4b295f1d262426d,mmorise_world
+2dfda44113cad95186f9334d2089991fb3941560,55d9bbe8859902f9bc536bd47c621bf4eec79a6c,['6c182bdd1097493eb8b817ed675ef81a1d3b18aa'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in d4c.cpp.
+",2dfda44113cad95186f9334d2089991fb3941560,mmorise_world
+2e23c801897e817d72eacd2140fb0fcedf958077,0d91d6732497d0cdff1ad03403adf528c4661045,['362bea69f3007dce66a5779d03f8564eb189795f'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved stonemask.h into world/stonemask.h.
+",2e23c801897e817d72eacd2140fb0fcedf958077,mmorise_world
+2e449b1e17eb2186c3e2e2ca49d6880b31d62819,d129f14d9da3c5f198ad922d242289706bd155b5,['65f724f333635ca0d5869a0a2c52df599ef4ba7a'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in synthesis.cpp.
+",2e449b1e17eb2186c3e2e2ca49d6880b31d62819,mmorise_world
+2f81414b7aa0474958b9ce6143fe57a9b301f531,c9db24d16e8b0bab8f97611ed0857d044aebd619,['8db0a645571fa13ea7c5b63bbf6997ff85d21161'],Masanori Morise <masanori.morise@gmail.com>,1461050641,+0900,Masanori Morise <masanori.morise@gmail.com>,1461050641,+0900,"project file is modified.
+",2f81414b7aa0474958b9ce6143fe57a9b301f531,mmorise_world
+30c95a8a8072687b3e01d6c961159ec3490611de,378532a159df44e2027b464b633251ceb44c37f4,"['e461708609620b31c3e14851ee9791299afb5041', '0f450dfa222cbea5ad83c2edf1269903b089665c']",mmorise <masanori.morise@gmail.com>,1499071320,+0900,GitHub <noreply@github.com>,1499071320,+0900,"Merge pull request #41 from r9y9/fix-memory-leak
+
+Fix memory leak in Harvest",30c95a8a8072687b3e01d6c961159ec3490611de,mmorise_world
+30d52ab4e0a49d2ab8fb34a3d4376f5fb1d8ede4,066640159852b4d49534935c38ff4353df681800,['5784901b819c2e07772518546265099398c02497'],mmorise <masanori.morise@gmail.com>,1491137625,+0900,GitHub <noreply@github.com>,1491137625,+0900,Update synthesis.cpp,30d52ab4e0a49d2ab8fb34a3d4376f5fb1d8ede4,mmorise_world
+31a1b1958751c8b8dd5c0d06730b4f4aa6f1856d,a183ccb38b0ef4a91888177cd77336fcde2abfd1,"['28cbe2bd7a10a8edb1b70aa7a8fa5f2ca70867ed', 'e14658daeab6728afe70f2ee479bfe05abefa9e2']",mmorise <masanori.morise@gmail.com>,1623577682,+0900,GitHub <noreply@github.com>,1623577682,+0900,"Merge pull request #120 from YuzukiTsuru/master
+
+fix CMake Deprecation Warning and more",31a1b1958751c8b8dd5c0d06730b4f4aa6f1856d,mmorise_world
+33159af1e3e7d7c5b626fb34a7d675c74193a624,04158cb30e96ce302c4dda1e0f49d685ad5f4e3e,['66e5dcdfcd368f21429d815ad6bf9b14aa9d46a8'],Ryuichi Yamamoto <zryuichi@gmail.com>,1592130090,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1592130090,+0900,"Fix non-initialized memory access in RemoveUnreliableCandidates
+
+Edges of tmp_f0_candidates were not initialized but they were used in
+the function `RemoveUnreliableCandidatesSub` by tmp_f0_candidates[i + 1]
+and tmp_f0_candidates[i - 1] where i equals to 0 and f0_length - 1.
+",33159af1e3e7d7c5b626fb34a7d675c74193a624,mmorise_world
+337730b6756e32213d351c3eab60443c451ef9a3,01f42b72ce6fc98125fc416c94cccd6454165098,['ad99ff3ef5ba55b67f616569ec814c82a236a5b8'],mmorise <masanori.morise@gmail.com>,1477491007,+0900,GitHub <noreply@github.com>,1477491007,+0900,README.md was modified,337730b6756e32213d351c3eab60443c451ef9a3,mmorise_world
+35b438851d7801351b7dbbba83b7243188e7bf57,7c61ccf704ab58a29744b09d8197cb1cd1522b0d,"['21c16a74a796a5a14eaa4e62ec9cf0822ec20a35', '10ea3ca866222833a511a4787a4b4f7d3f7f663d']",mmorise <masanori.morise@gmail.com>,1607013471,+0900,GitHub <noreply@github.com>,1607013471,+0900,"Merge pull request #109 from malyasova/master
+
+Save some memory by not storing s array in interp1",35b438851d7801351b7dbbba83b7243188e7bf57,mmorise_world
+362bea69f3007dce66a5779d03f8564eb189795f,c4f1c244bc777cb15d0f161a2dfc4dcd4c2accad,['e54e9394466f64da815d2edcad3a497118361773'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved matlabfunctions.h into world/matlabfunctions.h.
+",362bea69f3007dce66a5779d03f8564eb189795f,mmorise_world
+36ed78b27f9a8328f690bdcf04be6366072856b6,be8c9647e6ca3796a15afe65bcccecfd19651647,['d1caa89ad2af931bf5dca173b011e651c6c850d9'],wuaalb <merlijn.blaauw@gmail.com>,1488560993,+0100,wuaalb <merlijn.blaauw@gmail.com>,1488560993,+0100,"Small inconsistency declaration Harvest()
+",36ed78b27f9a8328f690bdcf04be6366072856b6,mmorise_world
+37ca57f58ad9588723c84fa2d7c4a7fb82066545,9c567b278694780d1644012192feb9af76b6b26d,['6eff6831a53f75c1837f5fed742ac35079b48e3f'],mmorise <masanori.morise@gmail.com>,1489329111,+0900,GitHub <noreply@github.com>,1489329111,+0900,Delete analysis.cpp,37ca57f58ad9588723c84fa2d7c4a7fb82066545,mmorise_world
+3a2825bb1a834e58d123ff5dc978488b98b47157,81613063c7855c76daf84dc7edcd3e358a3a97a3,['e0fdcce87b462a385af0d9c4cf6010673df8f4ee'],Ryuichi Yamamoto <zryuichi@gmail.com>,1493643599,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1493643599,+0900,"Try travis
+",3a2825bb1a834e58d123ff5dc978488b98b47157,mmorise_world
+3b2a1a7d2c3222016fde7c2f1635200ce49ae963,d9ada7f6088ad807945aea63978e125f4323610b,['101f75c57d8b575d9cde81c9f01cf37f95846349'],Masanori Morise <masanori.morise@gmail.com>,1447592493,+0900,Masanori Morise <masanori.morise@gmail.com>,1447592493,+0900,"2015/11/15
+",3b2a1a7d2c3222016fde7c2f1635200ce49ae963,mmorise_world
+3b86de9a7571e984f47061304487295348c7544a,4fb9388d663a57532cbe79a3b6a8dba641474c19,['a50db5c6ab8779c411b1766dcf228d270e0842f9'],abylouw <22814737+abylouw@users.noreply.github.com>,1537057027,+0200,GitHub <noreply@github.com>,1537057027,+0200,fixed determination of output file name length,3b86de9a7571e984f47061304487295348c7544a,mmorise_world
+3c450c40c6ad8076ff9bdf812081e92f37433300,97c79821c0ef83639ad75ce4ef693638fdc1cc3a,['a1403aa440c5b52585459c1f0acee514cc1e3299'],sleepwalking <2657202503@qq.com>,1447688025,-0600,sleepwalking <2657202503@qq.com>,1447688025,-0600,"Add makefile
+",3c450c40c6ad8076ff9bdf812081e92f37433300,mmorise_world
+3c6cbbb40cdaf99fde1fbd2749241fb17bbad123,1166cc362ae0e239b508d78cf1a134cf00c4114b,['4a284f0403042a834a93dbb07952ff29ea125b46'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in cheaptrick.h.
+",3c6cbbb40cdaf99fde1fbd2749241fb17bbad123,mmorise_world
+3dd286f0afe209b0c5c9346a3090284402e7adb0,e14cd087659e8b60df243dcc5c599fb7375ca200,['9a6902ebbff09b1a0ed2138490a887853df3ffa4'],Masanori Morise <masanori.morise@gmail.com>,1452084265,+0900,Masanori Morise <masanori.morise@gmail.com>,1452084265,+0900,"stonemask.cpp was modified
+",3dd286f0afe209b0c5c9346a3090284402e7adb0,mmorise_world
+3e65619ae1075a889bd3064db06d884622929d74,9675e9c6aea7987c0e6342461f12d1f1ba6c9e3f,['d2ff2b9e5210f2c898f470749fc34d96e071372b'],Giulio Paci <giuliopaci@gmail.com>,1457000454,+0100,Giulio Paci <giuliopaci@gmail.com>,1457020941,+0100,"Added default and test to .PHONY pseudo-target.
+",3e65619ae1075a889bd3064db06d884622929d74,mmorise_world
+3e6cd5b8c265c1cc6320d5699af0af59c27af00f,d9dadb8b9099dfb646fc6e228f1a22e13e33bba7,['9b58a0e5259017f6eba55c1ddfe7057123be95cd'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in matlabfunctions.h.
+",3e6cd5b8c265c1cc6320d5699af0af59c27af00f,mmorise_world
+3f010dc35139d7f8bbc2e0d8db2953562739bec3,0347f3df4babbc6253d5b981503d80dd8c3b3562,['dc05cc526bddcedde01ed075ac4ba705e55fa7d3'],mmorise <masanori.morise@gmail.com>,1489329128,+0900,GitHub <noreply@github.com>,1489329128,+0900,Delete synthesis.cpp,3f010dc35139d7f8bbc2e0d8db2953562739bec3,mmorise_world
+3f7e7acb71ea8d0a8defb5804d9797656a29bab4,6491e72ea674c6c0b3c283144e7bf81999f37909,['04d7d3beb54d07a7acf83d8d1e4cf32b4949651a'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821478,+0100,"Moved cheaptrick.h into world/cheaptrick.h.
+",3f7e7acb71ea8d0a8defb5804d9797656a29bab4,mmorise_world
+3f942338639edef2628abd1496d36a27f4edd984,fa9f6a044134de38e310617e9f7ff8087f167fd5,['3f010dc35139d7f8bbc2e0d8db2953562739bec3'],mmorise <masanori.morise@gmail.com>,1489329532,+0900,GitHub <noreply@github.com>,1489329532,+0900,Update README.md,3f942338639edef2628abd1496d36a27f4edd984,mmorise_world
+3fa9059e58441ede5a3c36bc54b3836444259e27,3e01b530fa685a327f9b076de4cb382bea209021,['efcd7bb307ec6c163c836a080746fa663750dff0'],GloomyGhost <gloomyghost@foxmail.com>,1634050455,+0800,GloomyGhost <gloomyghost@foxmail.com>,1634050455,+0800,"add build option WORLD_BUILD_TESTS to build test
+",3fa9059e58441ede5a3c36bc54b3836444259e27,mmorise_world
+4031229d69309de7453309be4270d57b7b3e16f5,3a7a5e2bfd6ba7b381e11760694ac946d3923c3b,['e50531a8aaf5b915bcdb65dcb1e032db00179c6d'],Giulio Paci <giuliopaci@gmail.com>,1454405242,+0100,Giulio Paci <giuliopaci@gmail.com>,1454408995,+0100,"Do not use const for methods that destroy objects in dio.cpp.
+",4031229d69309de7453309be4270d57b7b3e16f5,mmorise_world
+40ad3165bcb489f0ed236977bf48cfef5f65aca3,ad2e9c46d8ae2bfcb57058798ffc27722289748c,"['c1db8af8b7e6825012507e9303c9850e2a397637', 'a9191e221e0c66795817d56a89f42c74edc021b3']",mmorise <masanori.morise@gmail.com>,1590126266,+0900,GitHub <noreply@github.com>,1590126266,+0900,"Merge pull request #96 from malyasova/master
+
+Removed unused variable p from function interp1",40ad3165bcb489f0ed236977bf48cfef5f65aca3,mmorise_world
+4106300cc14dfc917ebcb1d8daaca997201efb67,d56dcc013ff1473077e85badcd24b3bc2703ed68,"['d1caa89ad2af931bf5dca173b011e651c6c850d9', '7e5442c7fe777032693b0abf75b7f65c198d0641']",mmorise <masanori.morise@gmail.com>,1488638711,+0900,GitHub <noreply@github.com>,1488638711,+0900,"Merge pull request #22 from wuaalb/working
+
+Fixed const correctness Synthesis()",4106300cc14dfc917ebcb1d8daaca997201efb67,mmorise_world
+4133ccb90c9c6bd095d06b93f70529e0b86c2d5e,b9377c77a99f495af908cb497345ba9c1aeec9d2,['66d1d4103aed870daf17a986a1167a6350f7f000'],Giulio Paci <giuliopaci@gmail.com>,1454026748,+0100,Giulio Paci <giuliopaci@gmail.com>,1454398775,+0100,"Fix headers dependency in makefile.
+",4133ccb90c9c6bd095d06b93f70529e0b86c2d5e,mmorise_world
+414daa6d004bef53863b6cf25ae7a5bb9c9f2dc8,8dbed30c2c9bde70add556c81eed7b8edea2402e,['a041d8a6eadfd3e490790162cf7d6a6690b99196'],mmorise <masanori.morise@gmail.com>,1490023076,+0900,GitHub <noreply@github.com>,1490023076,+0900,A typo was fixed.,414daa6d004bef53863b6cf25ae7a5bb9c9f2dc8,mmorise_world
+431e548928dbe10c84a4fc6597585cb801adf5ff,96e6d8630d3474db8508b365e51dd75b4e5a5834,['d60b2d55b8b49944c70ee1a3e431e8ec45b17d68'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from matlabfunctions.h.
+",431e548928dbe10c84a4fc6597585cb801adf5ff,mmorise_world
+45e239c96bed623195be3d9bae17768772cf2e44,e9b8bb82004524cbee3d4373fee9fa68124585d2,"['9b06a08ac6e131d22ce0d87468c2050a06f6c97c', '9a26692aff144db923daa7e6c75404ea6c9d9cbd']",mmorise <masanori.morise@gmail.com>,1520599738,+0900,GitHub <noreply@github.com>,1520599738,+0900,"Merge pull request #63 from gillesdegottex/master
+
+CheapTrick does not reproduce the exact same numerical value for each run",45e239c96bed623195be3d9bae17768772cf2e44,mmorise_world
+4610c461c2aff558ad65a27729bf6f6fadd00196,b0b8d176c447098db9cde64d65e9674b11d2f1ae,"['04d7d3beb54d07a7acf83d8d1e4cf32b4949651a', 'ba5d36f05276eef7fe79d3e37ed80f8ccbebb50a']",mmorise <masanori.morise@gmail.com>,1457016866,+0900,mmorise <masanori.morise@gmail.com>,1457016866,+0900,"Merge pull request #9 from giuliopaci/master
+
+Move world headers in a ""world"" directory",4610c461c2aff558ad65a27729bf6f6fadd00196,mmorise_world
+46a6d6df3a15628a7de5f00df7fa0f5f3f86ac11,348ab85883db36cc8942588eff46f8febfac4d5b,['cf9be54fb886f67748e2350f422411ab9ed61ec7'],mmorise <mmorise@yamanashi.ac.jp>,1482847770,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482847770,+0900,"D4C was modified (Love Train was added)
+",46a6d6df3a15628a7de5f00df7fa0f5f3f86ac11,mmorise_world
+47747a0544727109e59e8b43f427746790f85d2f,50acf1039b5215c1e3ae5df30147140c18ad94d4,['ff031b927b34b33344f63bc0e456eb13668055fb'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in matlabfunctions.cpp.
+",47747a0544727109e59e8b43f427746790f85d2f,mmorise_world
+47a9910e4a88735b569c64f7daf92083fc0d0434,97c13fd6128c3af8316db99b211de38c5e19cbb4,['90fee16e1a774e7965e3ed2cd15a0cf1daa23f5a'],mmorise <masanori.morise@gmail.com>,1485957830,+0900,GitHub <noreply@github.com>,1485957830,+0900,Update synthesisrealtime.cpp,47a9910e4a88735b569c64f7daf92083fc0d0434,mmorise_world
+4864223b28c8cc12f218990740b6327137b464c7,c6d5aeed8c5f3172c581f75299c901f56552504b,['e0127e1a796d1d59babd5bd700b41877a66cde4d'],Giulio Paci <giuliopaci@gmail.com>,1456494486,+0100,Giulio Paci <giuliopaci@gmail.com>,1456501339,+0100,"Add const keyword on input vector to Dio() in dio.cpp.
+",4864223b28c8cc12f218990740b6327137b464c7,mmorise_world
+4962378dd9eb099c8109fbfd0ba1b7981a7d02bc,3acacdcb21d07202ab20b3f55d1aa700fe338000,['f049f5fd826b2df9a99f58b49751f0095ad09a86'],Katsuya Iida <katsuya.iida@gmail.com>,1614429389,+0900,Katsuya Iida <katsuya.iida@gmail.com>,1614429389,+0900,"Build error with VisualStudio 2019 Debug|x64
+",4962378dd9eb099c8109fbfd0ba1b7981a7d02bc,mmorise_world
+4a284f0403042a834a93dbb07952ff29ea125b46,96f291b14c6bb137e61158265dc5c1965a962e88,['3e65619ae1075a889bd3064db06d884622929d74'],Giulio Paci <giuliopaci@gmail.com>,1457021570,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added -Isrc option to world library compilation in makefile.
+",4a284f0403042a834a93dbb07952ff29ea125b46,mmorise_world
+4b93345e629e3c6427f2a719b389aef5d3acd38c,0eb7d57e75fbc78a86e7264f7cdd790c1e977cbc,['cc95d655c00ce1943cf70f39e229b6e633158542'],Masanori Morise <masanori.morise@gmail.com>,1454343094,+0900,Masanori Morise <masanori.morise@gmail.com>,1454343094,+0900,"Modification (test.cpp) for more safe implementation
+",4b93345e629e3c6427f2a719b389aef5d3acd38c,mmorise_world
+4c353abb92a6f0e986bb7476d895be1f388b87a9,252b77aa2adf35bfe92f73d202eaf3c450143c1b,['dc377c585e28469556ca4cbfb478a76358cac1e1'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to stonemask.h.
+",4c353abb92a6f0e986bb7476d895be1f388b87a9,mmorise_world
+4cb248ae04d36f7a035befd187dfa31b7409ea2f,e3f9998304c28bbaa69e84e1a54ac27d2c90a64f,['4da32d89cdcb7951aabe9c2caf20d67d32fda09f'],mmorise <masanori.morise@gmail.com>,1477383901,+0900,GitHub <noreply@github.com>,1477383901,+0900,Fix a minor bug,4cb248ae04d36f7a035befd187dfa31b7409ea2f,mmorise_world
+4d777bf55fc2a9ba73987708fc53195e971e89f8,935f924efd07b92cbbc3cfdb981669eee65a4353,"['ccd3489d9a4804a5519925cf206fd0c4eb6e636c', '5048be9fd720d40ea1d89390e5ed26d5e6a0080b']",mmorise <masanori.morise@gmail.com>,1454410021,+0900,mmorise <masanori.morise@gmail.com>,1454410021,+0900,"Merge pull request #5 from giuliopaci/master
+
+Changes in comments and const usage",4d777bf55fc2a9ba73987708fc53195e971e89f8,mmorise_world
+4da32d89cdcb7951aabe9c2caf20d67d32fda09f,c7a4a0c73848b40541453c1f2652fd5f3b268c76,"['fddaba28e6c2c7ef2f0c4f43c3c42a3e35e6e3d0', '1ac4b7f7a7319afa4cecda7d3f90cb5d0eb54382']",mmorise <masanori.morise@gmail.com>,1477383830,+0900,GitHub <noreply@github.com>,1477383830,+0900,"Merge pull request #12 from seblemaguer/adding_programs
+
+Refactoring the code to be more flexible",4da32d89cdcb7951aabe9c2caf20d67d32fda09f,mmorise_world
+4edc2fe63bb5ddb3ec4b719fd55a42bac6f1b0e3,f0226d47db5f2f36a014d5349c03c851a636cd90,['e52120868bdf2534af5dbf9cf8734899b631fa83'],mmorise <mmorise@yamanashi.ac.jp>,1493624439,+0900,mmorise <mmorise@yamanashi.ac.jp>,1493624439,+0900,"Several bugs were fixed
+",4edc2fe63bb5ddb3ec4b719fd55a42bac6f1b0e3,mmorise_world
+4ff9d09470f02ec664f4a53de8bc1d3916739e93,f4c36312e3b07f13b28e23503101bda689c09432,"['2c9d3030bf04516bdc19c0afa1ea5571eaaa2c59', '8ed8a2d2f66b770f860d50792ec2b27e290d8694']",mmorise <masanori.morise@gmail.com>,1626688127,+0900,GitHub <noreply@github.com>,1626688127,+0900,"Merge pull request #123 from kaiidams/dev
+
+Update .gitignore for VS 2015 and 2019.",4ff9d09470f02ec664f4a53de8bc1d3916739e93,mmorise_world
+503953c9ba9fd14309ec23115c6776c573f96eb9,118018873ab08ca2b0fd8b0140d60a575abca05a,['9d7a58f3e53b2f901da7bdc535ceee43bc93b3a5'],mmorise <masanori.morise@gmail.com>,1475390600,+0900,GitHub <noreply@github.com>,1475390600,+0900,References section was added.,503953c9ba9fd14309ec23115c6776c573f96eb9,mmorise_world
+5048be9fd720d40ea1d89390e5ed26d5e6a0080b,935f924efd07b92cbbc3cfdb981669eee65a4353,['860eac347ffec769a7efae59a11349197ae0a818'],Giulio Paci <giuliopaci@gmail.com>,1454405986,+0100,Giulio Paci <giuliopaci@gmail.com>,1454408995,+0100,"Fixed fast_fftfilt prototype in matlabfunctions.cpp.
+",5048be9fd720d40ea1d89390e5ed26d5e6a0080b,mmorise_world
+5052ce1157fe93b89caf617718332e47615567cf,2c6ddde712154116f81641203b35d0c9f045644a,['337730b6756e32213d351c3eab60443c451ef9a3'],Boyuan Deng <contact@boyuandeng.me>,1479286424,+0800,Boyuan Deng <contact@boyuandeng.me>,1479286424,+0800,"Minor fix for examples' Makefile
+",5052ce1157fe93b89caf617718332e47615567cf,mmorise_world
+520efd808a70b6a40299a571f8a3ffc8b85cf4cc,23762ec87e9b46f066573f168cb8201046bd0b76,['5641e1285e57210e8558e154212ab6ada0fd3bea'],Kanru Hua <k.hua.kanru@ieee.org>,1519424014,-0600,Kanru Hua <k.hua.kanru@ieee.org>,1519424014,-0600,"Use explicit int sizes.
+",520efd808a70b6a40299a571f8a3ffc8b85cf4cc,mmorise_world
+526dc85a39472bc2f940389da9f4cc0b200f4410,39c809259c2bf36075db10adfb2ff19e42daca65,['74e1ab74ca6eff530a6ef1ccf17b8aa4307cba2a'],Giulio Paci <giuliopaci@gmail.com>,1454368628,+0100,Giulio Paci <giuliopaci@gmail.com>,1454399123,+0100,"Made use of C99 explicit in makefile.
+",526dc85a39472bc2f940389da9f4cc0b200f4410,mmorise_world
+5641e1285e57210e8558e154212ab6ada0fd3bea,e0e834f5d6010d64d42fb760393efb2a8395dc4d,['6e3b51d5407cb443a14ec8d02510f2a4963e0c7a'],Kanru Hua <k.hua.kanru@ieee.org>,1519423673,-0600,Kanru Hua <k.hua.kanru@ieee.org>,1519423673,-0600,"Fix a bug in the random number generator.
+",5641e1285e57210e8558e154212ab6ada0fd3bea,mmorise_world
+565bc6ca8d119af15694495024483645b90bb20e,d901eed8657028f23b984be99725bb0a7371f2cc,['d6f8c56a7e2c3701b5ac468dc9fcd3d3928d1ce1'],mmorise <masanori.morise@gmail.com>,1482202635,+0900,GitHub <noreply@github.com>,1482202635,+0900,minor bug was fixed,565bc6ca8d119af15694495024483645b90bb20e,mmorise_world
+5784901b819c2e07772518546265099398c02497,6f51d6fbaca9bba6c82e9f809f2190ef2316e832,['d10012bd0856f91d89f4995169b56febb1412db1'],mmorise <masanori.morise@gmail.com>,1491137600,+0900,GitHub <noreply@github.com>,1491137600,+0900,Update analysis.cpp,5784901b819c2e07772518546265099398c02497,mmorise_world
+5909a863daf3b15f968c4ae3f03669b4321b9aa7,365e59ddb1d1210bf778e90e11de5cac3c63edf5,['ab2374ade007a4177b8a9c06102c9339a5ca37ff'],mmorise <masanori.morise@gmail.com>,1477391077,+0900,GitHub <noreply@github.com>,1477391077,+0900,fix the appearance,5909a863daf3b15f968c4ae3f03669b4321b9aa7,mmorise_world
+59a6c03347ffb5709c48b734f623540941cf04ff,c8ca71aea314c0a5a82475cc7a05f796468122aa,['2dfda44113cad95186f9334d2089991fb3941560'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in dio.cpp.
+",59a6c03347ffb5709c48b734f623540941cf04ff,mmorise_world
+5a42a77678500da62f4e1c3e8e8c84ad74b5a591,4cc30af0a1ecbd818aa1ac8926dd192722ae8265,['a453db6ffafb59aef29451337d08305669984152'],mmorise <masanori.morise@gmail.com>,1522499876,+0900,GitHub <noreply@github.com>,1522499876,+0900,add a link to world-class that is a C++ library,5a42a77678500da62f4e1c3e8e8c84ad74b5a591,mmorise_world
+5b839b2e0e6b3210badc4979b1c332380f6f628d,eddbd347aa06be67893dfdada99a1ecb5a7f8cda,['71713fa058ea584c786c442a411b14cd2efd0db2'],mmorise <mmorise@yamanashi.ac.jp>,1520604990,+0900,mmorise <mmorise@yamanashi.ac.jp>,1520604990,+0900,"minor bug was fixed
+",5b839b2e0e6b3210badc4979b1c332380f6f628d,mmorise_world
+5bb6562a21dbf5d7ac7bd7d197bfcd87ef13e293,3e57ec229bb2e812ce0470bf420130ab85ef0d0c,['a3282b028ee57f13da324f19ce35b5b5f7031e3f'],Masanori Morise <masanori.morise@gmail.com>,1453978447,+0900,Masanori Morise <masanori.morise@gmail.com>,1453978447,+0900,"Audio I/O functions were moved from matlabfunctions
+",5bb6562a21dbf5d7ac7bd7d197bfcd87ef13e293,mmorise_world
+5e15a5a9c47aca2296bbe7f0c0d5e27063fa46db,8430081bb47db423a0443bb704c71717d9aac5b1,['eef716690a26ce31bbe2ebfab06f9e572744eab1'],mmorise <mmorise@yamanashi.ac.jp>,1495291643,+0900,mmorise <mmorise@yamanashi.ac.jp>,1495291643,+0900,"Codec and CheapTrick were modified.
+",5e15a5a9c47aca2296bbe7f0c0d5e27063fa46db,mmorise_world
+5e330acf1098f5a84232f9b272adda9fb63a2a70,80b2ab19b19cdffea1b80d96a13ce41b2a617099,['e29cd90abc306a26817d6c081cbad0a1779d7162'],sabonerune <102559104+sabonerune@users.noreply.github.com>,1729071269,+0900,sabonerune <102559104+sabonerune@users.noreply.github.com>,1729071269,+0900,"feat: randn without the global variables.
+",5e330acf1098f5a84232f9b272adda9fb63a2a70,mmorise_world
+5e3359cf00dca12ddfc4c1d94a77e3e8a393ba05,2c12ecc7ea48b8b21d72123e8d324068570975f3,['2ca2c3dd32efc6cb28b420bfd4ec1ed26d769459'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in common.cpp.
+",5e3359cf00dca12ddfc4c1d94a77e3e8a393ba05,mmorise_world
+5e5569be2984e266b24190efbee4503181746f7a,d2c8203bbceedb79ac0a1b0f260822a7172ada8e,['c41e580c24c8d360f322ba6e2092ad4785d2d5b9'],mmorise <masanori.morise@gmail.com>,1525584955,+0900,GitHub <noreply@github.com>,1525584955,+0900,Update README.md,5e5569be2984e266b24190efbee4503181746f7a,mmorise_world
+5f99860e6883f51e4649d8788d6282e45556764e,7f5e9062650c7df0d2da2552f441595745ae7ae4,['4b93345e629e3c6427f2a719b389aef5d3acd38c'],mmorise <masanori.morise@gmail.com>,1454343178,+0900,mmorise <masanori.morise@gmail.com>,1454343178,+0900,Update README.md,5f99860e6883f51e4649d8788d6282e45556764e,mmorise_world
+5fcb769167ac8696d5d21225b8a47617979bdd47,8da9a6aaadf957387f228bf1a77d5180c19fff46,['414daa6d004bef53863b6cf25ae7a5bb9c9f2dc8'],mmorise <mmorise@yamanashi.ac.jp>,1490194510,+0900,mmorise <mmorise@yamanashi.ac.jp>,1490194510,+0900,"Functions for aperiodicity codec were added.
+",5fcb769167ac8696d5d21225b8a47617979bdd47,mmorise_world
+603b4fde77850daf2a7390e6a8a7cd8903523802,475e5bb59ec41408b394667b473495f5bdb8178a,['2f81414b7aa0474958b9ce6143fe57a9b301f531'],Masanori Morise <masanori.morise@gmail.com>,1461050843,+0900,Masanori Morise <masanori.morise@gmail.com>,1461050843,+0900,"project file is modified.
+",603b4fde77850daf2a7390e6a8a7cd8903523802,mmorise_world
+6190216ab8a35544623cf3e2f0cd02ceb330a56c,90bc3e05d1b9b6470b11934c2594f6d0b7a3252f,['f8c7a9e3d219a4bccef2e228f39f4d9400e7efe2'],Giulio Paci <giuliopaci@gmail.com>,1456821314,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Fix include directives in ctest.c.
+",6190216ab8a35544623cf3e2f0cd02ceb330a56c,mmorise_world
+643c65ca5961db32c97bb8680f00cb7978bbba2d,14c8fce2bd3433f8695dd80ca75103b4444a89e4,['e714fe9219faa509b281720acaa1c8143e473bec'],mmorise <masanori.morise@gmail.com>,1477445958,+0900,GitHub <noreply@github.com>,1477445958,+0900,Add header information,643c65ca5961db32c97bb8680f00cb7978bbba2d,mmorise_world
+65f724f333635ca0d5869a0a2c52df599ef4ba7a,24591b4b20a0b831a413fcb5f2d06b378ba1887e,['e4c2efdbc7ffe79c38c7de59a1b22590ccaf1b51'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in stonemask.cpp.
+",65f724f333635ca0d5869a0a2c52df599ef4ba7a,mmorise_world
+66b2599e8079b72487706cf8185ea30c54701b9d,ed6fd97b82688859dcd317d661e4e2258ee9e184,['cef76bd1d6fa180568f23f134bc9fd67c3e42b7d'],Giulio Paci <giuliopaci@gmail.com>,1453480454,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to cheaptrick.h.
+",66b2599e8079b72487706cf8185ea30c54701b9d,mmorise_world
+66d1d4103aed870daf17a986a1167a6350f7f000,65e228fa289017a32fcca50bebccffafd887e12e,['5f99860e6883f51e4649d8788d6282e45556764e'],Giulio Paci <giuliopaci@gmail.com>,1454026647,+0100,Giulio Paci <giuliopaci@gmail.com>,1454398775,+0100,"Improve variables usage in makefile.
+",66d1d4103aed870daf17a986a1167a6350f7f000,mmorise_world
+66e5dcdfcd368f21429d815ad6bf9b14aa9d46a8,a6339945f14a65c0a14c1f614821c3071c7472d9,['9721584a583af897e6b0c68653ebacb06289280b'],Ryuichi Yamamoto <zryuichi@gmail.com>,1592129807,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1592129807,+0900,"Fix FixStep2: use of un-initialiazed value
+
+f0_step[i] (i.e. tmp_f0_contour2[i]) was not initialized if f0_base[i] = 0,
+resulting occasional undefined behavior/seg faults.
+Fixed by initializing them to zeros.
+",66e5dcdfcd368f21429d815ad6bf9b14aa9d46a8,mmorise_world
+68ac32067c12261b499ff1fa26987b1a44fac5bf,97357fd56222716edddbe51f3ad505baea5cc177,['a3b27e8e240de7f3d556cc7f2535f5fc0f059738'],mmorise <masanori.morise@gmail.com>,1477387655,+0900,GitHub <noreply@github.com>,1477387655,+0900,Create README.md,68ac32067c12261b499ff1fa26987b1a44fac5bf,mmorise_world
+695ddfee3dd7005f8dd53f0479662eb3bdfe3ddc,ce2dfa8637de7a5252dcee1b2d8138588be0c436,['cddd369a24c6814e33c6044a6a7dc633f2d4f862'],Masanori Morise <masanori.morise@gmail.com>,1449027704,+0900,Masanori Morise <masanori.morise@gmail.com>,1449027704,+0900,"A unnecessary file was removed
+",695ddfee3dd7005f8dd53f0479662eb3bdfe3ddc,mmorise_world
+6979fa04f05b453cead623de9352a6f4bbd6c6a3,1464481d46ed7d7608813c2bb238b4eb6e30a1ad,['cb49f4f2901423b6f9a7941dcc922f3534b3d194'],mmorise <mmorise@yamanashi.ac.jp>,1496934832,+0900,mmorise <mmorise@yamanashi.ac.jp>,1496934832,+0900,"Refactoring
+",6979fa04f05b453cead623de9352a6f4bbd6c6a3,mmorise_world
+698975830d728d50e1004f9186b36a8225cb604a,1ebc77562fdf627b35317ffa8c90fb72fee19a50,['bc2d7cbe6177d92c833d596c536b337d6d6f9ea9'],mmorise <mmorise@yamanashi.ac.jp>,1544694632,+0900,mmorise <mmorise@yamanashi.ac.jp>,1544694632,+0900,"Synthesis functions were refactored
+",698975830d728d50e1004f9186b36a8225cb604a,mmorise_world
+69b13cfc36856153a302590789a0741a9ba49100,6fc11cb8d190324bf11d259b862e24900ae88762,"['4ff9d09470f02ec664f4a53de8bc1d3916739e93', '73f2527232d00f0c17b8920434a77fb666aa1909']",mmorise <masanori.morise@gmail.com>,1635130317,+0900,GitHub <noreply@github.com>,1635130317,+0900,"Merge pull request #130 from YuzukiTsuru/master
+
+Added some compilation options",69b13cfc36856153a302590789a0741a9ba49100,mmorise_world
+69f46890e5ee40c4c5829529e374d344a6d58e4c,e38a920ae0a56e306bbc0de356f7dff7414d9cdd,['dae3e86c844c319164e4074ae3e3b0bb22b715b7'],Giulio Paci <giuliopaci@gmail.com>,1453462513,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821836,+0100,"Added macrodefinitions.h.
+",69f46890e5ee40c4c5829529e374d344a6d58e4c,mmorise_world
+6bd04a4c7363f586b7630b1c634eaf3ce6a451c7,8f48aeb012b7e4985abde26bb0941f0c2ccf10c2,['0dd60c2d94fb902b33bf0c4043bdcb7e3c870e26'],Giulio Paci <giuliopaci@gmail.com>,1453464220,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821951,+0100,"Report error codes on errors in test.cpp.
+",6bd04a4c7363f586b7630b1c634eaf3ce6a451c7,mmorise_world
+6bdaf937a560e7e25c4b8791c50ca3b32304c163,ed5d68a10796679740ddf9963a41c5ff71873cbd,['5bb6562a21dbf5d7ac7bd7d197bfcd87ef13e293'],Masanori Morise <masanori.morise@gmail.com>,1453978591,+0900,Masanori Morise <masanori.morise@gmail.com>,1453978591,+0900,"Update for the latest version
+",6bdaf937a560e7e25c4b8791c50ca3b32304c163,mmorise_world
+6c182bdd1097493eb8b817ed675ef81a1d3b18aa,a8098552202bbf64b9ba797950d20ed2c2a0c6f5,['d49906443f7ce6117460fd589b9bee348b174032'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in common.cpp.
+",6c182bdd1097493eb8b817ed675ef81a1d3b18aa,mmorise_world
+6dc8dc60e666caa354040799c08a4ebc9569c012,105ef623787cdf20c5aee0d922f23ed1acf6dc1e,['9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42'],but80 <mersenne.sister@gmail.com>,1568982594,+0900,but80 <mersenne.sister@gmail.com>,1568982802,+0900,"Resolve build errors on MinGW
+",6dc8dc60e666caa354040799c08a4ebc9569c012,mmorise_world
+6e3b51d5407cb443a14ec8d02510f2a4963e0c7a,830820624cbd0a1e14150d0af0712bcd0ee68a1c,['dd6f1006573f39614d1c9eb79865bcebd9987fb8'],mmorise <masanori.morise@gmail.com>,1516623204,+0900,GitHub <noreply@github.com>,1516623204,+0900,Bug fix in calculating instantaneous frequency.,6e3b51d5407cb443a14ec8d02510f2a4963e0c7a,mmorise_world
+6ea44b7316ad5d69c654f4cc15464302de270a7a,e34d50ba589365d426910d0176d8258f8e9371a9,['0d9b27b7f1f6a66bcafb8065125527ae37ff19ca'],mmorise <masanori.morise@gmail.com>,1496936015,+0900,GitHub <noreply@github.com>,1496936015,+0900,Fix a typo,6ea44b7316ad5d69c654f4cc15464302de270a7a,mmorise_world
+6ea4955205cddf0ef0fa3668cf0e439b27c67855,105ef623787cdf20c5aee0d922f23ed1acf6dc1e,"['9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42', '6dc8dc60e666caa354040799c08a4ebc9569c012']",mmorise <masanori.morise@gmail.com>,1569141689,+0900,GitHub <noreply@github.com>,1569141689,+0900,"Merge pull request #89 from but80/mingw
+
+Resolve build errors on MinGW",6ea4955205cddf0ef0fa3668cf0e439b27c67855,mmorise_world
+6eff6831a53f75c1837f5fed742ac35079b48e3f,7fde24f91df7d6cdf00e76c2c0aa80606757a0c1,['832d701d006764bc8cd8a46958231d9053925d81'],mmorise <mmorise@yamanashi.ac.jp>,1489328908,+0900,mmorise <mmorise@yamanashi.ac.jp>,1489328908,+0900,"minor debug
+",6eff6831a53f75c1837f5fed742ac35079b48e3f,mmorise_world
+6fcc5e93a43fd7c9f439b3d22546aa4268a3d3ea,68120e5975b8289ab7350ba9c1afb6db98326557,['04bdec30a91ed01834c14bef061cff3453276ec9'],mmorise <masanori.morise@gmail.com>,1483344039,+0900,GitHub <noreply@github.com>,1483344039,+0900,Update analysis.cpp,6fcc5e93a43fd7c9f439b3d22546aa4268a3d3ea,mmorise_world
+71713fa058ea584c786c442a411b14cd2efd0db2,2411d2bd4deef6a42aa321eefdaddad1f2991a83,['147ea09c8addfdc19a1c8d0aa2e2cdd308d9e19a'],mmorise <mmorise@yamanashi.ac.jp>,1520601248,+0900,mmorise <mmorise@yamanashi.ac.jp>,1520601248,+0900,"random seed is fixed in D4C() and synthesis()
+",71713fa058ea584c786c442a411b14cd2efd0db2,mmorise_world
+73f2527232d00f0c17b8920434a77fb666aa1909,6fc11cb8d190324bf11d259b862e24900ae88762,['e9c8819f3d96354c8cf635c4c5d3f648e963f373'],YuzukiTsuru <740291272@qq.com>,1634134092,+0800,YuzukiTsuru <740291272@qq.com>,1634134092,+0800,"forgot the foreach
+",73f2527232d00f0c17b8920434a77fb666aa1909,mmorise_world
+74a32ec3ee6ab72000f238ae114d2d876518ae2b,0769a7a586cf65c1388104fc5b7e68a6b33f5ad4,['8fa338102f83040c0c262632ffbfb8fe8279bf37'],mmorise <masanori.morise@gmail.com>,1454321869,+0900,mmorise <masanori.morise@gmail.com>,1454321869,+0900,Update styleguide.txt,74a32ec3ee6ab72000f238ae114d2d876518ae2b,mmorise_world
+74e1ab74ca6eff530a6ef1ccf17b8aa4307cba2a,2c86401c3e881804951e62e3ee4118b74ffb1c26,['0c42cf66cff7f06ba6e284b50b4e68db1662fdad'],Giulio Paci <giuliopaci@gmail.com>,1454029108,+0100,Giulio Paci <giuliopaci@gmail.com>,1454399123,+0100,"Fix dependencies in makefile.
+",74e1ab74ca6eff530a6ef1ccf17b8aa4307cba2a,mmorise_world
+77f624989ab5e81e27a05d71d135fdbec7bf6db9,f4452993770555fcaa93e652f16ba8f6d9a7214e,['b42f9383d5b9c8b1e9b78775ee00289630c8573c'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to fft.h.
+",77f624989ab5e81e27a05d71d135fdbec7bf6db9,mmorise_world
+795c4690471dbee817f2dd04c879dcb6e8e86920,7ac7b4ff937d732e7c9ff7487315d272ddf40ae1,['a3cf075d9eb70a376f67a5732e053c27f38db952'],mmorise <masanori.morise@gmail.com>,1576662012,+0900,GitHub <noreply@github.com>,1576662012,+0900,Add files via upload,795c4690471dbee817f2dd04c879dcb6e8e86920,mmorise_world
+7973de66ee92cbc9723b0c0bf613ba44fc590311,5d770f12d6da0835abc0e36a3d3450e84029b62e,['f81ab080685e6e908cd44deb976cc60850eba4b3'],yamachu <yamachu.co@gmail.com>,1461066247,+0900,yamachu <yamachu.co@gmail.com>,1461066247,+0900,"remove redundant initializer
+",7973de66ee92cbc9723b0c0bf613ba44fc590311,mmorise_world
+7a474fa47ff313238ea2685e7c8aaa237ed59af7,25e6ce19220107ff550dd9ed21c1ad45ae97dc47,['aa8c4e6d55520818a186f04ee6e08bce1d820ae2'],mmorise <mmorise@yamanashi.ac.jp>,1516539222,+0900,mmorise <mmorise@yamanashi.ac.jp>,1516539222,+0900,"FFT functions were modified
+",7a474fa47ff313238ea2685e7c8aaa237ed59af7,mmorise_world
+7a50c8996cd314828144cf8feb9d7bf971bd1168,aef18cb183e40556a7983d3f395b40212f186f4d,['4edc2fe63bb5ddb3ec4b719fd55a42bac6f1b0e3'],Ryuichi Yamamoto <zryuichi@gmail.com>,1493642904,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1493642904,+0900,"Initial support for cmake
+",7a50c8996cd314828144cf8feb9d7bf971bd1168,mmorise_world
+7b8f50fc28894ed62d23a3142977486ea1288db0,e2c278d79017f59aac6a7178db7335cece551d71,"['3f942338639edef2628abd1496d36a27f4edd984', 'cdbf5de706cceb2f06db0c0d4cdaf4ec948a4321']",mmorise <masanori.morise@gmail.com>,1489370418,+0900,GitHub <noreply@github.com>,1489370418,+0900,"Merge pull request #23 from yamachu/fix/typo_apanalysis
+
+Fix typo apanalysis",7b8f50fc28894ed62d23a3142977486ea1288db0,mmorise_world
+7e51e7141a2f6719027caa76b922528a18b35e9d,f1b9cf8bcf900c5e16e56ba48efd7a52cafc082b,['40ad3165bcb489f0ed236977bf48cfef5f65aca3'],zhangyongchao <zhangyongchao@meituan.com>,1590650683,+0800,zhangyongchao <zhangyongchao@meituan.com>,1590650683,+0800,"Fix two bugs. 1. maybe divided by zero. 2.Index of power_spectrum beyond limit (It happens for some wav)
+",7e51e7141a2f6719027caa76b922528a18b35e9d,mmorise_world
+7e5442c7fe777032693b0abf75b7f65c198d0641,d56dcc013ff1473077e85badcd24b3bc2703ed68,['36ed78b27f9a8328f690bdcf04be6366072856b6'],wuaalb <merlijn.blaauw@gmail.com>,1488561454,+0100,wuaalb <merlijn.blaauw@gmail.com>,1488561454,+0100,"Fixed const correctness Synthesis()
+
+Was mutable array of mutable arrays, as constant pointer; now constant
+array of constant arrays, as mutable pointer.
+",7e5442c7fe777032693b0abf75b7f65c198d0641,mmorise_world
+7e7854ae368256c0c04a362bd92e0c1dd1f25672,069e56ba288fb0d962322e0f8c240ebd3fd1e4e8,['25dfe9b829da7437c5c487831a05ae023a0a2d51'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved fft.h into world/fft.h.
+",7e7854ae368256c0c04a362bd92e0c1dd1f25672,mmorise_world
+7f40082b1a2f37f52789944c9f9e301f47864802,7973338059e2a708efcf84e2739c6ee70d487129,"['6ea44b7316ad5d69c654f4cc15464302de270a7a', '897e8950e366c2c48f08943d5d7b6db7fd2b381d']",Yusuke Yamada <yamachu.dev@gmail.com>,1496944437,+0000,GitHub <noreply@github.com>,1496944437,+0000,"Merge 897e8950e366c2c48f08943d5d7b6db7fd2b381d into 6ea44b7316ad5d69c654f4cc15464302de270a7a
+",7f40082b1a2f37f52789944c9f9e301f47864802,mmorise_world
+8273535f13b65e6919de0a308bfa83e6f9fa7b3f,340cbc7670b4109ab510fa96c8d32854f08ceb31,['cfc64686bb1715b609aa48c9db8f0305e4814421'],mmorise <mmorise@yamanashi.ac.jp>,1519716037,+0900,mmorise <mmorise@yamanashi.ac.jp>,1519716037,+0900,"safeguard was added
+",8273535f13b65e6919de0a308bfa83e6f9fa7b3f,mmorise_world
+832d701d006764bc8cd8a46958231d9053925d81,71715c8c4dac93e76ed3594b3d559a3f60061de0,['f3474cc4528b6536d48568d06a8a767339d28111'],mmorise <mmorise@yamanashi.ac.jp>,1489328484,+0900,mmorise <mmorise@yamanashi.ac.jp>,1489328484,+0900,"minor debug
+",832d701d006764bc8cd8a46958231d9053925d81,mmorise_world
+8392d6be3310f91c31ee02e66eccf9846b5a76e6,bea0afa10dce85bc57a3cecbedc3cef3b292d3e1,['6bdaf937a560e7e25c4b8791c50ca3b32304c163'],Masanori Morise <masanori.morise@gmail.com>,1453979331,+0900,Masanori Morise <masanori.morise@gmail.com>,1453979331,+0900,"Update for the latest version
+",8392d6be3310f91c31ee02e66eccf9846b5a76e6,mmorise_world
+846ead44cb674cfc5e27fe7f1eedb5952248759c,cff35154e93952bb012f86cbe51df7743a662713,['35b438851d7801351b7dbbba83b7243188e7bf57'],mmorise <masanori.morise@gmail.com>,1608714147,+0900,GitHub <noreply@github.com>,1608714147,+0900,References were updated,846ead44cb674cfc5e27fe7f1eedb5952248759c,mmorise_world
+84c77a2271e28b0ffc8262383d44f279cce4ba32,e70123dd89556a89584554f8cc0c96064d883dd1,['695ddfee3dd7005f8dd53f0479662eb3bdfe3ddc'],Masanori Morise <masanori.morise@gmail.com>,1449047850,+0900,Masanori Morise <masanori.morise@gmail.com>,1449047850,+0900,"A minor bug was fixed
+",84c77a2271e28b0ffc8262383d44f279cce4ba32,mmorise_world
+84ea28cc9dda1cbc010caa7832af910b4a34e70e,25775a252e06ae13825b0ffc758ed71ca73149f4,['ccd3489d9a4804a5519925cf206fd0c4eb6e636c'],Giulio Paci <giuliopaci@gmail.com>,1454405217,+0100,Giulio Paci <giuliopaci@gmail.com>,1454408995,+0100,"Do not use const for methods that destroy objects in common.cpp.
+",84ea28cc9dda1cbc010caa7832af910b4a34e70e,mmorise_world
+84faa745ef0bc15ce27aafa8d31c6898622449ef,70271239d6f9770077e5696b4c9529e711a39b3a,['3e6cd5b8c265c1cc6320d5699af0af59c27af00f'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in stonemask.h.
+",84faa745ef0bc15ce27aafa8d31c6898622449ef,mmorise_world
+8580144b3e2353b570ea32991e9943602ff6f1a9,047bfce5bd95c7de39fba840ba7069030c13ae26,['2da91dd2f5870ff38599cdc75a71c2cc558e3819'],柚木鉉 <740291272@qq.com>,1625625229,+0800,柚木鉉 <740291272@qq.com>,1625625229,+0800,"fix CMake Warning in macOS, delete compile to shared library due to makefile not provide, update install script, add support for cmake submodule and find feature.
+",8580144b3e2353b570ea32991e9943602ff6f1a9,mmorise_world
+860eac347ffec769a7efae59a11349197ae0a818,f578fb351a821d3b4938bc2ac7eb7fdd3cac96b9,['4031229d69309de7453309be4270d57b7b3e16f5'],Giulio Paci <giuliopaci@gmail.com>,1454405453,+0100,Giulio Paci <giuliopaci@gmail.com>,1454408995,+0100,"Added a missing comment to common.cpp.
+",860eac347ffec769a7efae59a11349197ae0a818,mmorise_world
+866578a79f59afb0e69982a9248d8306cdc4affe,6079c327230346954f9495e36840dc8992a5f978,['5e3359cf00dca12ddfc4c1d94a77e3e8a393ba05'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in d4c.cpp.
+",866578a79f59afb0e69982a9248d8306cdc4affe,mmorise_world
+87841e01fd08a9993f380fdd1714be18d40a5ef1,cf54d33661a22ddcb96c4eb41896259e0bac2a56,['f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882'],3628800fr <3628800fr@gmail.com>,1582845677,-0600,3628800fr <3628800fr@gmail.com>,1582845728,-0600,"Add check for NaN in the accumulated power spectrum. In such cases, `1 - kMySafeGuardMinimum` is returned.
+
+NaN is sometimes introduced in the coarse aperiodicity estimation and then
+propagated during interpolation; this tends to occur when the input signal
+contains a strong single frequency in a band(s) of interest (for example,
+a pure 440Hz sine wave in part of the recording).
+",87841e01fd08a9993f380fdd1714be18d40a5ef1,mmorise_world
+87cdd19bf6ce273529023d52fa0e37484295c523,3af59e948b81b38b957f819dad99b93f4becb96f,['26896c08080592d5db2f18f6b8faa9d841c64a96'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from dio.h.
+",87cdd19bf6ce273529023d52fa0e37484295c523,mmorise_world
+886322ebcae4e0e4210d9814e46234f8530a98dc,df0801c329ced2940495608055d59b17c88b0daf,['bb785e586c6f7c7eb3b2b08841aa390d73abc8d8'],Masanori Morise <masanori.morise@gmail.com>,1457017904,+0900,Masanori Morise <masanori.morise@gmail.com>,1457017904,+0900,"Compile option in win.sln was added.
+",886322ebcae4e0e4210d9814e46234f8530a98dc,mmorise_world
+897e8950e366c2c48f08943d5d7b6db7fd2b381d,ab091d4f8c1a5cd0814e1e169e33b4d7250ad7be,['565bc6ca8d119af15694495024483645b90bb20e'],Yusuke Yamada <yusuke.yamada.t1@dc.tohoku.ac.jp>,1482282590,+0900,Yusuke Yamada <yusuke.yamada.t1@dc.tohoku.ac.jp>,1482282590,+0900,"add include cstdlib
+",897e8950e366c2c48f08943d5d7b6db7fd2b381d,mmorise_world
+8a561d9675d06651c5bbf4d0e0c671feb8b1c76b,21a5561c9c0a0b09e3486b47a87b7a4aae051253,['2a5959f47ce0340957b5d18d6e545f6266341773'],Shintaro Takemura <shintaro.takemura@dena.com>,1596020460,+0900,Shintaro Takemura <shintaro.takemura@dena.com>,1596020460,+0900,"feat: make HarvestGeneralBody adjusted_f0 controllable
+",8a561d9675d06651c5bbf4d0e0c671feb8b1c76b,mmorise_world
+8a69b0e9c041aeaeaddc577df3bf362ac6e930bd,d3978d80645e6b10d52ccae515159c962806bd60,['5e15a5a9c47aca2296bbe7f0c0d5e27063fa46db'],mmorise <masanori.morise@gmail.com>,1495291874,+0900,GitHub <noreply@github.com>,1495291874,+0900,Update README.md,8a69b0e9c041aeaeaddc577df3bf362ac6e930bd,mmorise_world
+8c02c1b1eb7debeee75426bc31c490b017d971f6,e5025c590c81722e997b22e77cfc019248162948,['dd24fab2b77c94749ba84513721444cecca91a76'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to d4c.h.
+",8c02c1b1eb7debeee75426bc31c490b017d971f6,mmorise_world
+8cdebf53a206c4fd692b25b99aa712e4f2c42c78,e59016cfc173bc9eac3bdd5738a988e7d6500164,['2600d04a4b14b5efe61385e5c79d551cdc65cfd8'],mmorise <masanori.morise@gmail.com>,1458990657,+0900,mmorise <masanori.morise@gmail.com>,1458990657,+0900,Update README.md,8cdebf53a206c4fd692b25b99aa712e4f2c42c78,mmorise_world
+8d79b88b7dd92e8a132996cf74080b2d6f881b98,31f8ae19c1f74dcb21c3b854bda7616524c61240,"['2bb515f684316b40173925a1e86eda286132744e', '5e330acf1098f5a84232f9b272adda9fb63a2a70']",mmorise <masanori.morise@gmail.com>,1729696092,+0900,GitHub <noreply@github.com>,1729696092,+0900,"Merge pull request #149 from sabonerune/feat/non-global-static-randn
+
+feat: randn without the global variables.",8d79b88b7dd92e8a132996cf74080b2d6f881b98,mmorise_world
+8db0a645571fa13ea7c5b63bbf6997ff85d21161,7b7eb0c51153439425670246b6c19b976dbca81d,['97edd2eb9bf8dbf3b4d36584d00ba69beab24280'],Masanori Morise <masanori.morise@gmail.com>,1461050525,+0900,Masanori Morise <masanori.morise@gmail.com>,1461050525,+0900,"project file is modified.
+",8db0a645571fa13ea7c5b63bbf6997ff85d21161,mmorise_world
+8e16f6ba861f13947002ec037ae8b1275a26ef65,273d4d0bffe18a15cf5386a8029b5af1b2c950e7,['a11d5338f2c0a91ea2168f0f45d0970bfaaac5b1'],Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491076099,-0300,Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491077919,-0300,"Change 'analysis_synthesis' example to save 'fs' and 'frame_period'
+",8e16f6ba861f13947002ec037ae8b1275a26ef65,mmorise_world
+8ed8a2d2f66b770f860d50792ec2b27e290d8694,f4c36312e3b07f13b28e23503101bda689c09432,['2c9d3030bf04516bdc19c0afa1ea5571eaaa2c59'],Katsuya Iida <katsuya.iida@gmail.com>,1626664806,+0900,Katsuya Iida <katsuya.iida@gmail.com>,1626664806,+0900,"Update .gitignore for VS 2015 and 2019.
+",8ed8a2d2f66b770f860d50792ec2b27e290d8694,mmorise_world
+8f2422df6d02863095b7d49cbd29427ec6dd68b1,96094c985d279653dce2008d4f8e727ada42eb3b,['9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42'],Rene Schallner <rene@rocks.ai>,1566161573,+0200,Rene Schallner <rene@rocks.ai>,1566161573,+0200,"Added isnan() check for tentative_f0 in GetTentativeF0, thus rejecting
+nan/-nan tentative_f0 values. Got these on large (50s) WAVs of
+synthesized speech.
+",8f2422df6d02863095b7d49cbd29427ec6dd68b1,mmorise_world
+8fa338102f83040c0c262632ffbfb8fe8279bf37,f69d3c1271c6b95475c861401b52a25faafae3a1,['908de6bfbe801a0e053d01a82c6578766084ee02'],mmorise <masanori.morise@gmail.com>,1454321577,+0900,mmorise <masanori.morise@gmail.com>,1454321577,+0900,Update README.md,8fa338102f83040c0c262632ffbfb8fe8279bf37,mmorise_world
+908de6bfbe801a0e053d01a82c6578766084ee02,71c1eedd470d3e9abb3f9710c9f999bc478eaf4a,['2dafb708c0ccae1300c8ecb7c4b295f1d262426d'],mmorise <masanori.morise@gmail.com>,1454321544,+0900,mmorise <masanori.morise@gmail.com>,1454321544,+0900,Update README.md,908de6bfbe801a0e053d01a82c6578766084ee02,mmorise_world
+90c75c6b00bec51db4371bee844f4aa19832490a,4a2e3ecd9b83a603a2f64ee1c31941fe3bc6df65,['3f7e7acb71ea8d0a8defb5804d9797656a29bab4'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821478,+0100,"Moved common.h into world/common.h.
+",90c75c6b00bec51db4371bee844f4aa19832490a,mmorise_world
+90fee16e1a774e7965e3ed2cd15a0cf1daa23f5a,64e36c38e991991988c6d7a2b40f724ef4fcf891,['085ff9a9c845b0cc62d6a226177de1afc035d635'],mmorise <mmorise@yamanashi.ac.jp>,1485956909,+0900,mmorise <mmorise@yamanashi.ac.jp>,1485956909,+0900,"Copyright message was simplified
+",90fee16e1a774e7965e3ed2cd15a0cf1daa23f5a,mmorise_world
+93645b6cd0ed1629c2164f6ba3913b4eff79a37c,11c1c966acf5964c4c8bf680e601a9d1c9672ed5,['603b4fde77850daf2a7390e6a8a7cd8903523802'],mmorise <masanori.morise@gmail.com>,1461051176,+0900,mmorise <masanori.morise@gmail.com>,1461051176,+0900,Update README.md,93645b6cd0ed1629c2164f6ba3913b4eff79a37c,mmorise_world
+9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42,2ca9bb7cc7fc8ac9862bb2d4c7bc71019898ffae,['dac5e44b72d505bcc280ac20040b694a268c174b'],mmorise <masanori.morise@gmail.com>,1565336403,+0900,GitHub <noreply@github.com>,1565336403,+0900,Update README.md,9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42,mmorise_world
+949fa249627d0252ad89906633ac5b45eb73e77c,d07e53574f1f110ee631a656177478e02eac9744,['c77e7b0c91dad02da5b656b3c70d95f311bacfa7'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved d4c.h into world/d4c.h.
+",949fa249627d0252ad89906633ac5b45eb73e77c,mmorise_world
+95066d4a190148a30445b809bb71898eee8e90bf,15a3061121b6f39e13a9ee5f6a535799bd52a9a5,"['69b13cfc36856153a302590789a0741a9ba49100', '146c22623adfde1d197fc1b6755de9a5e1ed33f9']",mmorise <masanori.morise@gmail.com>,1644321271,+0900,GitHub <noreply@github.com>,1644321271,+0900,"Merge pull request #136 from skitaoka/master
+
+fix `frequency_axis` in `GetParametersForCoding()`",95066d4a190148a30445b809bb71898eee8e90bf,mmorise_world
+953a4f470246f6ea02c7265ae381d7c424f30299,0f9f74fd021949143dc2a6255cf96b64c8b9fd6b,['f58724f7148a2be501b163f4561733daefb40889'],mmorise <masanori.morise@gmail.com>,1460703133,+0900,mmorise <masanori.morise@gmail.com>,1460703133,+0900,Update README.md,953a4f470246f6ea02c7265ae381d7c424f30299,mmorise_world
+9721584a583af897e6b0c68653ebacb06289280b,8e7642fbc5c06e275a36521a0bd6abd61082d032,['b4375f3f7a03693b0fbdb3f44b1ab9c720a9aeef'],mmorise@meiji.ac.jp <mmorise@meiji.ac.jp>,1591692842,+0900,mmorise@meiji.ac.jp <mmorise@meiji.ac.jp>,1591692842,+0900,"Test for VS (no modification in the source code)
+",9721584a583af897e6b0c68653ebacb06289280b,mmorise_world
+9750c79a84d6e35243ab846e73c74d868047318a,b740f69937fb56b8c72123f14d1be861be874b6a,['a80bba99a1d8c5b8b1fd1542a95ce0cfc4fab10a'],lixian <shysian@gmail.com>,1512463546,+0800,lixian <shysian@gmail.com>,1512463546,+0800,"multi-thread works
+",9750c79a84d6e35243ab846e73c74d868047318a,mmorise_world
+9762f3795f3077c82558373d8f9bc15207e9eff0,c088c7a8619e965917e4a45fa492d7f19b7b2782,['b0a397781125a7e9856359d932e8411966014db9'],mmorise <masanori.morise@gmail.com>,1488681898,+0900,GitHub <noreply@github.com>,1488681898,+0900,Update synthesis.cpp,9762f3795f3077c82558373d8f9bc15207e9eff0,mmorise_world
+979ac087a22f7e1ce444518fa81a2a38f5127f28,b8c56cb4c1d1ddb1aedb0a8291bc63318e1a5eff,['1ce42c397c7733d9199a8c4eb013090d9535ae97'],Masanori Morise <masanori.morise@gmail.com>,1448789614,+0900,Masanori Morise <masanori.morise@gmail.com>,1448789614,+0900,"Several minor changes and a bug fix
+",979ac087a22f7e1ce444518fa81a2a38f5127f28,mmorise_world
+97e64fce706139f2e13029ce11b223cbad77226f,dbbdd4b9a968bb1362c26e7c7e832a2925dd7c20,"['1f8815f7a85e344ea9f98ca6b1383578a161d4e2', 'c2f950b92fb71c599786fa2e2a0bfc2ee61c7b08']",mmorise <masanori.morise@gmail.com>,1599824308,+0900,GitHub <noreply@github.com>,1599824308,+0900,"Merge pull request #103 from SeleDreams/cmakelists
+
+Added cmake file to make building on multiple OSes and IDEs easier",97e64fce706139f2e13029ce11b223cbad77226f,mmorise_world
+97edd2eb9bf8dbf3b4d36584d00ba69beab24280,21575972419b911d9fab03a805983974a2cb1a29,['953a4f470246f6ea02c7265ae381d7c424f30299'],Masanori Morise <masanori.morise@gmail.com>,1461050299,+0900,Masanori Morise <masanori.morise@gmail.com>,1461050299,+0900,"Real-time synthesizer is added, and minor bug fix.
+",97edd2eb9bf8dbf3b4d36584d00ba69beab24280,mmorise_world
+9829493a3527acee9f83988d201502abe2d1cb1f,2c6ddde712154116f81641203b35d0c9f045644a,"['337730b6756e32213d351c3eab60443c451ef9a3', '5052ce1157fe93b89caf617718332e47615567cf']",mmorise <masanori.morise@gmail.com>,1479290809,+0900,GitHub <noreply@github.com>,1479290809,+0900,"Merge pull request #13 from bryandeng/make-fix
+
+Minor fix for examples' Makefile",9829493a3527acee9f83988d201502abe2d1cb1f,mmorise_world
+9a0532b49f9badcef2e3856f96e6aae6917736cd,da0bba8e43a803c9ee669b125cdf6c7a88093d02,['9829493a3527acee9f83988d201502abe2d1cb1f'],mmorise <mmorise@yamanashi.ac.jp>,1482051715,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482051715,+0900,"Harvest() was added
+",9a0532b49f9badcef2e3856f96e6aae6917736cd,mmorise_world
+9a26692aff144db923daa7e6c75404ea6c9d9cbd,e9b8bb82004524cbee3d4373fee9fa68124585d2,['9b06a08ac6e131d22ce0d87468c2050a06f6c97c'],Gilles Degottex <gilles.degottex@gmail.com>,1520502825,+0100,Gilles Degottex <gilles.degottex@gmail.com>,1520502825,+0100,"reseed the pseudo-random number generator each time CheapTrick is called otherwise the results are not repeatable.
+",9a26692aff144db923daa7e6c75404ea6c9d9cbd,mmorise_world
+9a6902ebbff09b1a0ed2138490a887853df3ffa4,d862f1e61d343ad4f9d9e6347a2fff653d0a5fbf,['84c77a2271e28b0ffc8262383d44f279cce4ba32'],Masanori Morise <masanori.morise@gmail.com>,1452083794,+0900,Masanori Morise <masanori.morise@gmail.com>,1452083794,+0900,"stonemask.cpp was modified
+",9a6902ebbff09b1a0ed2138490a887853df3ffa4,mmorise_world
+9b06a08ac6e131d22ce0d87468c2050a06f6c97c,a9cc6739bfe8990ade4d8f6cea23c0b060e4f42d,['8273535f13b65e6919de0a308bfa83e6f9fa7b3f'],mmorise <mmorise@yamanashi.ac.jp>,1519716086,+0900,mmorise <mmorise@yamanashi.ac.jp>,1519716086,+0900,"rand() was modified
+",9b06a08ac6e131d22ce0d87468c2050a06f6c97c,mmorise_world
+9b58a0e5259017f6eba55c1ddfe7057123be95cd,f569a7c1dfba7ec90b5a7e330f7ccb4fd9c235e4,['e2d11aece45d3a2a54b883624eaa00b4b502f539'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in fft.h.
+",9b58a0e5259017f6eba55c1ddfe7057123be95cd,mmorise_world
+9cfc36b5b8a99c7771d4bda2c51d3efa76196f39,ac8f939bae4543ed0c90a19fff48ced9ab4656dd,['3c450c40c6ad8076ff9bdf812081e92f37433300'],sleepwalking <2657202503@qq.com>,1447688103,-0600,sleepwalking <2657202503@qq.com>,1447688113,-0600,"Fix invalid memory access
+",9cfc36b5b8a99c7771d4bda2c51d3efa76196f39,mmorise_world
+9d7a58f3e53b2f901da7bdc535ceee43bc93b3a5,ce176bae264b06a8c771fc07e9ecc7bd13619e96,['14b937a07cde6768c905669b9edb2198b69da332'],Masanori Morise <masanori.morise@gmail.com>,1473369032,+0900,Masanori Morise <masanori.morise@gmail.com>,1473369032,+0900,"A minor bug in stonemask.cpp was fixed
+",9d7a58f3e53b2f901da7bdc535ceee43bc93b3a5,mmorise_world
+9d99e743aa9a6d2a58653e6cc4fdee54f3642e44,80137a96333e0b5dbdabd9a58af2111c4fbca327,['4cb248ae04d36f7a035befd187dfa31b7409ea2f'],Masanori Morise <masanori.morise@gmail.com>,1477384899,+0900,Masanori Morise <masanori.morise@gmail.com>,1477384899,+0900,"update for the latest version
+",9d99e743aa9a6d2a58653e6cc4fdee54f3642e44,mmorise_world
+9e8722bb55d7708fe95b55c2cbb59e429d696150,a3e561b314c209d83e4ea6981d66e63689ff0ee9,['2e23c801897e817d72eacd2140fb0fcedf958077'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved synthesis.h into world/synthesis.h.
+",9e8722bb55d7708fe95b55c2cbb59e429d696150,mmorise_world
+a041d8a6eadfd3e490790162cf7d6a6690b99196,bd102618297d9d4894918d98335106f355e2d48b,['7b8f50fc28894ed62d23a3142977486ea1288db0'],mmorise <masanori.morise@gmail.com>,1489372031,+0900,GitHub <noreply@github.com>,1489372031,+0900,Create README.md,a041d8a6eadfd3e490790162cf7d6a6690b99196,mmorise_world
+a11d5338f2c0a91ea2168f0f45d0970bfaaac5b1,f7cf1516a2c7a495d3e39df36a09c8cb2ec77e65,['5fcb769167ac8696d5d21225b8a47617979bdd47'],mmorise <masanori.morise@gmail.com>,1490195881,+0900,GitHub <noreply@github.com>,1490195881,+0900,Update README.md,a11d5338f2c0a91ea2168f0f45d0970bfaaac5b1,mmorise_world
+a1403aa440c5b52585459c1f0acee514cc1e3299,cdf4bbd43e9eecd55090ab077fd8548137e07c46,['0f667c284177562e66bf8aee6fd12f3cdba2f3ef'],Masanori Morise <masanori.morise@gmail.com>,1447593760,+0900,Masanori Morise <masanori.morise@gmail.com>,1447593760,+0900,"2015/11/15
+",a1403aa440c5b52585459c1f0acee514cc1e3299,mmorise_world
+a3282b028ee57f13da324f19ce35b5b5f7031e3f,306ac78f1758305109671d11a431cebda6633a28,['0d8e4afb060470ff01df63df4cccf94f331bd9a1'],Masanori Morise <masanori.morise@gmail.com>,1453954255,+0900,Masanori Morise <masanori.morise@gmail.com>,1453954255,+0900,"Adjustment of appearance
+",a3282b028ee57f13da324f19ce35b5b5f7031e3f,mmorise_world
+a3a47eb44907135c1736f61e9aea5f9d2cddc12a,1767cb4e14379c0636b8cf5d93fa609608febcd8,"['04de8a94fc947fe0caebabd9335495a7f258b2fa', '28c655e36e427cac453b148b61f6911f5b01650e']",Martin Jansche <mjansche@users.noreply.github.com>,1503514948,+0000,GitHub <noreply@github.com>,1503514948,+0000,"Merge 28c655e36e427cac453b148b61f6911f5b01650e into 04de8a94fc947fe0caebabd9335495a7f258b2fa
+",a3a47eb44907135c1736f61e9aea5f9d2cddc12a,mmorise_world
+a3b27e8e240de7f3d556cc7f2535f5fc0f059738,2461b244dca3df21188352cc51407a10ba266142,['dcc1c6ee3cd100fc1f7187353f7df0a7c0e50649'],mmorise <masanori.morise@gmail.com>,1477387054,+0900,GitHub <noreply@github.com>,1477387054,+0900,Update README.md,a3b27e8e240de7f3d556cc7f2535f5fc0f059738,mmorise_world
+a3cf075d9eb70a376f67a5732e053c27f38db952,b6ddc2eee1ae99ba8860538ae2aa222f65531388,['bfc26d89fdd703e0ad95a9018c2f3b4230d14f5e'],mmorise <masanori.morise@gmail.com>,1576661941,+0900,GitHub <noreply@github.com>,1576661941,+0900,URL was modified.,a3cf075d9eb70a376f67a5732e053c27f38db952,mmorise_world
+a453db6ffafb59aef29451337d08305669984152,90f26a53d5f7d2b07dd561b7d35cbc1e39b413fc,"['cfd08f3c54e101b4c997eb5139d8615d4dec269b', 'b95081c8973f5642745532f752d9c8ff6d49e68f']",mmorise <masanori.morise@gmail.com>,1522253793,+0900,GitHub <noreply@github.com>,1522253793,+0900,"Merge pull request #64 from wuaalb/fix-phase2
+
+fix GetSpectrumWithFractionalTimeShift() for FFT sign change",a453db6ffafb59aef29451337d08305669984152,mmorise_world
+a50db5c6ab8779c411b1766dcf228d270e0842f9,d26736428dda081fd5066dddb1bf3be292e0b5b6,['2a1f7b2c773acba65c4b8ba62fcf6e86266772fd'],abylouw <22814737+abylouw@users.noreply.github.com>,1537057007,+0200,GitHub <noreply@github.com>,1537057007,+0200,fixed determination of output file name length,a50db5c6ab8779c411b1766dcf228d270e0842f9,mmorise_world
+a540c78fdc4a7c53d03b4fff18ec46484c56caca,40a07178f866313ab0fc4f8f6653a696060c39b0,['f8dd5fb289db6a7f7f704497752bf32b258f9151'],mmorise <masanori.morise@gmail.com>,1719928261,+0900,GitHub <noreply@github.com>,1719928261,+0900,Broken URLs regarding Harvest have been corrected.,a540c78fdc4a7c53d03b4fff18ec46484c56caca,mmorise_world
+a615a20a83fa1d95b1d70b8a0f164ef7614019f6,38c8eda334f9bd335e41832a48a10b6aff9befdb,['8d79b88b7dd92e8a132996cf74080b2d6f881b98'],mmorise <masanori.morise@gmail.com>,1740126595,+0900,GitHub <noreply@github.com>,1740126595,+0900,Update README.md,a615a20a83fa1d95b1d70b8a0f164ef7614019f6,mmorise_world
+a677687e8caa30892b5e95f242670d116fd2b19e,c11273e28df2f735afc11d655a1a04b68868b85e,['0d2667511691fc75fd65433f8abe800e7531582e'],mmorise <mmorise@yamanashi.ac.jp>,1485955506,+0900,mmorise <mmorise@yamanashi.ac.jp>,1485955506,+0900,"a bug was fixed
+",a677687e8caa30892b5e95f242670d116fd2b19e,mmorise_world
+a6824b8117af1cc24bf424b172848b97055fb84c,42c206d3d150789a5836ce361e8bd55c45053c3f,['1a1bfb001e6ab16adac0faea46d971d6af7ebb33'],mmorise <mmorise@yamanashi.ac.jp>,1483171691,+0900,mmorise <mmorise@yamanashi.ac.jp>,1483171691,+0900,"common.h was updated
+",a6824b8117af1cc24bf424b172848b97055fb84c,mmorise_world
+a728135629d7404153308dd48fba049ffe09076e,b46a94a814d1a149c7eb124158e53a2b5e58469e,['9433540b1a2b8ae3f64bf0de8f3f3c8de3250c42'],Nao <Na0Halmi@gmail.com>,1567093423,+0900,Nao <Na0Halmi@gmail.com>,1567093423,+0900,"no message
+",a728135629d7404153308dd48fba049ffe09076e,mmorise_world
+a80bba99a1d8c5b8b1fd1542a95ce0cfc4fab10a,6369201451a7f1ccaaa366cec48bce64f3d8413e,['04de8a94fc947fe0caebabd9335495a7f258b2fa'],LiXian <shysian@gmail.com>,1512324002,+0800,LiXian <shysian@gmail.com>,1512324002,+0800,"wip:multi_thread
+",a80bba99a1d8c5b8b1fd1542a95ce0cfc4fab10a,mmorise_world
+a825684625ddfa7722a82d2aa5739d473e9ce0b9,7de2ac448a4dfa103ee62d42ab2ba88517d95a0f,['846ead44cb674cfc5e27fe7f1eedb5952248759c'],mmorise <mmorise@yamanashi.ac.jp>,1613381853,+0900,mmorise <mmorise@yamanashi.ac.jp>,1613381853,+0900,"Formal release version
+",a825684625ddfa7722a82d2aa5739d473e9ce0b9,mmorise_world
+a9191e221e0c66795817d56a89f42c74edc021b3,ad2e9c46d8ae2bfcb57058798ffc27722289748c,['c1db8af8b7e6825012507e9303c9850e2a397637'],joealato <edloginova@yandex.ru>,1590086808,+0300,joealato <edloginova@yandex.ru>,1590086808,+0300,"Removed unused variable p from function interp1
+",a9191e221e0c66795817d56a89f42c74edc021b3,mmorise_world
+aa8c4e6d55520818a186f04ee6e08bce1d820ae2,e2471afa316cbfb271b97a573f320ee0d9dc2d51,['04de8a94fc947fe0caebabd9335495a7f258b2fa'],mmorise <masanori.morise@gmail.com>,1512913617,+0900,GitHub <noreply@github.com>,1512913617,+0900,Comment was modified because it was confusing,aa8c4e6d55520818a186f04ee6e08bce1d820ae2,mmorise_world
+ab2374ade007a4177b8a9c06102c9339a5ca37ff,68239c51b3542b71f3a94e86b8d6d89abcb4d92a,['68ac32067c12261b499ff1fa26987b1a44fac5bf'],mmorise <masanori.morise@gmail.com>,1477390381,+0900,GitHub <noreply@github.com>,1477390381,+0900,Create README.md,ab2374ade007a4177b8a9c06102c9339a5ca37ff,mmorise_world
+ac2784dd1039608ed2ce985a3f8b71c0d1fb8489,7ec6b5d80635fbf17a6a62636afe2ad7e99f017f,"['9721584a583af897e6b0c68653ebacb06289280b', '0f39268c8bb3e5ff85fa3d22389d03adb346a223']",mmorise <masanori.morise@gmail.com>,1592220777,+0900,GitHub <noreply@github.com>,1592220777,+0900,"Merge pull request #100 from r9y9/harvest-memory-fixes
+
+Harvest: two memory fixes that may have caused undefined behavior or segfaults",ac2784dd1039608ed2ce985a3f8b71c0d1fb8489,mmorise_world
+ad36c5cbe373a760498b201befbd2b924528adcc,bc2737de89df7349bbb472fb8d70cb5299b27e63,"['6ea44b7316ad5d69c654f4cc15464302de270a7a', '3a2825bb1a834e58d123ff5dc978488b98b47157']",Ryuichi Yamamoto <zryuichi@gmail.com>,1496944437,+0000,GitHub <noreply@github.com>,1496944437,+0000,"Merge 3a2825bb1a834e58d123ff5dc978488b98b47157 into 6ea44b7316ad5d69c654f4cc15464302de270a7a
+",ad36c5cbe373a760498b201befbd2b924528adcc,mmorise_world
+ad770cc00c45ef1f00a8c1ed2c1d2dce8d26bada,6680976dda1dbdcbcc12349c4b7143265ebf3d90,['6ea4955205cddf0ef0fa3668cf0e439b27c67855'],mmorise <masanori.morise@gmail.com>,1569831202,+0900,GitHub <noreply@github.com>,1569831202,+0900,Update README.md,ad770cc00c45ef1f00a8c1ed2c1d2dce8d26bada,mmorise_world
+ad99ff3ef5ba55b67f616569ec814c82a236a5b8,acef2ea23da3313576ddf8704cce378277a3f1bb,['643c65ca5961db32c97bb8680f00cb7978bbba2d'],mmorise <mmorise@yamanashi.ac.jp>,1477490368,+0900,mmorise <mmorise@yamanashi.ac.jp>,1477490368,+0900,"makefile is modified
+",ad99ff3ef5ba55b67f616569ec814c82a236a5b8,mmorise_world
+af7d8cb012cca53f1a11ac92e13f2dd5fbddf6e2,fc1e11de1e0935d3a4599e3944e7780914abf687,"['698975830d728d50e1004f9186b36a8225cb604a', '1c6aaea023f1c629602267ea6e6f8c336af9056e']",Oscar Gomez <42280574+oscarg933@users.noreply.github.com>,1546368678,+0000,GitHub <noreply@github.com>,1546368678,+0000,"Merge 1c6aaea023f1c629602267ea6e6f8c336af9056e into 698975830d728d50e1004f9186b36a8225cb604a
+",af7d8cb012cca53f1a11ac92e13f2dd5fbddf6e2,mmorise_world
+b0a397781125a7e9856359d932e8411966014db9,62bca353cb42d614fb3f8e0eb3270ff973ed81ed,['4106300cc14dfc917ebcb1d8daaca997201efb67'],mmorise <mmorise@yamanashi.ac.jp>,1488640507,+0900,mmorise <mmorise@yamanashi.ac.jp>,1488640507,+0900,"Fixed const correctness in several files
+",b0a397781125a7e9856359d932e8411966014db9,mmorise_world
+b12274e601902968cfc0e03ec963614ea78508d6,58622ef708ca284f5ea6cb73fcdacd6dfdb50c77,['59a6c03347ffb5709c48b734f623540941cf04ff'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in fft.cpp.
+",b12274e601902968cfc0e03ec963614ea78508d6,mmorise_world
+b2e9007e319cb8859e5b3dd7af8d333c9b57868b,6a62f412ff84dfd12ff92b199ecd2078725d1f5d,['3fa9059e58441ede5a3c36bc54b3836444259e27'],GloomyGhost <gloomyghost@foxmail.com>,1634052460,+0800,GloomyGhost <gloomyghost@foxmail.com>,1634052460,+0800,"add build option for EXAMPLES
+",b2e9007e319cb8859e5b3dd7af8d333c9b57868b,mmorise_world
+b42f9383d5b9c8b1e9b78775ee00289630c8573c,6c55015c0e0431042771d278de64d12976f75230,['8c02c1b1eb7debeee75426bc31c490b017d971f6'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to dio.h.
+",b42f9383d5b9c8b1e9b78775ee00289630c8573c,mmorise_world
+b4375f3f7a03693b0fbdb3f44b1ab9c720a9aeef,d206a731f67bacecdcd7ec46107064be49ca35e1,"['40ad3165bcb489f0ed236977bf48cfef5f65aca3', 'bafa41a9165f4ba90675e29c541ba728d5afc0ae']",mmorise <masanori.morise@gmail.com>,1590718752,+0900,GitHub <noreply@github.com>,1590718752,+0900,"Merge pull request #97 from SuperEver/master
+
+Fix two bugs in refine_f0",b4375f3f7a03693b0fbdb3f44b1ab9c720a9aeef,mmorise_world
+b4cfe3d4484dee6ac1c2f7c4eb9f000a1c4633b7,5665c722f381d370c7085ab4a3d0174a15e77758,['d76e8aab39d7d5753fc9aeb9bd21187841a46ee5'],mmorise <mmorise@yamanashi.ac.jp>,1494339678,+0900,mmorise <mmorise@yamanashi.ac.jp>,1494339678,+0900,"DC removal in the real-time synthesis was modified
+",b4cfe3d4484dee6ac1c2f7c4eb9f000a1c4633b7,mmorise_world
+b53ef0ce38cfe29863a2a58ee656a65e06393748,8d3216fe904d313e0d74c998764e738b196e5a07,['a11d5338f2c0a91ea2168f0f45d0970bfaaac5b1'],Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491072574,-0300,Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491072574,-0300,"Fix makefile for 'analysis_synthesis' example
+",b53ef0ce38cfe29863a2a58ee656a65e06393748,mmorise_world
+b72a169ab0388e00d422ef9603fce69cd1ec862e,d12cb1faa0eaf07294445c2933209d126e166c31,['0776c74479f91b754203192ae673fe9f5dc60f75'],abylouw <22814737+abylouw@users.noreply.github.com>,1537056907,+0200,GitHub <noreply@github.com>,1537056907,+0200,fixed determination of output file name length,b72a169ab0388e00d422ef9603fce69cd1ec862e,mmorise_world
+b88763cfe52b3c35ee23cfbbc5a6025894ecffaf,d206a731f67bacecdcd7ec46107064be49ca35e1,['40ad3165bcb489f0ed236977bf48cfef5f65aca3'],zhangyongchao <zhangyongchao@meituan.com>,1590650683,+0800,zhangyongchao <zhangyongchao@meituan.com>,1590714627,+0800,"Fix two bugs. 1. maybe divided by zero. 2.Index of power_spectrum beyond limit (It happens for some wav)
+
+Modify the code according to author's advise.
+",b88763cfe52b3c35ee23cfbbc5a6025894ecffaf,mmorise_world
+b95081c8973f5642745532f752d9c8ff6d49e68f,90f26a53d5f7d2b07dd561b7d35cbc1e39b413fc,['cfd08f3c54e101b4c997eb5139d8615d4dec269b'],wuaalb <merlijn.blaauw@gmail.com>,1522248937,+0200,wuaalb <merlijn.blaauw@gmail.com>,1522248937,+0200,"fix GetSpectrumWithFractionalTimeShift() for FFT sign change
+",b95081c8973f5642745532f752d9c8ff6d49e68f,mmorise_world
+ba5d36f05276eef7fe79d3e37ed80f8ccbebb50a,b0b8d176c447098db9cde64d65e9674b11d2f1ae,['eb95d28463495e58dee45c259fd2c2834f87a55e'],Giulio Paci <giuliopaci@gmail.com>,1456821729,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821729,+0100,"Updated makefile.
+",ba5d36f05276eef7fe79d3e37ed80f8ccbebb50a,mmorise_world
+bafa41a9165f4ba90675e29c541ba728d5afc0ae,d206a731f67bacecdcd7ec46107064be49ca35e1,"['b88763cfe52b3c35ee23cfbbc5a6025894ecffaf', '7e51e7141a2f6719027caa76b922528a18b35e9d']",zhangyongchao <zhangyongchao@meituan.com>,1590715074,+0800,zhangyongchao <zhangyongchao@meituan.com>,1590715074,+0800,"Modify the code according to author's advise.
+",bafa41a9165f4ba90675e29c541ba728d5afc0ae,mmorise_world
+bb785e586c6f7c7eb3b2b08841aa390d73abc8d8,0064e46e2c1adcdd88533d1cadba1af424d71740,['4610c461c2aff558ad65a27729bf6f6fadd00196'],Masanori Morise <masanori.morise@gmail.com>,1457017858,+0900,Masanori Morise <masanori.morise@gmail.com>,1457017858,+0900,"Compile option in win.sln was added.
+",bb785e586c6f7c7eb3b2b08841aa390d73abc8d8,mmorise_world
+bbd4db6a0ed9554d28bf127747b97c60564cd396,b740f69937fb56b8c72123f14d1be861be874b6a,"['04de8a94fc947fe0caebabd9335495a7f258b2fa', '9750c79a84d6e35243ab846e73c74d868047318a']",Li Xian <shysian@gmail.com>,1512463649,+0000,GitHub <noreply@github.com>,1512463649,+0000,"Merge 9750c79a84d6e35243ab846e73c74d868047318a into 04de8a94fc947fe0caebabd9335495a7f258b2fa
+",bbd4db6a0ed9554d28bf127747b97c60564cd396,mmorise_world
+bc2d7cbe6177d92c833d596c536b337d6d6f9ea9,3c80db9ff188bec4e4f3793dee950c3fb981ff30,['17fd80d49b1370535495b8413e36fdfc0f235e3a'],mmorise <mmorise@yamanashi.ac.jp>,1544678594,+0900,mmorise <mmorise@yamanashi.ac.jp>,1544678594,+0900,"synthesisrealtime.cpp was refactored
+",bc2d7cbe6177d92c833d596c536b337d6d6f9ea9,mmorise_world
+bcf47a9c593aed1d9b95d2a1b7a54d3fddb474cb,30de948b588e54003a6f7c0685207ac4194e4a30,['00144f85329256bf24124729a0554f76fda95877'],mmorise <mmorise@yamanashi.ac.jp>,1493474856,+0900,mmorise <mmorise@yamanashi.ac.jp>,1493474856,+0900,"codec functions for spectral envelope were added
+",bcf47a9c593aed1d9b95d2a1b7a54d3fddb474cb,mmorise_world
+bd521e8a536a2cd049e796ab6d69baa79aed8436,d2f4de1b8d20de631ad5aa65e41be4129c0c472b,['df294a15215a81a9ae889d55fd4b643d39888a34'],mmorise <mmorise@yamanashi.ac.jp>,1482460674,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482460674,+0900,"minor bug was fixed in Harvest()
+",bd521e8a536a2cd049e796ab6d69baa79aed8436,mmorise_world
+bf551e885d0673203e9741761883f16479101350,c4adf64a60d911d4edd17b326b74f668ca31dc77,['e300da1cf7dee0dc9397abce48e0296e934b6569'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821951,+0100,"Updated matlabfunctions.cpp to use MyMin<Type> and MyMax<Type>.
+",bf551e885d0673203e9741761883f16479101350,mmorise_world
+bfc26d89fdd703e0ad95a9018c2f3b4230d14f5e,f69b483b30da3bb31d0e8252f8f55c46c26438a3,"['ad770cc00c45ef1f00a8c1ed2c1d2dce8d26bada', 'eb20d0ec87b00718f2e0bb32d71872c3833c0d76']",mmorise <masanori.morise@gmail.com>,1576661832,+0900,GitHub <noreply@github.com>,1576661832,+0900,"Merge pull request #91 from zuoanqh/feature-update-target-version
+
+update target version to work out-of-the-box with latest VS Community",bfc26d89fdd703e0ad95a9018c2f3b4230d14f5e,mmorise_world
+c087e64347182275b6216505868642cef3ea3874,76928bb21aad3c2cb4473d30510bfbf60a6de3d3,['e29cd90abc306a26817d6c081cbad0a1779d7162'],sabonerune <102559104+sabonerune@users.noreply.github.com>,1729159686,+0900,sabonerune <102559104+sabonerune@users.noreply.github.com>,1729159686,+0900,"fix: support `add_subdirectory`
+
+And support Cmake 3.30
+",c087e64347182275b6216505868642cef3ea3874,mmorise_world
+c1db8af8b7e6825012507e9303c9850e2a397637,cdd29229c20b0d440e1b10b45bf174fff416fc3f,['f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882'],mmorise <masanori.morise@gmail.com>,1585277448,+0900,GitHub <noreply@github.com>,1585277448,+0900,Update README.md,c1db8af8b7e6825012507e9303c9850e2a397637,mmorise_world
+c2f950b92fb71c599786fa2e2a0bfc2ee61c7b08,dbbdd4b9a968bb1362c26e7c7e832a2925dd7c20,['1f8815f7a85e344ea9f98ca6b1383578a161d4e2'],Theo <lamcilaktheo@outlook.fr>,1599577878,+0200,Theo <lamcilaktheo@outlook.fr>,1599577878,+0200,"Added cmake file to make building on multiple OSes and IDEs easier
+",c2f950b92fb71c599786fa2e2a0bfc2ee61c7b08,mmorise_world
+c41e580c24c8d360f322ba6e2092ad4785d2d5b9,1482c893f0b5c4941a8a79ca3b9af966afc15cba,['5a42a77678500da62f4e1c3e8e8c84ad74b5a591'],mmorise <mmorise@yamanashi.ac.jp>,1522822388,+0900,mmorise <mmorise@yamanashi.ac.jp>,1522822388,+0900,"a minor bug was fixed
+",c41e580c24c8d360f322ba6e2092ad4785d2d5b9,mmorise_world
+c4286d76790395c22684f5c5269ffbd7cdd72830,5df2109671c440068392acbc737bc779c9f32503,['0ea128efa4fce2561dec12eec0488faec6a81b0f'],mmorise <mmorise@yamanashi.ac.jp>,1482854479,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482854479,+0900,"modification for compatibility with MATLAB
+",c4286d76790395c22684f5c5269ffbd7cdd72830,mmorise_world
+c65a30a1a43613bcacafb8e49a7b67e1d697df0a,5c32bd2788fdcd3557250a913306f9136a8085ca,['a6824b8117af1cc24bf424b172848b97055fb84c'],mmorise <mmorise@yamanashi.ac.jp>,1483338602,+0900,mmorise <mmorise@yamanashi.ac.jp>,1483338602,+0900,"fft_size in CheapTrick() is controllable.
+",c65a30a1a43613bcacafb8e49a7b67e1d697df0a,mmorise_world
+c77e7b0c91dad02da5b656b3c70d95f311bacfa7,67fad975dcce2d8324aa94db1957da9ccb43b926,['90c75c6b00bec51db4371bee844f4aa19832490a'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved constantnumbers.h into world/constantnumbers.h.
+",c77e7b0c91dad02da5b656b3c70d95f311bacfa7,mmorise_world
+c7dd2767f1aa4192b1817a663f6abedc89e70c65,c9f0011ad04b5a5ce1762d87a150079d60c50f51,['20b6c2e50fca3a197e84a818ad037e7a8740d2c1'],wuaalb <merlijn.blaauw@gmail.com>,1496832841,+0200,wuaalb <merlijn.blaauw@gmail.com>,1496843849,+0200,"Simplified integer pulse position calculation
+",c7dd2767f1aa4192b1817a663f6abedc89e70c65,mmorise_world
+c80d74a6c5a817621f636fffb5f54a98e7f5f796,003a7d22bfdcf6d474fc9477658a790020f2b30f,"['30d52ab4e0a49d2ab8fb34a3d4376f5fb1d8ede4', 'e5572d6ba1a43db7547406a5a6d9dd77b8a49782']",mmorise <masanori.morise@gmail.com>,1491144873,+0900,GitHub <noreply@github.com>,1491144873,+0900,"Merge pull request #28 from brunexgeek/init_fix
+
+Fix initialization at 'GetTemporalParametersForTimeBase' function",c80d74a6c5a817621f636fffb5f54a98e7f5f796,mmorise_world
+c859b759c108ed4c20a09d1a01f8f38becfbbabd,f527b3269e2b43fe2f37225878be724a3562f456,['95066d4a190148a30445b809bb71898eee8e90bf'],wtrh <99009888+wtrh@users.noreply.github.com>,1645261777,+0900,wtrh <99009888+wtrh@users.noreply.github.com>,1645261777,+0900,"Remove unused variable `tmp_spectrum`
+",c859b759c108ed4c20a09d1a01f8f38becfbbabd,mmorise_world
+ca07bd3572f4509249a97bc0836588b7b609af5d,f0e01d2646ad5822bc41d04a8e8802888141fa1c,['ece4aaf2e2f04046b5baa3861ef5ff0b39039d7a'],mmorise <masanori.morise@gmail.com>,1495442085,+0900,GitHub <noreply@github.com>,1495442085,+0900,References were updated,ca07bd3572f4509249a97bc0836588b7b609af5d,mmorise_world
+ca827c051e208786f63c5b84898d5f62d759fd7c,9b57a35b652e092a59d795768709efe1a1f09689,['45e239c96bed623195be3d9bae17768772cf2e44'],mmorise <mmorise@yamanashi.ac.jp>,1520600812,+0900,mmorise <mmorise@yamanashi.ac.jp>,1520600812,+0900,"bug in Dio() was fixed
+",ca827c051e208786f63c5b84898d5f62d759fd7c,mmorise_world
+ca8622de973ff5fa2e129afcc4f4706aecd83245,e677bb943a75282ec3f94b10ecf6a87b1ccbc39f,['ca07bd3572f4509249a97bc0836588b7b609af5d'],Shiyin Kang <kangshiyin@gmail.com>,1496636093,+0800,Shiyin Kang <kangshiyin@gmail.com>,1496636093,+0800,"delete unused assignments
+",ca8622de973ff5fa2e129afcc4f4706aecd83245,mmorise_world
+cb49f4f2901423b6f9a7941dcc922f3534b3d194,c9f0011ad04b5a5ce1762d87a150079d60c50f51,"['e7625f1970f0fd8fb6305c4779b801e88e3766e8', 'c7dd2767f1aa4192b1817a663f6abedc89e70c65']",mmorise <masanori.morise@gmail.com>,1496926721,+0900,GitHub <noreply@github.com>,1496926721,+0900,"Merge pull request #37 from wuaalb/fix-phase
+
+Fix phase continuation",cb49f4f2901423b6f9a7941dcc922f3534b3d194,mmorise_world
+cc95d655c00ce1943cf70f39e229b6e633158542,80cd35802a2792f69bf83507186a0e140d4ed62c,['74a32ec3ee6ab72000f238ae114d2d876518ae2b'],mmorise <masanori.morise@gmail.com>,1454321915,+0900,mmorise <masanori.morise@gmail.com>,1454321915,+0900,Update LICENSE.txt,cc95d655c00ce1943cf70f39e229b6e633158542,mmorise_world
+ccd3489d9a4804a5519925cf206fd0c4eb6e636c,39c809259c2bf36075db10adfb2ff19e42daca65,"['5f99860e6883f51e4649d8788d6282e45556764e', '526dc85a39472bc2f940389da9f4cc0b200f4410']",mmorise <masanori.morise@gmail.com>,1454404778,+0900,mmorise <masanori.morise@gmail.com>,1454404778,+0900,"Merge pull request #4 from giuliopaci/master
+
+Add ctest example and several improvements in makefile",ccd3489d9a4804a5519925cf206fd0c4eb6e636c,mmorise_world
+cdbf5de706cceb2f06db0c0d4cdaf4ec948a4321,e2c278d79017f59aac6a7178db7335cece551d71,['3f942338639edef2628abd1496d36a27f4edd984'],Yusuke Yamada <yusuke.yamada.t1@dc.tohoku.ac.jp>,1489346919,+0900,Yusuke Yamada <yusuke.yamada.t1@dc.tohoku.ac.jp>,1489346919,+0900,"Fix typo
+",cdbf5de706cceb2f06db0c0d4cdaf4ec948a4321,mmorise_world
+cddd369a24c6814e33c6044a6a7dc633f2d4f862,eea5ac2a5858b8bd6b292eb47740afe16e78edfb,['979ac087a22f7e1ce444518fa81a2a38f5127f28'],Masanori Morise <masanori.morise@gmail.com>,1449022305,+0900,Masanori Morise <masanori.morise@gmail.com>,1449022305,+0900,"A safeguard was added
+",cddd369a24c6814e33c6044a6a7dc633f2d4f862,mmorise_world
+cef76bd1d6fa180568f23f134bc9fd67c3e42b7d,c9267b3dce4d021ab27aba759921057c1a699a0a,['4c353abb92a6f0e986bb7476d895be1f388b87a9'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to synthesis.h.
+",cef76bd1d6fa180568f23f134bc9fd67c3e42b7d,mmorise_world
+cf089dfbbff160c11d308cf47fd808f208caa5d4,fa5c1d1284b9981c54687b3c4ceef27f10160492,['3b2a1a7d2c3222016fde7c2f1635200ce49ae963'],Masanori Morise <masanori.morise@gmail.com>,1447593227,+0900,Masanori Morise <masanori.morise@gmail.com>,1447593227,+0900,"2015/11/15_1
+",cf089dfbbff160c11d308cf47fd808f208caa5d4,mmorise_world
+cf8ac551c358a8e0f2ea43da92253b0d363514db,846860ff1f56cf0c39eb4f241fb13600c9744451,['11a4886d4d5ea93ed296693cb91b9f57daf57420'],mmorise <masanori.morise@gmail.com>,1482999287,+0900,GitHub <noreply@github.com>,1482999287,+0900,Update test.cpp,cf8ac551c358a8e0f2ea43da92253b0d363514db,mmorise_world
+cf9be54fb886f67748e2350f422411ab9ed61ec7,12aa8a0d04c0e085fee0d6c2aae10e6c0781cb14,['bd521e8a536a2cd049e796ab6d69baa79aed8436'],mmorise <mmorise@yamanashi.ac.jp>,1482568195,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482568195,+0900,"a safeguard was added in synthesis functions
+",cf9be54fb886f67748e2350f422411ab9ed61ec7,mmorise_world
+cfb73d366bb66f3c82077172a79974c5a280dc07,9b453cc31ae8fe8ad3198412855a6a6858b423db,['431e548928dbe10c84a4fc6597585cb801adf5ff'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from stonemask.h.
+",cfb73d366bb66f3c82077172a79974c5a280dc07,mmorise_world
+cfc64686bb1715b609aa48c9db8f0305e4814421,23762ec87e9b46f066573f168cb8201046bd0b76,"['6e3b51d5407cb443a14ec8d02510f2a4963e0c7a', '520efd808a70b6a40299a571f8a3ffc8b85cf4cc']",mmorise <masanori.morise@gmail.com>,1519708022,+0900,GitHub <noreply@github.com>,1519708022,+0900,"Merge pull request #60 from Sleepwalking/master
+
+Fix a bug in the random number generator.",cfc64686bb1715b609aa48c9db8f0305e4814421,mmorise_world
+cfd08f3c54e101b4c997eb5139d8615d4dec269b,d875b4c89967978c94b396aab0158511d0c5ebe6,['5b839b2e0e6b3210badc4979b1c332380f6f628d'],mmorise <mmorise@yamanashi.ac.jp>,1520700133,+0900,mmorise <mmorise@yamanashi.ac.jp>,1520700133,+0900,"a minor bug was fixed in Harvest()
+",cfd08f3c54e101b4c997eb5139d8615d4dec269b,mmorise_world
+d10012bd0856f91d89f4995169b56febb1412db1,1cc3e85e77030ff4273ac0987fefb4128e53e112,"['2059862a581376a4f2d8ef14636b3718c68ea164', '8e16f6ba861f13947002ec037ae8b1275a26ef65']",mmorise <masanori.morise@gmail.com>,1491137569,+0900,GitHub <noreply@github.com>,1491137569,+0900,"Merge pull request #26 from brunexgeek/example_fix
+
+Change 'analysis_synthesis' example to save 'fs' and 'frame_period'",d10012bd0856f91d89f4995169b56febb1412db1,mmorise_world
+d1caa89ad2af931bf5dca173b011e651c6c850d9,fab3ddb47784bcb3e087ee1662d3a274f32824a1,['47a9910e4a88735b569c64f7daf92083fc0d0434'],mmorise <masanori.morise@gmail.com>,1485958071,+0900,GitHub <noreply@github.com>,1485958071,+0900,Update dev_env.txt,d1caa89ad2af931bf5dca173b011e651c6c850d9,mmorise_world
+d2ff2b9e5210f2c898f470749fc34d96e071372b,6252235242cf269fa2f7701d672a82676f678981,['886322ebcae4e0e4210d9814e46234f8530a98dc'],Masanori Morise <masanori.morise@gmail.com>,1457017987,+0900,Masanori Morise <masanori.morise@gmail.com>,1457017987,+0900,"win.sln is modified for the latest version.
+",d2ff2b9e5210f2c898f470749fc34d96e071372b,mmorise_world
+d49906443f7ce6117460fd589b9bee348b174032,8aa3b8192f48a9078467cd010ae68bf3b3e2ecd0,['e908302e7687be021ec6d939e87e8ed83f909233'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in cheaptrick.cpp.
+",d49906443f7ce6117460fd589b9bee348b174032,mmorise_world
+d60b2d55b8b49944c70ee1a3e431e8ec45b17d68,81b6339968f96fe1cfd15eacc72b909e6c55996e,['87cdd19bf6ce273529023d52fa0e37484295c523'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from fft.h.
+",d60b2d55b8b49944c70ee1a3e431e8ec45b17d68,mmorise_world
+d625e7608ca23a870018f01e7c562ac683d9847f,0a06684117da21f33e651103a805ff5720f33fc3,['a615a20a83fa1d95b1d70b8a0f164ef7614019f6'],mmorise <masanori.morise@gmail.com>,1740126621,+0900,GitHub <noreply@github.com>,1740126621,+0900,Update README.md,d625e7608ca23a870018f01e7c562ac683d9847f,mmorise_world
+d6f8c56a7e2c3701b5ac468dc9fcd3d3928d1ce1,8d9bc10e058fbdc450b010eadcd17eb0dc694337,['03dde19b57276a300f74812092fe1c84578dc997'],mmorise <mmorise@yamanashi.ac.jp>,1482148502,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482148502,+0900,"frame period in Harvest() became controllable.
+",d6f8c56a7e2c3701b5ac468dc9fcd3d3928d1ce1,mmorise_world
+d76e8aab39d7d5753fc9aeb9bd21187841a46ee5,9becea58dfb6bb6bffcb0a3771972963628b5939,['4edc2fe63bb5ddb3ec4b719fd55a42bac6f1b0e3'],mmorise <mmorise@yamanashi.ac.jp>,1494240319,+0900,mmorise <mmorise@yamanashi.ac.jp>,1494240319,+0900,"DC removal was modified in the synthesis.
+",d76e8aab39d7d5753fc9aeb9bd21187841a46ee5,mmorise_world
+d7c03432d572c5a162edba9c611b3c8e367069a9,4fb9388d663a57532cbe79a3b6a8dba641474c19,"['0776c74479f91b754203192ae673fe9f5dc60f75', '3b86de9a7571e984f47061304487295348c7544a']",mmorise <masanori.morise@gmail.com>,1537163662,+0900,GitHub <noreply@github.com>,1537163662,+0900,"Merge pull request #71 from abylouw/master
+
+Output file name length in parameter io examples",d7c03432d572c5a162edba9c611b3c8e367069a9,mmorise_world
+d8a1b1b9da5f7eab26f699f76f59f333eba90f3c,cd51ae757e60e0e077f9b7ee28c219dcfb31cbb1,['84faa745ef0bc15ce27aafa8d31c6898622449ef'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in synthesis.h.
+",d8a1b1b9da5f7eab26f699f76f59f333eba90f3c,mmorise_world
+d982f47b66b789f21712cf488d527c2f8c8f12da,93bf1907addcea2a85202f3c248bd08dcada5761,['f0fd67bb93957365f1ad6b2363fb2bcbe69565a2'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Updated d4c.cpp to use MyMin<Type> and MyMax<Type>.
+",d982f47b66b789f21712cf488d527c2f8c8f12da,mmorise_world
+dac5e44b72d505bcc280ac20040b694a268c174b,d23b7b4abc703cac45fb310e1cfc57a187e4f842,['698975830d728d50e1004f9186b36a8225cb604a'],mmorise <mmorise@yamanashi.ac.jp>,1554955067,+0900,mmorise <mmorise@yamanashi.ac.jp>,1554955067,+0900,"minor bug in Dio() was fixed
+",dac5e44b72d505bcc280ac20040b694a268c174b,mmorise_world
+dae3e86c844c319164e4074ae3e3b0bb22b715b7,b52960b80700407580ee15ec87339441f9d68fb5,['0dbc2e2975ddb7d25e413c42e91feb6ae7885529'],Giulio Paci <giuliopaci@gmail.com>,1453462478,+0100,Giulio Paci <giuliopaci@gmail.com>,1453462478,+0100,"Dropped binary file from repository.
+",dae3e86c844c319164e4074ae3e3b0bb22b715b7,mmorise_world
+dbdbafbe49729b74d7a24cc9c8fb2f59fb68a1a6,06cac21aff56e18f9865cc22b64a0be5b88ccd8e,"['6ea44b7316ad5d69c654f4cc15464302de270a7a', '0b709a81db5cee7faebc7b5724673d98758dca43']",mmorise <masanori.morise@gmail.com>,1497095348,+0900,GitHub <noreply@github.com>,1497095348,+0900,"Merge pull request #38 from dingzeyuli/master
+
+corrected typos and added comments on FFT computation",dbdbafbe49729b74d7a24cc9c8fb2f59fb68a1a6,mmorise_world
+dc05cc526bddcedde01ed075ac4ba705e55fa7d3,67cbbd50e1442b99c5363d85f91365337b222500,['37ca57f58ad9588723c84fa2d7c4a7fb82066545'],mmorise <masanori.morise@gmail.com>,1489329119,+0900,GitHub <noreply@github.com>,1489329119,+0900,Delete makefile,dc05cc526bddcedde01ed075ac4ba705e55fa7d3,mmorise_world
+dc377c585e28469556ca4cbfb478a76358cac1e1,4dcbfe6b2e75ae8aaf2bbd0e5628e7f9dc4d60aa,['77f624989ab5e81e27a05d71d135fdbec7bf6db9'],Giulio Paci <giuliopaci@gmail.com>,1453464134,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Added *C_DECLS to matlabfunctions.h.
+",dc377c585e28469556ca4cbfb478a76358cac1e1,mmorise_world
+dcc1c6ee3cd100fc1f7187353f7df0a7c0e50649,3829f775bea94f83560b6d84cffd350b9d6ea646,['9d99e743aa9a6d2a58653e6cc4fdee54f3642e44'],mmorise <masanori.morise@gmail.com>,1477387025,+0900,GitHub <noreply@github.com>,1477387025,+0900,README.md was added,dcc1c6ee3cd100fc1f7187353f7df0a7c0e50649,mmorise_world
+dd24fab2b77c94749ba84513721444cecca91a76,e9ef5ce30150b2e233b4e536d7845323d05fa805,['69f46890e5ee40c4c5829529e374d344a6d58e4c'],Giulio Paci <giuliopaci@gmail.com>,1453464076,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Replace MyMin and MyMax with C-style functions in common.h
+",dd24fab2b77c94749ba84513721444cecca91a76,mmorise_world
+dd6f1006573f39614d1c9eb79865bcebd9987fb8,9aed61e5ff6fb49c09d66649b485d3622d1fcdf9,['7a474fa47ff313238ea2685e7c8aaa237ed59af7'],mmorise <masanori.morise@gmail.com>,1516540064,+0900,GitHub <noreply@github.com>,1516540064,+0900,Update README.md,dd6f1006573f39614d1c9eb79865bcebd9987fb8,mmorise_world
+df294a15215a81a9ae889d55fd4b643d39888a34,8032b60b47af141d10affcf29444fa3993dc3b41,['565bc6ca8d119af15694495024483645b90bb20e'],mmorise <mmorise@yamanashi.ac.jp>,1482285383,+0900,mmorise <mmorise@yamanashi.ac.jp>,1482285383,+0900,"abs() is replaced with an original function
+",df294a15215a81a9ae889d55fd4b643d39888a34,mmorise_world
+e0127e1a796d1d59babd5bd700b41877a66cde4d,93d23d156095289ddf83c1e44bdcac2cfaf4e80e,['fb558e19110f66e3bd5fd7176b39eed88f7a997b'],Giulio Paci <giuliopaci@gmail.com>,1456494456,+0100,Giulio Paci <giuliopaci@gmail.com>,1456501339,+0100,"Add const keyword on input vector to Dio() in dio.h.
+",e0127e1a796d1d59babd5bd700b41877a66cde4d,mmorise_world
+e0fdcce87b462a385af0d9c4cf6010673df8f4ee,3783c7e87004a56b94f020fb66c14daf5e9a14b3,['7a50c8996cd314828144cf8feb9d7bf971bd1168'],Ryuichi Yamamoto <zryuichi@gmail.com>,1493642925,+0900,Ryuichi Yamamoto <zryuichi@gmail.com>,1493642925,+0900,"Add GetWORLDVersion
+",e0fdcce87b462a385af0d9c4cf6010673df8f4ee,mmorise_world
+e14658daeab6728afe70f2ee479bfe05abefa9e2,a183ccb38b0ef4a91888177cd77336fcde2abfd1,['28cbe2bd7a10a8edb1b70aa7a8fa5f2ca70867ed'],柚木鉉 <740291272@qq.com>,1622990652,+0800,柚木鉉 <740291272@qq.com>,1622990652,+0800,"Add gitignore for jetbrains IDE, fix CMake Deprecation Warning, add option to build static library
+",e14658daeab6728afe70f2ee479bfe05abefa9e2,mmorise_world
+e1f25e5295e616ff0174864641fb6c021b4b649f,e038611488e8db180db44895280046f285c85e1d,['c80d74a6c5a817621f636fffb5f54a98e7f5f796'],wuaalb <merlijn.blaauw@gmail.com>,1492536524,+0200,wuaalb <merlijn.blaauw@gmail.com>,1492536524,+0200,"fix .gitignore and vs project
+",e1f25e5295e616ff0174864641fb6c021b4b649f,mmorise_world
+e29cd90abc306a26817d6c081cbad0a1779d7162,e4d021c7225f34e2d3e1dc28e62a293a83ac8408,['1eb6602a7780f14c9a42fe9c82c444edb14157b8'],mmorise <masanori.morise@gmail.com>,1726199787,+0900,GitHub <noreply@github.com>,1726199787,+0900,A new safeguard is added for D4C().,e29cd90abc306a26817d6c081cbad0a1779d7162,mmorise_world
+e2d11aece45d3a2a54b883624eaa00b4b502f539,fd45991f5766434611eea38d86a3dad1258f28af,['fb66373eb1f8d5a0d968b1bf0c2ac90d1583b9f9'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in dio.h.
+",e2d11aece45d3a2a54b883624eaa00b4b502f539,mmorise_world
+e300da1cf7dee0dc9397abce48e0296e934b6569,3c0ed257f12a56143856c520d7cd8b35523473f7,['d982f47b66b789f21712cf488d527c2f8c8f12da'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821951,+0100,"Updated dio.cpp to use MyMin<Type> and MyMax<Type>.
+",e300da1cf7dee0dc9397abce48e0296e934b6569,mmorise_world
+e461708609620b31c3e14851ee9791299afb5041,c5408d375b38e00959f7aabf19087fa358c79ec1,['dbdbafbe49729b74d7a24cc9c8fb2f59fb68a1a6'],mmorise <mmorise@yamanashi.ac.jp>,1497948623,+0900,mmorise <mmorise@yamanashi.ac.jp>,1497948623,+0900,"A bug in buffer overrun was fixed
+",e461708609620b31c3e14851ee9791299afb5041,mmorise_world
+e4c2efdbc7ffe79c38c7de59a1b22590ccaf1b51,32c52450cb669dd93d6fed70e98c12abf2b6dfe7,['b12274e601902968cfc0e03ec963614ea78508d6'],Giulio Paci <giuliopaci@gmail.com>,1456821245,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Include headers with world/ prefix in matlabfunctions.cpp.
+",e4c2efdbc7ffe79c38c7de59a1b22590ccaf1b51,mmorise_world
+e50531a8aaf5b915bcdb65dcb1e032db00179c6d,d59b69f897f7bde83e107ec0745a703b1de34ad5,['84ea28cc9dda1cbc010caa7832af910b4a34e70e'],Giulio Paci <giuliopaci@gmail.com>,1454405227,+0100,Giulio Paci <giuliopaci@gmail.com>,1454408995,+0100,"Do not use const for methods that destroy objects in common.h.
+",e50531a8aaf5b915bcdb65dcb1e032db00179c6d,mmorise_world
+e52120868bdf2534af5dbf9cf8734899b631fa83,0faf06b1cc95ae9e1725657ef56ab7d2967c4b6c,['bcf47a9c593aed1d9b95d2a1b7a54d3fddb474cb'],mmorise <masanori.morise@gmail.com>,1493475268,+0900,GitHub <noreply@github.com>,1493475268,+0900,Update README.md,e52120868bdf2534af5dbf9cf8734899b631fa83,mmorise_world
+e54e5578e767bbf14b26dd950dd26784e22cbcfb,4b49dd25ec23718dec22dedc5db0b179490a5dda,['8cdebf53a206c4fd692b25b99aa712e4f2c42c78'],mmorise <masanori.morise@gmail.com>,1460096911,+0900,mmorise <masanori.morise@gmail.com>,1460096911,+0900,Update README.md,e54e5578e767bbf14b26dd950dd26784e22cbcfb,mmorise_world
+e54e9394466f64da815d2edcad3a497118361773,649710b3591fb565cd4fb66c2a38b3d047729838,['7e7854ae368256c0c04a362bd92e0c1dd1f25672'],Giulio Paci <giuliopaci@gmail.com>,1456817452,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Moved macrodefinitions.h into world/macrodefinitions.h.
+",e54e9394466f64da815d2edcad3a497118361773,mmorise_world
+e5572d6ba1a43db7547406a5a6d9dd77b8a49782,003a7d22bfdcf6d474fc9477658a790020f2b30f,['30d52ab4e0a49d2ab8fb34a3d4376f5fb1d8ede4'],Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491143497,-0300,Bruno Ribeiro <brunexgeek@users.noreply.github.com>,1491143497,-0300,"Fix initialization at 'GetTemporalParametersForTimeBase' function
+
+The last position of 'coarse_time_axis' array wasn't being initialized
+and its value is used in a conditional. This fix ensures the array is
+properly initialized.
+",e5572d6ba1a43db7547406a5a6d9dd77b8a49782,mmorise_world
+e714fe9219faa509b281720acaa1c8143e473bec,fc42d6b2fb7af2c909696b57f23d825d63ffc261,['0b530e0aab4fb7ba1b31074a45302b906c6cc1c3'],mmorise <masanori.morise@gmail.com>,1477445486,+0900,GitHub <noreply@github.com>,1477445486,+0900,Add header information,e714fe9219faa509b281720acaa1c8143e473bec,mmorise_world
+e7625f1970f0fd8fb6305c4779b801e88e3766e8,e677bb943a75282ec3f94b10ecf6a87b1ccbc39f,"['ca07bd3572f4509249a97bc0836588b7b609af5d', 'ca8622de973ff5fa2e129afcc4f4706aecd83245']",mmorise <masanori.morise@gmail.com>,1496709914,+0900,GitHub <noreply@github.com>,1496709914,+0900,"Merge pull request #34 from kangshiyin/unused-assignment
+
+Delete unused assignments",e7625f1970f0fd8fb6305c4779b801e88e3766e8,mmorise_world
+e908302e7687be021ec6d939e87e8ed83f909233,dec43891a155cff4791f21046bb46a5aa5ba95c4,['cfb73d366bb66f3c82077172a79974c5a280dc07'],Giulio Paci <giuliopaci@gmail.com>,1456821144,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Remove relative paths from synthesis.h.
+",e908302e7687be021ec6d939e87e8ed83f909233,mmorise_world
+e9c8819f3d96354c8cf635c4c5d3f648e963f373,a2ccbeb2ee99d86bf252b29648cff9601d50dd0f,['b2e9007e319cb8859e5b3dd7af8d333c9b57868b'],YuzukiTsuru <740291272@qq.com>,1634133618,+0800,YuzukiTsuru <740291272@qq.com>,1634133618,+0800,"add build option for EXAMPLES binary
+",e9c8819f3d96354c8cf635c4c5d3f648e963f373,mmorise_world
+eb20d0ec87b00718f2e0bb32d71872c3833c0d76,f69b483b30da3bb31d0e8252f8f55c46c26438a3,['ad770cc00c45ef1f00a8c1ed2c1d2dce8d26bada'],zuoanqh <zuoanqh@hotmail.com>,1575989575,+0900,zuoanqh <zuoanqh@hotmail.com>,1575989575,+0900,"update target version to work out-of-the-box with latest VS Community
+",eb20d0ec87b00718f2e0bb32d71872c3833c0d76,mmorise_world
+eb95d28463495e58dee45c259fd2c2834f87a55e,344ceb716c48fa80b226e0183eb031bb0c7b4d47,['6190216ab8a35544623cf3e2f0cd02ceb330a56c'],Giulio Paci <giuliopaci@gmail.com>,1456821314,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Fix include directives in test.cpp.
+",eb95d28463495e58dee45c259fd2c2834f87a55e,mmorise_world
+ece4aaf2e2f04046b5baa3861ef5ff0b39039d7a,de3c4282d9e42462b6dfc31e2fd3876eafa3eaf7,['8a69b0e9c041aeaeaddc577df3bf362ac6e930bd'],mmorise <mmorise@yamanashi.ac.jp>,1495292817,+0900,mmorise <mmorise@yamanashi.ac.jp>,1495292817,+0900,"Synthesis function was modified
+",ece4aaf2e2f04046b5baa3861ef5ff0b39039d7a,mmorise_world
+eef716690a26ce31bbe2ebfab06f9e572744eab1,4b16b98840c338be2c071bbec94a5f71c238a064,['b4cfe3d4484dee6ac1c2f7c4eb9f000a1c4633b7'],mmorise <mmorise@yamanashi.ac.jp>,1494341569,+0900,mmorise <mmorise@yamanashi.ac.jp>,1494341569,+0900,"A bug in codec.cpp was fixed.
+",eef716690a26ce31bbe2ebfab06f9e572744eab1,mmorise_world
+ef9f78c8d66a51ff89dee69a3bc4c98618c26e6f,868adf9cd7625caa8db522bec900c2f3be99ab92,['3c6cbbb40cdaf99fde1fbd2749241fb17bbad123'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in common.h.
+",ef9f78c8d66a51ff89dee69a3bc4c98618c26e6f,mmorise_world
+efcd7bb307ec6c163c836a080746fa663750dff0,50d4cb1d83d486edd8b8d4d29275eb17f37dbe39,['4ff9d09470f02ec664f4a53de8bc1d3916739e93'],GloomyGhost <gloomyghost@foxmail.com>,1634049535,+0800,GloomyGhost <gloomyghost@foxmail.com>,1634049535,+0800,"add visualstudio2022 build
+",efcd7bb307ec6c163c836a080746fa663750dff0,mmorise_world
+eff3ba3ac944d37da903701518a68b5cbb03a5ca,07f2a709b80dc55c19b5ba1faa1bc626ce0b73a9,['47747a0544727109e59e8b43f427746790f85d2f'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in stonemask.cpp.
+",eff3ba3ac944d37da903701518a68b5cbb03a5ca,mmorise_world
+f049f5fd826b2df9a99f58b49751f0095ad09a86,52e4b25644407c943af7e9a6ace8ab6275c0f993,['a825684625ddfa7722a82d2aa5739d473e9ce0b9'],mmorise <masanori.morise@gmail.com>,1613381928,+0900,GitHub <noreply@github.com>,1613381928,+0900,Formal release version,f049f5fd826b2df9a99f58b49751f0095ad09a86,mmorise_world
+f0fd67bb93957365f1ad6b2363fb2bcbe69565a2,1eb76729b6d86562303768e214e3bc5dd36df403,['66b2599e8079b72487706cf8185ea30c54701b9d'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821950,+0100,"Updated cheaptrick.cpp to use MyMin<Type> and MyMax<Type>.
+",f0fd67bb93957365f1ad6b2363fb2bcbe69565a2,mmorise_world
+f12b952aa53cdf0ebb8a6421c9dab71616e2f7e2,f78f4a9a83f9a2275cd5e7492552435850d8ae8c,['eff3ba3ac944d37da903701518a68b5cbb03a5ca'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in synthesis.cpp.
+",f12b952aa53cdf0ebb8a6421c9dab71616e2f7e2,mmorise_world
+f254d1c0a5e9e80b9f7e8d3b4709b9e93d52f618,e74c2f3de0f1f5130845c2ef10c496667094f968,"['c80d74a6c5a817621f636fffb5f54a98e7f5f796', '1f99fc40c4aa390e6a0e1fd2af5da91dde443dca']",mmorise <masanori.morise@gmail.com>,1492849324,+0900,GitHub <noreply@github.com>,1492849324,+0900,"Merge pull request #30 from wuaalb/working2
+
+Expose lower F0 limit for CheapTrick",f254d1c0a5e9e80b9f7e8d3b4709b9e93d52f618,mmorise_world
+f3474cc4528b6536d48568d06a8a767339d28111,1d5d1769ea8fdc88481607385d170566b3a403d3,['9762f3795f3077c82558373d8f9bc15207e9eff0'],mmorise <mmorise@yamanashi.ac.jp>,1489327546,+0900,mmorise <mmorise@yamanashi.ac.jp>,1489327546,+0900,"parameter I/O tool is added
+",f3474cc4528b6536d48568d06a8a767339d28111,mmorise_world
+f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882,a8818e57f4242846e0dbddb71e519d4c45ff07b7,['13afdd6df75efb85c0c90ab15a3e65014fffd04c'],mmorise <masanori.morise@gmail.com>,1581605438,+0900,GitHub <noreply@github.com>,1581605438,+0900,Update README.md,f3667c46f6c147c29fa1425c1a6cf9bdfd7a0882,mmorise_world
+f58724f7148a2be501b163f4561733daefb40889,cc7f294a94aa7374c5e7e7786204e8b9c1f6d701,['e54e5578e767bbf14b26dd950dd26784e22cbcfb'],mmorise <masanori.morise@gmail.com>,1460703108,+0900,mmorise <masanori.morise@gmail.com>,1460703108,+0900,Update README.md,f58724f7148a2be501b163f4561733daefb40889,mmorise_world
+f718c18beb91813bbb5f617c22a60bc33263b845,498799598e33043666e1102646cd6c55859f13be,['866578a79f59afb0e69982a9248d8306cdc4affe'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in dio.cpp.
+",f718c18beb91813bbb5f617c22a60bc33263b845,mmorise_world
+f81ab080685e6e908cd44deb976cc60850eba4b3,df1b568672374f481390272d479b408dbbdb5d48,['93645b6cd0ed1629c2164f6ba3913b4eff79a37c'],yamachu <yamachu.co@gmail.com>,1461053072,+0900,yamachu <yamachu.co@gmail.com>,1461053235,+0900,"Convert explicitly Struct-WorldSynthesizer's member
+",f81ab080685e6e908cd44deb976cc60850eba4b3,mmorise_world
+f88cfa7e761cc9119a5a2498b2e46fa110672a44,b7c7cfb1584ef23df04af04c7371308635a1cbd0,['6fcc5e93a43fd7c9f439b3d22546aa4268a3d3ea'],mmorise <masanori.morise@gmail.com>,1483344233,+0900,GitHub <noreply@github.com>,1483344233,+0900,Update README.md,f88cfa7e761cc9119a5a2498b2e46fa110672a44,mmorise_world
+f8c7a9e3d219a4bccef2e228f39f4d9400e7efe2,8bbe4aef7fb97db1e8c1c952a5768f93f89d0242,['2e449b1e17eb2186c3e2e2ca49d6880b31d62819'],Giulio Paci <giuliopaci@gmail.com>,1456821314,+0100,Giulio Paci <giuliopaci@gmail.com>,1456821479,+0100,"Fix include directives in audioio.cpp.
+",f8c7a9e3d219a4bccef2e228f39f4d9400e7efe2,mmorise_world
+f8dd5fb289db6a7f7f704497752bf32b258f9151,e76616acb26b0f3e878e4d5d191b9fd8f813333d,['1302a4d77e2bd7d7faa1e05aeaead8838458ba82'],mmorise <masanori.morise@gmail.com>,1685954232,+0900,GitHub <noreply@github.com>,1685954232,+0900,Update README.md,f8dd5fb289db6a7f7f704497752bf32b258f9151,mmorise_world
+f9286f264f45b11435445cbd4e169ffac42e1667,5ceb293a1f5894be99a448fe5d11e932f999a1c3,['bf551e885d0673203e9741761883f16479101350'],Giulio Paci <giuliopaci@gmail.com>,1453464168,+0100,Giulio Paci <giuliopaci@gmail.com>,1453821951,+0100,"Updated stonemask.cpp to use MyMin<Type> and MyMax<Type>.
+",f9286f264f45b11435445cbd4e169ffac42e1667,mmorise_world
+f957d4328a65692f8b28584acd09a06cf2f670bf,2c903d86c4e623a05c10cab7535250df3f46c3ed,[],mmorise <masanori.morise@gmail.com>,1447574109,+0900,mmorise <masanori.morise@gmail.com>,1447574109,+0900,"Initial commit
+",f957d4328a65692f8b28584acd09a06cf2f670bf,mmorise_world
+fb558e19110f66e3bd5fd7176b39eed88f7a997b,5de65b4b4dc8f06f8041264cfe205ab35ab2df9d,['27530ac8c0f0e792e5b9da50cbe8775980189143'],Giulio Paci <giuliopaci@gmail.com>,1456483625,+0100,Giulio Paci <giuliopaci@gmail.com>,1456501339,+0100,"Added static keyword to functions in anonymous namespace in audioio.cpp.
+",fb558e19110f66e3bd5fd7176b39eed88f7a997b,mmorise_world
+fb66373eb1f8d5a0d968b1bf0c2ac90d1583b9f9,de8e89b5d35a99e4258c0848c5eff32466d94979,['ef9f78c8d66a51ff89dee69a3bc4c98618c26e6f'],Giulio Paci <giuliopaci@gmail.com>,1457021622,+0100,Giulio Paci <giuliopaci@gmail.com>,1457021697,+0100,"Added world/ prefix to included headers in d4c.h.
+",fb66373eb1f8d5a0d968b1bf0c2ac90d1583b9f9,mmorise_world
+fddaba28e6c2c7ef2f0c4f43c3c42a3e35e6e3d0,8db3badddcf9dae91025895bd84ae43dc3f35448,['503953c9ba9fd14309ec23115c6776c573f96eb9'],mmorise <masanori.morise@gmail.com>,1475390896,+0900,GitHub <noreply@github.com>,1475390896,+0900,Typos were fixed.,fddaba28e6c2c7ef2f0c4f43c3c42a3e35e6e3d0,mmorise_world
+fe5a2fdaad68fcecb043b49842bdd992692d097e,df6d4f8ae304c8781cb5c4397edb06d555adf673,['5e5569be2984e266b24190efbee4503181746f7a'],vlee78 <vlee78@gmail.com>,1536598570,+0800,vlee78 <vlee78@gmail.com>,1536598570,+0800,"fix decimate bug
+",fe5a2fdaad68fcecb043b49842bdd992692d097e,mmorise_world
+fefe759250a2c64fc36bcde955aba899b7f137b8,aee894d83093ed1c0226febd5374d120e8207b7a,['ac2784dd1039608ed2ce985a3f8b71c0d1fb8489'],sukumo28 <sawalemontea@gmail.com>,1594820770,+0900,sukumo28 <sawalemontea@gmail.com>,1594820770,+0900,"fix comment
+",fefe759250a2c64fc36bcde955aba899b7f137b8,mmorise_world
+ff031b927b34b33344f63bc0e456eb13668055fb,d88797372c000ac7cb1b020464991021299bdf4b,['f718c18beb91813bbb5f617c22a60bc33263b845'],Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,Giulio Paci <giuliopaci@gmail.com>,1454417444,+0100,"Added static keyword to functions in anonymous namespace in fft.cpp.
+",ff031b927b34b33344f63bc0e456eb13668055fb,mmorise_world
