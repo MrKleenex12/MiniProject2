@@ -4,15 +4,13 @@
 
 
 # Work schedule
-- Part 1: (Due Oct 9) Retrieve all commits and associated data for
+- Part 1: (Due Sept 28th) Retrieve all commits and associated data for
 each of the 10 projects
-- Part 2: (Due Oct 16) Plot (and describe) commit trends over time for each project
-- Part 3: (Due Oct 23)  Investigate trends for large gaps, discontinued
+- Part 2: (Due Oct 1st) Plot (and describe) commit trends over time for each project
+- Part 3: (Due Oct 8th)  Investigate trends for large gaps, discontinued
 contributions, and other anomalies and report topics of commits
 before and after the gap
-- Part 4: (Due  Oct 30) Based on all available evidence make a
-judgment about the reasons for the gap or discontinued contribution
-and reasons for restarted contributions (if any)
+- Based on all available evidence make a judgment about the reasons for the gap or discontinued contribution and reasons for restarted contributions (if any)
 - If you run requests in a loop, make sure the chunks are under 50
   commits and include some waits between the subsequent requests 
 - You'll find the list of 10 projects in [net2prj.csv](https://github.com/fdac25/MP2/blob/main/net2prj.csv): your assigned projects
@@ -134,7 +132,7 @@ min time]
 
 [Example Notebook](https://github.com/fdac25/MP2/blob/main/Vis.ipynb)
 
-# Part 3 details: Examine Commits Before and After the Gap
+# Part 3.1 details: Examine Commits Before and After the Gap
 
 Fore each of the ten projects
 1. Collect the last 10 commits before the longest gap (or all if
@@ -160,7 +158,7 @@ fewer exist) from netid_project_summary.csv
 
 
 
-# Part 4 details: Interpret the Gap
+# Part 3.2 details: Interpret the Gap
 
 1. Read the commit messages carefully looking for any hints about
  the reasons for the gap and reasons for the interruption of the
