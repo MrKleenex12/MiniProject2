@@ -1,0 +1,473 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;asgr_profound;2e02ddce97ef047cd83d311296d5feb5b0c26e3f;Aaron Robotham <aaron.robotham@uwa.edu.au>;1693376910;"Oops
+"
+pre;asgr_profound;a1f99b6f12717ce16ae8d6257901a686c4f1b7df;Aaron Robotham <aaron.robotham@uwa.edu.au>;1693891300;"Some check bugs fixed.
+"
+pre;asgr_profound;6c00c7d691b42c92b54f3dc3ad9e3efd2addea46;Aaron Robotham <aaron.robotham@uwa.edu.au>;1697598934;"Some small updated to improve profound object inputs.
+"
+pre;asgr_profound;88b5099c5c662bdf63642af05f8c3be7d253d98c;Aaron Robotham <aaron.robotham@uwa.edu.au>;1698890520;"Deprecated functions finally removed.
+"
+pre;asgr_profound;2f76265a89a3544ec2a8acc93f8e88259408b514;Aaron Robotham <aaron.robotham@uwa.edu.au>;1699259329;"Small updates.
+"
+pre;asgr_profound;c2e02a7efbd5e724aed390438d189806599ca410;Aaron Robotham <aaron.robotham@uwa.edu.au>;1700019531;"Better mask drawing.
+"
+pre;asgr_profound;b5f678673afac0321e59bdbc3fff6f5c5c92ea78;Aaron Robotham <aaron.robotham@uwa.edu.au>;1700032251;"Rfits only support.
+
+Header fully replaced with keyvalues!
+"
+pre;asgr_profound;51b4288015b11383a59907b92deba0c1549583b1;Aaron Robotham <aaron.robotham@uwa.edu.au>;1706778137;"Doc fix
+"
+pre;asgr_profound;e9525541e059bfa0e5381b22d2ee15cfcecb7259;Aaron Robotham <aaron.robotham@uwa.edu.au>;1706778178;"Merge pull request #25 from asgr/keyvalues_only
+
+Keyvalues only"
+pre;asgr_profound;842009aec096fbc84149b6b1eef1ea9210de785c;Aaron Robotham <aaron.robotham@uwa.edu.au>;1707459029;"profoundProFound will now load a Rfits_pointer object. This means profoundMultiBand can also be (e.g.) a list of Rfits_pointers- this should help reduce the memory footprint quite a lot for big runs.
+"
+post;asgr_profound;3fbbd44d19202fcb6bffeac954d181e0251c692b;Aaron Robotham <aaron.robotham@uwa.edu.au>;1727170149;"app_diam default is now NA (to stop silly mistakes...)
+"
+post;asgr_profound;4a423c4e4cce493e60f29e672bec10109e2e5749;Aaron Robotham <aaron.robotham@uwa.edu.au>;1727170236;"Work in progress. Need ability to pass in segim_orig and segim so both colour and total photometry modes work.
+"
+post;asgr_profound;2c4137203ce4fcec2ddebe72594fbe391044168d;Aaron Robotham <aaron.robotham@uwa.edu.au>;1727942917;"profoundMultiBand updates to allow the passing of segim and segim_orig with no detect bands. Can speed things up a lot if that step isn't needed.
+"
+post;asgr_profound;6eea3b7848e3f1b1f69c289fa1bc5fc0d22dadbe;Aaron Robotham <aaron.robotham@uwa.edu.au>;1727944088;"segimlist fixed for iters_tot > 0
+"
+post;asgr_profound;225ecf0fd010c3273a17411b14c0521aa5355ce0;Aaron Robotham <aaron.robotham@uwa.edu.au>;1727945995;"Just doc updates.
+"
+post;asgr_profound;58a020750f021585794bc960e3a6d09ebc50f1d0;Joel G <joel.gil@proton.me>;1728655625;"upgrade cicd
+"
+post;asgr_profound;5d05343b9bd173157aec45033e6c0ce3539921fd;Aaron Robotham <aaron.robotham@uwa.edu.au>;1730273308;"Added new segim_orig option to profoundMultiBand. Seems to be working fine.
+"
+post;asgr_profound;ff03f1c642b4d05387c5b20a024a2a092a49b860;Aaron Robotham <aaron.robotham@uwa.edu.au>;1730273485;"manual formatting
+"
+post;asgr_profound;4b3f6cecee48b205d4078e2e4619c1525b5dcadc;Aaron Robotham <aaron.robotham@uwa.edu.au>;1732780643;"Will need this version for the Workshop
+"
+post;asgr_profound;cd1947f8a05d60665438453f08f6e5fc1ae732a0;Aaron Robotham <aaron.robotham@uwa.edu.au>;1744278174;"Weird corner case for WAVES fixed (to do with masked mixed with exactly 0). Thanks Simon and Sabine!
+"
+pre;homalg-project_toricvarieties_project;031976fe20a2569e1157a65642ea663d0e88c983;Martin Bies <MBies87@googlemail.com>;1672136255;"Remove old find_connected_components method
+"
+pre;homalg-project_toricvarieties_project;1c68de49de2e6a6e8ce711c1b7d2223d167ad6b2;Martin Bies <MBies87@googlemail.com>;1672136255;"Remove old find_connected_components method
+"
+pre;homalg-project_toricvarieties_project;1ac4bec2a58f4c90f0e0004b3b4fc31d7e68bc49;Martin Bies <MBies87@googlemail.com>;1672136309;"Update .gitignore
+"
+pre;homalg-project_toricvarieties_project;4e60d64b9072e077ee61fda387bf5a129238eb0f;Martin Bies <MBies87@googlemail.com>;1672136309;"Update .gitignore
+"
+pre;homalg-project_toricvarieties_project;406a26a515cda8e9e2beb0d6cbffe29ab1918fa3;Martin Bies <MBies87@googlemail.com>;1672136450;"Remove passing on resolved_edges when not needed
+"
+pre;homalg-project_toricvarieties_project;c224079678c7893e2010cdc54dd8fa26a5d2eda1;Martin Bies <MBies87@googlemail.com>;1672136450;"Remove passing on resolved_edges when not needed
+"
+pre;homalg-project_toricvarieties_project;883eda1b60a45f9f6b98dc03c7122ebc3857af4f;Martin Bies <MBies87@googlemail.com>;1672137809;"Check for lower bound was not fully reliable in the past -> fixed
+"
+pre;homalg-project_toricvarieties_project;b6a1b226dac7dc4eb75ece16ace5befee6421ad8;Martin Bies <MBies87@googlemail.com>;1672137809;"Check for lower bound was not fully reliable in the past -> fixed
+"
+pre;homalg-project_toricvarieties_project;c630f5ea62223ec52664546164b0b4c40a5019d3;Martin Bies <MBies87@googlemail.com>;1672223423;"Remove command that limits us to a single thread
+"
+pre;homalg-project_toricvarieties_project;eca3852464d620cf1ede5d07b3e7ea37c2923611;Martin Bies <MBies87@googlemail.com>;1672223423;"Remove command that limits us to a single thread
+"
+post;homalg-project_toricvarieties_project;c26e7ed4ba9efaa20232ae0509ae7fc393b04894;Max Horn <max@quendi.de>;1734738257;"Avoid using InstallValue on non-plain objects
+"
+post;homalg-project_toricvarieties_project;41f40cbd43f36da6c00b313ec1e2e7030470bca0;Max Horn <max@quendi.de>;1734738257;"Avoid using InstallValue on non-plain objects
+"
+post;homalg-project_toricvarieties_project;eb25286762e6c8cc9e00df4ae8d31733ddad14cb;Max Horn <max@quendi.de>;1735841828;"Sebastian surely is not maintainer anymore
+"
+post;homalg-project_toricvarieties_project;5ab7ce971db41d4c6cbc60dd869ad58e2c06204b;Martin Bies <HereAround@users.noreply.github.com>;1736792692;Update Readme.md
+post;homalg-project_toricvarieties_project;a589671f272c7455a08c241f069ea7d10e1c14ac;Martin Bies <HereAround@users.noreply.github.com>;1736792692;Update Readme.md
+post;homalg-project_toricvarieties_project;c1c81c3df39f20e7b9a28f1da4c62377bb455b5f;Martin Bies <HereAround@users.noreply.github.com>;1736792798;Update Readme.md
+post;homalg-project_toricvarieties_project;d7a0e6d26120a1c6fc3efbcde22dc21c83c372ce;Martin Bies <HereAround@users.noreply.github.com>;1736792798;Update Readme.md
+pre;lanl_elements;94fe88093c0eef1c10e2562c1828ce7d6d0caf2f;Daniel Dunning <39738037+djdunning@users.noreply.github.com>;1699475918;"code cleanup
+"
+pre;lanl_elements;f971778eed9c87b6a024f4a7eb369bf601829b1d;Jan Filipe Kiviaho <jfk115@msstate.edu>;1699599360;"Merge d549d90632e369461ab39c61bda87f7dd73c6734 into d522fb966a4517ccc92031b45d57ecc28b1dbd05
+"
+pre;lanl_elements;e11177b9df36fa9dd53eef4b9313168ebddfc4c6;Daniel Dunning <ddunning@lanl.gov>;1700070741;"Elements should now work as a cmake library
+"
+pre;lanl_elements;0de655cd260e60e4f037a78561dddfb9c8757fc7;Nathaniel Morgan <47866137+nathanielmorgan@users.noreply.github.com>;1700148374;"Merge pull request #25 from lanl/Daniel
+
+Looks good"
+pre;lanl_elements;2efdbaac2cf5dd5e1429fe98fcb8345177aac0ad;Nathaniel Morgan <47866137+nathanielmorgan@users.noreply.github.com>;1700148385;"Merge e8c86dbdf061cd99f380aace5997440b08d878e8 into 0de655cd260e60e4f037a78561dddfb9c8757fc7
+"
+pre;lanl_elements;240ec85d06aa7ace9385a7e4d6cc1b0554de0ba6;Adrian-Diaz <adriandiaz1117@gmail.com>;1700551328;"update matar
+"
+pre;lanl_elements;5bfc94f5e176d54ff2ef51f93541440be0c17510;Adrian-Diaz <46537160+Adrian-Diaz@users.noreply.github.com>;1700551428;"Merge pull request #26 from Adrian-Diaz/master
+
+update matar"
+pre;lanl_elements;0bf3f8fc08a583928ef3fb07cc10ace7e6db0803;Daniel Dunning <ddunning@lanl.gov>;1701791393;"merged from master
+"
+pre;lanl_elements;4c028383b2ece9a632aaf06b65232e4d36fad117;Daniel Dunning <ddunning@lanl.gov>;1701804180;"updated matar submodule
+"
+pre;lanl_elements;86a9510f8987fcb4ad9ba56d53210a0419cc85eb;Daniel Dunning <39738037+djdunning@users.noreply.github.com>;1701809770;"Merge pull request #27 from lanl/Daniel
+
+Daniel"
+post;lanl_elements;d410ada76ab4daa5cc3249f0f6289b6af89760be;Daniel Dunning <ddunning@lanl.gov>;1722350086;"updated matar version (for updated Kokkos)
+"
+post;lanl_elements;cf521e627c76926425f346a89f41d61087631468;Daniel Dunning <39738037+djdunning@users.noreply.github.com>;1722350160;"Merge pull request #28 from lanl/Daniel
+
+updated matar version (for updated Kokkos)"
+post;lanl_elements;955f1b956d31d2fa7b471c9b25454841a2762baf;Nathaniel Morgan <47866137+nathanielmorgan@users.noreply.github.com>;1724111239;"Merge e8c86dbdf061cd99f380aace5997440b08d878e8 into cf521e627c76926425f346a89f41d61087631468
+"
+post;lanl_elements;1f671be722b4023db82642b637120dfcf8accc23;Adrian-Diaz <adriandiaz1117@gmail.com>;1736535517;"ENH: update matar submodule
+"
+post;lanl_elements;38bc48fa84882a975e5a80a8781af9f51cdd73d7;Adrian-Diaz <46537160+Adrian-Diaz@users.noreply.github.com>;1736536027;"Merge pull request #29 from Adrian-Diaz/master
+
+ENH: update matar submodule"
+post;lanl_elements;413ad3598e35bdcee10f3fb29cb3e63e05afbe95;Nathaniel Morgan <47866137+nathanielmorgan@users.noreply.github.com>;1743668330;"Merge e8c86dbdf061cd99f380aace5997440b08d878e8 into 38bc48fa84882a975e5a80a8781af9f51cdd73d7
+"
+post;lanl_elements;648216304859f253aa0d0d437e38930ffd557140;Adrian-Diaz <adriandiaz1117@gmail.com>;1747688312;"ENH: Update Matar submodule
+"
+post;lanl_elements;829e60b5dc74cb0fdf2744d04b3c2bff2e4f1d4e;Adrian-Diaz <46537160+Adrian-Diaz@users.noreply.github.com>;1747688595;"Merge pull request #30 from Adrian-Diaz/master
+
+ENH: Update Matar submodule"
+post;lanl_elements;e90eb2b4c9ac02656e6da502d5e4453a793db113;Jacob Moore <jacoblinleymoore@gmail.com>;1748442700;"ENH: Updating matar submodule commit
+"
+post;lanl_elements;4edd9ff967b716f7307715198bd546482cc76cd0;Jacob Moore <133793250+jacob-moore22@users.noreply.github.com>;1748444356;"Merge pull request #31 from lanl/Submodule_update
+
+ENH: Updating matar submodule commit"
+pre;ldbc_sigmod2014-pc;1718afb563cc5a84663a235788df401cb2392b8b;marci543 <marci543@users.noreply.github.com>;1610818258;"Add logging in Q3
+"
+pre;ldbc_sigmod2014-pc;f9523d4ca585730281178d4a30fbfd860a07712f;marci543 <marci543@users.noreply.github.com>;1610821054;"Add logging in Q4
+"
+pre;ldbc_sigmod2014-pc;912f75fd746fe93b71fa4b2ffe5abc55d8f4d846;marci543 <marci543@users.noreply.github.com>;1610827087;"Log input sizes
+"
+pre;ldbc_sigmod2014-pc;62151d2969572ff62e7861fd9fcc61cb56fa230c;marci543 <marci543@users.noreply.github.com>;1611157194;"Add missing log
+"
+pre;ldbc_sigmod2014-pc;709fc88dfb7beb3c3f797717dbb78fc6560db7dd;marci543 <marci543@users.noreply.github.com>;1611161080;"Add missing logging
+"
+pre;ldbc_sigmod2014-pc;2d8c5163d4559ff57d837d5dd45a576034612229;marci543 <marci543@users.noreply.github.com>;1611590857;"Add number of components logging to Q2
+"
+pre;ldbc_sigmod2014-pc;959d4df43f3a575db135cb4f673a57df9717ccd8;marci543 <marci543@users.noreply.github.com>;1611595178;"Log component sizes in Q1
+"
+pre;ldbc_sigmod2014-pc;0618fc9870e6e96480cf1915203b71adef5224a3;marci543 <marci543@users.noreply.github.com>;1611598016;"Fix component size logging in Q1
+"
+pre;ldbc_sigmod2014-pc;05af2da164cbff02b59d9b6f9db2b076b8284a54;Gabor Szarnyas <szarnyasg@gmail.com>;1622336722;"Add LICENSE and NOTICE files
+"
+pre;ldbc_sigmod2014-pc;fe2a7144c8d0f13c49221ce3488a89ab7210877e;Márton Elekes <17354718+marci543@users.noreply.github.com>;1657805833;Add DOI
+post;ldbc_sigmod2014-pc;9839d750d7387307f1b76234e2894f53a46f910c;Márton Elekes <17354718+marci543@users.noreply.github.com>;1748644377;Fix missing import
+pre;libatoms_quip;df0ec034e699a74d42c0146e9d73284171f8c7fa;Tamas K Stenczel <tks32@cam.ac.uk>;1722671191;"Arch file for ARM MacOS with OpenMPI
+
++ update copyright header in darwin_arm64 arch files
+"
+pre;libatoms_quip;095307be0cc214e83235e6cbacf62d3f6cf107ff;James Kermode <james.kermode@gmail.com>;1722845735;"Merge pull request #661 from libAtoms/darwin-arm-openmpi-arch
+
+Arch file for ARM MacOS with OpenMPI"
+pre;libatoms_quip;95cad1027119ee6c0cc05e35e0e92c4c2649acfe;jameskermode <jameskermode@users.noreply.github.com>;1722846348;"deploy: 095307be0cc214e83235e6cbacf62d3f6cf107ff
+"
+pre;libatoms_quip;2b2a651655ac81700d8832142a6dfe2c00935d92;James Kermode <james.kermode@gmail.com>;1723555693;"update version bound on f90wrap.
+"
+pre;libatoms_quip;42b9836534c3019e6dddb916bd92d21e9599e432;lraybould <137903548+lraybould@users.noreply.github.com>;1723709451;"Added SphericalIterative() and GradSphericalIterative() to angular_functions.f95 (#619)
+
+* Added IterativeHarmonics()
+
+* Made some efficiency changes
+
+* Created test_angular_benchmark
+
+* Added GradSphericalIterative
+
+* Changes to GradSphericalIterative
+
+* Changed s_c for IterativeHarmonics
+
+* Fixed issue with IterativeHarmonics output
+
+* Cleaned up variable allocations
+
+* Changed the name of IterativeHarmonics
+
+Changed IterativeHarmonics to SphericalIterative for consistency
+
+* git rm to remove some files from PR
+
+* Improved computation of s_m and c_m"
+pre;libatoms_quip;6b15ff9019d6165110edd459a7a31dcd83562f1c;albapa <albapa@users.noreply.github.com>;1723709955;"deploy: 42b9836534c3019e6dddb916bd92d21e9599e432
+"
+pre;libatoms_quip;0097912b6b4f2fa7d125a08926802f9c18e3c8e8;Albert Bartok-Partay <apbartok@gmail.com>;1723883838;"updating the version of GAP
+"
+pre;libatoms_quip;61fbbd7bb1f0768eabb1b13b0da05fc958d44449;James Kermode <james.kermode@gmail.com>;1727450305;"Merge pull request #663 from libAtoms/issue662
+
+update version bound on f90wrap"
+pre;libatoms_quip;0b50cf8bbf4ea5dfd8026b7dbce9555f57800837;albapa <apbartok@gmail.com>;1727450322;"Merge 0097912b6b4f2fa7d125a08926802f9c18e3c8e8 into 61fbbd7bb1f0768eabb1b13b0da05fc958d44449
+"
+pre;libatoms_quip;fc4775434145594d675a63633b42fc326885a6d8;jameskermode <jameskermode@users.noreply.github.com>;1727450814;"deploy: 61fbbd7bb1f0768eabb1b13b0da05fc958d44449
+"
+post;libatoms_quip;55490f06fedc08c6705931ea9aa2ac406c2ebf5c;Albert Bartok-Partay <apbartok@gmail.com>;1744197967;"removed test program
+"
+post;libatoms_quip;8a6cad4deff93bf17613a3fa1207803d07fc9aee;Albert Bartok-Partay <apbartok@gmail.com>;1744217336;"remove references of F95
+"
+post;libatoms_quip;52ad26408691240e3a6b29fddd65a65f2a81bf65;Albert Bartok-Partay <apbartok@gmail.com>;1744217390;"changed references of F95 to F90
+"
+post;libatoms_quip;6cb56fadadc49fedfcb094852f91c1e7ba4bb143;Albert Bartok-Partay <apbartok@gmail.com>;1744217420;"changed references of F95 to F90
+"
+post;libatoms_quip;78dcd4f0cd900681bc61be0f9731d8b5cd4e6f10;Albert Bartok-Partay <apbartok@gmail.com>;1744217431;"changed references of F95 to F90
+"
+post;libatoms_quip;ac810215963a917cb425c07f3e45fe1e12e3e300;Albert Bartok-Partay <apbartok@gmail.com>;1744217475;"renamed source files to have F90 extension
+"
+post;libatoms_quip;18020c9623b97d7350a991ce0fd9e8a8234172db;Albert Bartok-Partay <apbartok@gmail.com>;1744217484;"renamed source files to have F90 extension
+"
+post;libatoms_quip;81ac49b0d23c9fb370fc3a55993064802fcf7c95;Albert Bartok-Partay <apbartok@gmail.com>;1744217495;"renamed source files to have F90 extension
+"
+post;libatoms_quip;22b11db2e6c9c52e051b55ca53fbf84e005d466a;Albert Bartok-Partay <apbartok@gmail.com>;1744218869;"renamed source files to have F90 extension
+"
+post;libatoms_quip;200bf52f5aa7d67faf4e99e20aad9870ed027547;Albert Bartok-Partay <apbartok@gmail.com>;1744218953;"renamed source files to have F90 extension
+"
+pre;nanocomp_meep;f15426b59d4b7f0851ac835d7a5aa04767a4d716;stevenj <stevenj@alum.mit.edu>;1342745921;"whoops, add stress_tensor to 'make check' tests
+"
+pre;nanocomp_meep;882e1f9893f868bd56e52cbca7229ae6d1178233;stevenj <stevenj@alum.mit.edu>;1342748522;"fix to work with MEEP_SINGLE (i.e. in single precision)
+"
+pre;nanocomp_meep;113f1d43ad4534287b20067ddb4d369a67824759;stevenj <stevenj@alum.mit.edu>;1342751977;"run 'make check' with at most 4 processes (since Meep aborts if we use more processes than the grid diameter, and 4 processes should be a rigorous enough test by default); aniso_disp can only use 1 process, so do this with divide_parallel
+"
+pre;nanocomp_meep;ef3bc16614a2f7145344b936c0c3b86e9eb01d50;stevenj <stevenj@alum.mit.edu>;1342752105;"update tentative release date
+"
+pre;nanocomp_meep;8733424adf01f87ffd73e21a14246db39df3d341;stevenj <stevenj@alum.mit.edu>;1342806288;"whoops, copyright update
+"
+pre;nanocomp_meep;9df3e19096f2ed371fe2ec5ce29940a483c8b1c2;stevenj <stevenj@alum.mit.edu>;1344269797;"fix a couple of problems that were causing NaNs in LDOS for multiple processors
+"
+pre;nanocomp_meep;2a2bdcfb2cc9171688dbf26d25f251418aacd7d0;stevenj <stevenj@alum.mit.edu>;1344271291;"some fixes to lapack/blas linking
+"
+pre;nanocomp_meep;0bfebab97dba529e2303db9ce38fab0b42ea1d1b;stevenj <stevenj@alum.mit.edu>;1346894608;"cosmetic change to test code to work around gcc bug #54498
+"
+pre;nanocomp_meep;eb1db4dbd65566bc9b3a7f1585853e29b6c963ef;stevenj <stevenj@alum.mit.edu>;1346894906;"version bump for 1.2.1
+"
+pre;nanocomp_meep;489963174cb0c8ab9e974fbd8c9206cac689faa1;stevenj <stevenj@alum.mit.edu>;1353376911;"export BesselJ function to Scheme, use POSIX jn if GSL not available
+"
+post;nanocomp_meep;38a6e3f996c7c1cab7c9a9c381f848e00030baf2;stevenj <stevenj@alum.mit.edu>;1395843685;"silence compiler warning
+"
+post;nanocomp_meep;d54eacbfc610fa1bc478991e3a36cd9f09567298;stevenj <stevenj@alum.mit.edu>;1395843798;"remove obsolete TODO items
+"
+post;nanocomp_meep;2cffb4e227b7a08333dd57440e03e5358cffd9b0;stevenj <stevenj@alum.mit.edu>;1395934732;"fix bug where susceptibility not set correctly per chunk due to tree restriction (+ a couple code simplifications)
+"
+post;nanocomp_meep;a929782795c2a3aeec9db7d45189470f292c0d8f;stevenj <stevenj@alum.mit.edu>;1395954888;"add ""absorber"" type of ""pml_layer"" to make it easy to use a scalar absorption ramp in cases where PML fails""
+"
+post;nanocomp_meep;ce86aa08806a446d5335d2199ab3560cd9fd91b5;Steven G. Johnson <stevenj@alum.mit.edu>;1396033142;"git conversion
+"
+post;nanocomp_meep;e336901cef2e046aec834a81b467318619b9faac;Steven G. Johnson <stevenj@alum.mit.edu>;1396033537;"add mailmap file
+"
+post;nanocomp_meep;9a1f0bf52ee240cdd905f440d2768c853b69e5fd;Steven G. Johnson <stevenj@alum.mit.edu>;1396041653;"make ivec get_field a public method, for debugging convenience
+"
+post;nanocomp_meep;b68bc6cbb87eae83a9e39d95132aa51777460566;Steven G. Johnson <stevenj@alum.mit.edu>;1396041972;"prepare for 1.2.1 release
+"
+post;nanocomp_meep;28078d535f72a0951504eeaaf32f6d321fb1b60f;Steven G. Johnson <stevenj@alum.mit.edu>;1396112087;"make locate_component_point public to aid debugging
+"
+post;nanocomp_meep;37e0f187ff4792b11873ef09c6276445daf25d51;Steven G. Johnson <stevenj@alum.mit.edu>;1396967409;"mailmap updates
+"
+pre;opticspy_lightpipes;0a55534582fc17d58501701ee11df049f2b1c501;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1448537820;"edit
+"
+pre;opticspy_lightpipes;5a042854a680d3dfda2fa40752773e0770268ed7;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1448569344;"add and edit
+"
+pre;opticspy_lightpipes;72672109dadf0f99d9eca79407e5111354c07bee;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1448813090;"edit
+"
+pre;opticspy_lightpipes;3753ebcec84b5eed1140bac361cc6ec2a482628c;FredvanGoor <fred511949@gmail.com>;1448984964;Update command-reference.md
+pre;opticspy_lightpipes;97539e2ca083f67aca97c71938a6ebe6aa31dddb;FredvanGoor <fred511949@gmail.com>;1448984995;Update command-reference.md
+pre;opticspy_lightpipes;63b010290e93083689c8b91baa48d3cf9abb050d;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1449229442;"edit examples
+"
+pre;opticspy_lightpipes;c6c9ddd07c2fddde4b6ca3ee1ee29672c067d6c5;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1449248137;"add newest version
+"
+pre;opticspy_lightpipes;b4e17604ee297866ddafc69377ab2cebcb4104a9;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1449248878;"update
+"
+pre;opticspy_lightpipes;f1bb871c7ca69557fb0c9cf9afb436167d102d88;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1449412297;"edit README
+"
+pre;opticspy_lightpipes;487cb640e7cabe7c506e0db6d955e701a46d6d6b;FredvanGoor <GoorFA@UTWKS20785.ad.utwente.nl>;1449412824;"edit README
+"
+post;opticspy_lightpipes;52f72bff1f5b0845ff99e810e857828580253bfd;FredvanGoor <fred511949@gmail.com>;1485163489;with fast fftw3
+post;opticspy_lightpipes;8306d25d94f369cb7c91d8b2c107d1ebae8dbeb2;FredvanGoor <fred511949@gmail.com>;1485268215;python 2.7 with fast fftw3
+post;opticspy_lightpipes;eb66848f6e693673749c8d5c3cb2b2d1ec077995;FredvanGoor <fred511949@gmail.com>;1485268356;Python 3.5 with fast fftw3
+post;opticspy_lightpipes;020f2dc0529ff8a0c1cfa06e962d085e68e89a82;FredvanGoor <fred511949@gmail.com>;1485448032;Add sources
+post;opticspy_lightpipes;f8dfc32b4f0a992344f3582ef75450675e6e1f54;FredvanGoor <fred511949@gmail.com>;1485448385;Update README.md
+post;opticspy_lightpipes;21d626ebf7b6ff7fdf25bbac53a894f7c3f35ebd;FredvanGoor <fred511949@gmail.com>;1485448480;Update README.md
+post;opticspy_lightpipes;36dd4907c12e77c54cb177287493cf6fe1748a91;FredvanGoor <fred511949@gmail.com>;1485448515;Update README.md
+post;opticspy_lightpipes;19f796ae43f737b630709557a81e88048b908d62;FredvanGoor <fred511949@gmail.com>;1485448598;Update README.md
+post;opticspy_lightpipes;9233380d19eed9c9867f4f163a5cbe2a5ecda058;FredvanGoor <fred511949@gmail.com>;1485508299;"moved source files to own directory
+"
+post;opticspy_lightpipes;5aaf9e9cb596aef515234005811fdb3738d0b11d;FredvanGoor <fred511949@gmail.com>;1485509487;"repaired LightPipes.pyx
+
+def setGridWavelength(self, newWavelength):
+must be:
+def setWavelength(self, newWavelength):
+"
+pre;ph-rast_bmgarch;91882f895e2d3ce4d132de68d0c5147985f86fdc;Philippe Rast <rast.ph@gmail.com>;1637566233;"local check
+"
+pre;ph-rast_bmgarch;f6bcc92490ffce915d2ebca2c8d668a4d2ebc762;Philippe Rast <rast.ph@gmail.com>;1637606542;"reference to mc-satn discourse in NEWS
+"
+pre;ph-rast_bmgarch;cedf0601c1ba3a3f107874b1041399658dd01791;Philippe Rast <rast.ph@gmail.com>;1637607450;"fixed spelling errors
+"
+pre;ph-rast_bmgarch;bd9bf13e79e001f8dd20fa6d979a0ec86faefd36;Philippe Rast <rast.ph@gmail.com>;1638142549;"fixed urls
+"
+pre;ph-rast_bmgarch;43ddfdea90542c55528455e948c88789ea7dc04f;Philippe Rast <rast.ph@gmail.com>;1638292593;"adressing rhub issues, downgraded rstan lib to 2.19.2
+"
+pre;ph-rast_bmgarch;464e423bb9162f0712553e49e8f92b4bb5733999;Philippe Rast <rast.ph@gmail.com>;1638465177;"adressing rhub issues
+"
+pre;ph-rast_bmgarch;06a72f779488257bea1516a9a568010f3e71d80c;Philippe Rast <rast.ph@gmail.com>;1638915028;"fixed urls in README
+"
+pre;ph-rast_bmgarch;47dbea42daf7672d3c5eca206d9be35adff60f83;Philippe Rast <rast.ph@gmail.com>;1638916456;"cran comment
+"
+pre;ph-rast_bmgarch;21fd5140e95cb5db9f77db199d7924d44554b88c;Philippe Rast <rast.ph@gmail.com>;1639160788;"codecov url updated
+"
+pre;ph-rast_bmgarch;f6f87b95fbba7a8f69be9a96b721855b410d8a95;Philippe Rast <rast.ph@gmail.com>;1639423555;"fixed codecov 301 error
+"
+post;ph-rast_bmgarch;894dd34f6da0e6707d8427566399bfbd5a35feee;Andrew Johnson <andrew.johnson@arjohnsonau.com>;1693651211;"Update array syntax
+"
+post;ph-rast_bmgarch;cba1a74441f51e3bd99bab6722215c8fe66e61b5;Philippe Rast <ph-rast@users.noreply.github.com>;1694207018;"Merge pull request #20 from andrjohns/array-syntax
+
+Update deprecated syntax for future rstan compatibility"
+post;ph-rast_bmgarch;73896b3447ee2c7aa214d3f3c6b6fcd532b66fee;Philippe Rast <rast.ph@gmail.com>;1694213523;"Upgraded roxygen version DESCRIPTION
+"
+post;ph-rast_bmgarch;f6579f29c96d3b2f0d4c65dbeead653e004793fe;Philippe Rast <rast.ph@gmail.com>;1694213557;"Fixing CMD note: Now checking class of model via inherits()
+"
+post;ph-rast_bmgarch;b6e5f51d73c6ce8cbecb44ee92f98e6e047f5db0;Philippe Rast <rast.ph@gmail.com>;1694216700;"github actions update to r-lib action v2 and checkout@v3
+"
+post;ph-rast_bmgarch;fc94db1826d483cce89c23a04df04c2fc584ac27;Philippe Rast <rast.ph@gmail.com>;1694216969;"changed build to setup-r@v2
+"
+post;ph-rast_bmgarch;8e850681eb3b71f23d55edf3bd320b5efe5436d0;Philippe Rast <rast.ph@gmail.com>;1694218514;"actions
+"
+post;ph-rast_bmgarch;e84de3bfc4d6543dff15379fc67c7a9f81931b8b;Philippe Rast <rast.ph@gmail.com>;1694218814;"yaml from ivd project
+"
+post;ph-rast_bmgarch;ac3de283e9b3d9c7d6868fb0ca5dcec6e76faf63;Philippe Rast <rast.ph@gmail.com>;1694218885;"update yaml
+"
+post;ph-rast_bmgarch;889a36664110bd2baecf9f6f11ec919da2c71213;Philippe Rast <rast.ph@gmail.com>;1694219910;"build on latest LTS ubuntu 22.04
+"
+pre;wiris_moodle-filter_wiris;a4f75f93954b579fa5f447568a88ced855646896;icaparros-at-wiris <isaac.caparros@wiris.com>;1655889448;"ci: add moodle 4 on the ci workflow matrix
+"
+pre;wiris_moodle-filter_wiris;d9d498c309bbcf48cc66029ee30bcd63013e67dc;carla-at-wiris <carla@wiris.com>;1656415068;"fix: Replace CRLF end of line for LF
+
+taskid 17449
+"
+pre;wiris_moodle-filter_wiris;f83bf613cccdb7078ef67997b881fb85eda5ab8e;carla-at-wiris <carla@wiris.com>;1656415068;"fix: Replace CRLF end of line for LF
+
+taskid 17449
+"
+pre;wiris_moodle-filter_wiris;352da37c7e075122563e9d3bf2e37e76447b3fa9;icaparros-at-wiris <isaac.caparros@wiris.com>;1656665156;"build(version): publish 7.30.0
+"
+pre;wiris_moodle-filter_wiris;2f35a6037831257e4a0f5d158dc2d493acf20752;carla-at-wiris <carla@wiris.com>;1657613150;"fix: Replace non-printable chars for the right ones
+
+Taskid 18388
+"
+pre;wiris_moodle-filter_wiris;efb0f4e74f050e32a03fb8d1803c7c450f8abe7f;carla-at-wiris <carla@wiris.com>;1657613150;"fix: Replace non-printable chars for the right ones
+
+Taskid 18388
+"
+pre;wiris_moodle-filter_wiris;28ae455a13b496ce96f1a29d74b79350871d1566;Xavier Ripoll <xavier@wiris.com>;1658303831;"fix: Set default value to PHP for rendertype setting
+"
+pre;wiris_moodle-filter_wiris;a3e2fd7cfab8a4f647142bbacfd29007b254299b;Xavier Ripoll <xavier@wiris.com>;1658303831;"fix: Set default value to PHP for rendertype setting
+"
+pre;wiris_moodle-filter_wiris;8a154410f320881713c0f5934603d26a42ab6c9d;Xavier Ripoll <xavier@wiris.com>;1659082440;"ci: Do not pass CI on Moodle master
+"
+pre;wiris_moodle-filter_wiris;c5a659a5d90b1778c3f9581873dec14a5d48b287;Xavier Ripoll <xavier@wiris.com>;1659082440;"ci: Do not pass CI on Moodle master
+"
+post;wiris_moodle-filter_wiris;44082eca7bc09875c424810febc0cfa971f5b883;carla-at-wiris <carla@wiris.com>;1665067930;"fix: Flaky tests for Moodle 4.1
+"
+post;wiris_moodle-filter_wiris;2a72f1b03e1aed2b7e16d483200d3bf9d0b2f32a;carla-at-wiris <carla@wiris.com>;1665067930;"fix: Flaky tests for Moodle 4.1
+"
+post;wiris_moodle-filter_wiris;19ba89a0fdc576388274bbc13bc42c37188bff3f;carla-at-wiris <carla@wiris.com>;1665067930;"fix: Flaky tests for Moodle 4.1
+"
+post;wiris_moodle-filter_wiris;b9a993f2413d0bd073f241c9b1f64ec7cc13fa50;icaparros-at-wiris <isaac.caparros@wiris.com>;1666255933;"docs: update changemd
+"
+post;wiris_moodle-filter_wiris;2b395f05dbb1564570f5d44c60e04b0b1d371541;icaparros-at-wiris <isaac.caparros@wiris.com>;1666256143;"build(version): publish #8.0.0
+"
+post;wiris_moodle-filter_wiris;9dbb6d3af28cdbc09d3afb303e95cc0b0bf7d8e2;icaparros-at-wiris <isaac.caparros@wiris.com>;1668599853;"chore: update PHP integration to 8.0.0
+"
+post;wiris_moodle-filter_wiris;b5e3652369ef749e08ca7d66e19d9e7f7ee60b29;icaparros-at-wiris <isaac.caparros@wiris.com>;1668599853;"chore: update PHP integration to 8.0.0
+"
+post;wiris_moodle-filter_wiris;a016b8c2a0ef5ed79868e9e39a39e17131831cba;Carla Lara <60604864+carla-at-wiris@users.noreply.github.com>;1668622644;"Revert ""fix: Flaky tests for Moodle 4.1""
+
+This reverts commit 19ba89a0fdc576388274bbc13bc42c37188bff3f.
+"
+post;wiris_moodle-filter_wiris;cd6a0c42dee330d04b6c30c76b3f81a16092d9ca;Carla Lara <60604864+carla-at-wiris@users.noreply.github.com>;1668622644;"Revert ""fix: Flaky tests for Moodle 4.1""
+
+This reverts commit 19ba89a0fdc576388274bbc13bc42c37188bff3f.
+"
+post;wiris_moodle-filter_wiris;eef8fbd23ead62a2e003822786258865261d94ec;Xavier Ripoll <xavier@wiris.com>;1669200743;"build(version): publish #8.0.1
+"
+pre;wurmlab_sequenceserver;191affb0aefd2dc76ce5bd38c19e81512a825942;joko3ono <jokotriono369@gmail.com>;1733135893;"Add print layout with ability to hide (#816)
+
+* Add print layout with ability to hide
+
+* remove debug and fix rspec fail
+
+* Re-render svg before print
+
+* Revert collapse_preference and finalize"
+pre;wurmlab_sequenceserver;345048e536f5afc9534e1f79dbdde37eee84ac6c;joko3ono <jokotriono369@gmail.com>;1733137127;"Fix: Button remains disabled despite selecting a database in the tree widget (#821)
+
+* Fix: Button remains disabled despite selecting a database in the tree widget
+
+* Fix: opening tree directory should not uncheck other category
+
+fixes #784"
+pre;wurmlab_sequenceserver;2c2e3870cd0b8d7d17a569ba9d32653405555e2e;Joko Triono <jokotriono369@gmail.com>;1733626303;"Simplify logic for rounding 2 digit decimals~
+"
+pre;wurmlab_sequenceserver;3569cd0e515ef6952523e07c620466cda7ccb789;Joko Triono <jokotriono369@gmail.com>;1733626303;"Simplify logic for rounding 2 digit decimals~
+"
+pre;wurmlab_sequenceserver;bab7720e5cf0e5e62cded9ec60d81aee15b9eba3;joko3ono <jokotriono369@gmail.com>;1733626331;"Merge 2c2e3870cd0b8d7d17a569ba9d32653405555e2e into 345048e536f5afc9534e1f79dbdde37eee84ac6c
+"
+pre;wurmlab_sequenceserver;a77d5746b78cff9eb57b79264ae6c42d2cbc6352;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1734223141;"Bump nanoid from 3.3.7 to 3.3.8
+
+Bumps [nanoid](https://github.com/ai/nanoid) from 3.3.7 to 3.3.8.
+- [Release notes](https://github.com/ai/nanoid/releases)
+- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ai/nanoid/compare/3.3.7...3.3.8)
+
+---
+updated-dependencies:
+- dependency-name: nanoid
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;wurmlab_sequenceserver;b031f18b5563934c91fa93b63fd9a03374e39397;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1734223143;"Merge a77d5746b78cff9eb57b79264ae6c42d2cbc6352 into 345048e536f5afc9534e1f79dbdde37eee84ac6c
+"
+pre;wurmlab_sequenceserver;2f0872fc5099917b56668cc70650db28d907fde8;Joko Triono <jokotriono369@gmail.com>;1734412410;"Fold graph by default
+"
+pre;wurmlab_sequenceserver;36e0d1dfffbecfcccfcaca8235eaafe2048711c7;Joko Triono <jokotriono369@gmail.com>;1734499820;"Fix: fails spec after auto fold graph on first visit
+"
+pre;wurmlab_sequenceserver;fb345f2e2dbbe82e4c22cae2eb7b7ead1f25ec76;joko3ono <jokotriono369@gmail.com>;1734499834;"Merge 36e0d1dfffbecfcccfcaca8235eaafe2048711c7 into 345048e536f5afc9534e1f79dbdde37eee84ac6c
+"
+post;wurmlab_sequenceserver;48296826c88c8eb1128acc67a474576c6dea5462;Good-soup1 <apostolosfilis@hotmail.com>;1747857294;"Fix #826: top-align identifier
+"
+post;wurmlab_sequenceserver;f2588b31e312088cdd4400057434d71b435fb93c;Good-soup1 <apostolosfilis@hotmail.com>;1747857294;"Fix #826: top-align identifier
+"
+post;wurmlab_sequenceserver;0ba327a58446671baa3e3ef71d59e0c5a3232acb;Tadas Tamosauskas <tadastamo@gmail.com>;1749459202;"Compile assets for #828 and #806
+"
+post;wurmlab_sequenceserver;48e3e1608b20d0678f63d61146ce681969ebfef7;Tadas Tamosauskas <tadastamo@gmail.com>;1749459202;"Compile assets for #828 and #806
+"
+post;wurmlab_sequenceserver;7b691861d20dc2a935dacb67368182e5af03d510;Tadas Tamosauskas <tadastamo@gmail.com>;1749473115;"Allow setting a default collapse state via prop
+"
+post;wurmlab_sequenceserver;a25d14e2bad6f21dcaf066af363916d07da07d12;Tadas Tamosauskas <tadastamo@gmail.com>;1749473115;"Allow setting a default collapse state via prop
+"
+post;wurmlab_sequenceserver;3485e75caa6176c1d95d3d0cb5b1eaeaacb68c73;Tadas Tamosauskas <tadastamo@gmail.com>;1749473144;"Refactor collapse preferences to store both open and closed states.
+
+If we want an element to be closed by default, in
+the previous implementation we would not have been
+able to store that state - if a user opened an
+element it would remove it from the collapsed
+elements array, but would not keep it open on the
+consecutive load, because it would fall back to
+the default collapsed state.
+
+This change stores both open and closed states,
+and uses a new storage key to store the states
+to avoid breaking changes due to old storage.
+
+The collapse preferences are now stored in the
+localStorage as a JSON object, with the key being
+the name of the element and the value being a boolean
+indicating whether the element is collapsed or not.
+"
+post;wurmlab_sequenceserver;d14421bebcdfbc0512c73d7faba78f6ef4338500;Tadas Tamosauskas <tadastamo@gmail.com>;1749473144;"Refactor collapse preferences to store both open and closed states.
+
+If we want an element to be closed by default, in
+the previous implementation we would not have been
+able to store that state - if a user opened an
+element it would remove it from the collapsed
+elements array, but would not keep it open on the
+consecutive load, because it would fall back to
+the default collapsed state.
+
+This change stores both open and closed states,
+and uses a new storage key to store the states
+to avoid breaking changes due to old storage.
+
+The collapse preferences are now stored in the
+localStorage as a JSON object, with the key being
+the name of the element and the value being a boolean
+indicating whether the element is collapsed or not.
+"
+post;wurmlab_sequenceserver;7f3cdfad73cfac28fa1f21953ada8b4a6dae563e;Tadas Tamosauskas <tadastamo@gmail.com>;1749473270;"Compile assets
+"
+post;wurmlab_sequenceserver;c904dc68539740d105e492d1f78866a33a5bdfd4;Tadas Tamosauskas <tadastamo@gmail.com>;1749473270;"Compile assets
+"
