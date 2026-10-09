@@ -1,0 +1,101 @@
+project;date;author;message
+libatoms_quip;2026-05-12;James Kermode;Raise Python exception on FoX XML parse errors (closes #724) (#725)
+libatoms_quip;2026-05-06;James Kermode;Fix ScaLAPACK not linked in MPI builds with meson (#717)
+libatoms_quip;2026-04-26;Alberto Hernandez;Add qr build option for numerically stable GAP fitting
+libatoms_quip;2026-03-31;James Kermode;Add CMake build support for find_package(QUIP) (#712)
+libatoms_quip;2026-01-30;Albert Bartok-Partay;line size reduced to avoid segmentation faults on macs
+libatoms_quip;2026-01-29;Albert Bartok;fixed wrong copy/paste
+libatoms_quip;2026-01-29;Albert Bartok;from Noam Bernstein: Add support for (transparently) reading binary sparseX files. Also extend default line length in xyz.c
+libatoms_quip;2026-01-29;bernstei;Change default md5.h to use prototypes (#710)
+libatoms_quip;2026-01-29;bernstei;Get rid of libAtoms/lbfgs.f, now that it's supposed to be lbfgs.F (#708)
+libatoms_quip;2026-01-21;James Kermode;Fix missing CLI executables in quippy-ase wheel (#703) (#704)
+ldbc_sigmod2014-pc;2025-05-30;Márton Elekes;Fix missing import
+ldbc_sigmod2014-pc;2022-07-14;Márton Elekes;Add DOI
+ldbc_sigmod2014-pc;2021-05-30;Gabor Szarnyas;Add LICENSE and NOTICE files
+ldbc_sigmod2014-pc;2021-01-13;Gabor Szarnyas;Merge pull request #41 from ldbc/perf-tests
+ldbc_sigmod2014-pc;2021-01-11;Márton Elekes;Update README.md
+ldbc_sigmod2014-pc;2021-01-11;marci543;Add run from parameter file
+ldbc_sigmod2014-pc;2021-01-09;Gabor Szarnyas;Use SuiteSparse:GraphBLAS v4.0.1, adjust method names
+ldbc_sigmod2014-pc;2020-11-03;Gabor Szarnyas;Add sha1 sum
+ldbc_sigmod2014-pc;2020-11-03;Gabor Szarnyas;sudo
+ldbc_sigmod2014-pc;2020-11-03;Gabor Szarnyas;Add zstd
+wurmlab_sequenceserver;2026-05-09;Yannick Wurm;security update to ruby 3.3 and of all bundles
+wurmlab_sequenceserver;2025-11-14;Tadas Tamosauskas;Typo
+wurmlab_sequenceserver;2025-11-14;Tadas Tamosauskas;Do not show backtrace in prod
+wurmlab_sequenceserver;2025-10-27;Tadas Tamosauskas;Flatten the links array
+wurmlab_sequenceserver;2025-10-20;Tadas Tamošauskas;Potential fix for code scanning alert no. 416: Workflow does not contain permissions
+wurmlab_sequenceserver;2025-09-22;Tadas Tamosauskas;Remove Code Climate from CI
+wurmlab_sequenceserver;2025-09-15;Tadas Tamosauskas;Configurable assets prefix
+wurmlab_sequenceserver;2025-06-27;Tadas Tamosauskas;Fix num_threads caching in the command
+wurmlab_sequenceserver;2025-06-22;Joko Triono;Fix: Docker build issue for node target (#824)
+wurmlab_sequenceserver;2025-06-09;Tadas Tamosauskas;Compile assets
+lanl_elements;2026-10-07;Gavin Whetstone;Merge pull request #66 from lanl/gavin
+lanl_elements;2026-10-06;gavinwhetstone;fixing mesh reading
+lanl_elements;2026-09-30;Gavin Whetstone;Merge pull request #64 from lanl/gavin
+lanl_elements;2026-09-30;gavinwhetstone;adding bdy_nodes_in_bdy_surf mapping accessed as bdy_nodes(bdy_nodes_in_bdy_surf(bdy_surf_lid,node_lid))
+lanl_elements;2026-09-22;Gavin Whetstone;Merge pull request #62 from lanl/gavin
+lanl_elements;2026-09-22;gavinwhetstone;adding declarations for bdy surf sets to be used in fierro
+lanl_elements;2026-09-01;Nathaniel Morgan;Merge pull request #60 from lanl/ref_surf
+lanl_elements;2026-08-31;Nathaniel Morgan;WIP: limiter
+lanl_elements;2026-08-27;Nathaniel Morgan;added notched circle
+lanl_elements;2026-08-26;Nathaniel Morgan;fixed tensor rank bug
+homalg-project_toricvarieties_project;2024-12-20;Max Horn;Avoid using InstallValue on non-plain objects
+homalg-project_toricvarieties_project;2025-01-13;Martin Bies;Update Readme.md
+homalg-project_toricvarieties_project;2025-01-13;Martin Bies;Update Readme.md
+homalg-project_toricvarieties_project;2022-12-28;Martin Bies;Remove command that limits us to a single thread
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Check for lower bound was not fully reliable in the past -> fixed
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Remove passing on resolved_edges when not needed
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Update .gitignore
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Remove old find_connected_components method
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Overhaul h0 computation method
+homalg-project_toricvarieties_project;2022-12-27;Martin Bies;Remove display methods
+ph-rast_bmgarch;2026-07-07;Philippe Rast;V2.1.0 commit
+ph-rast_bmgarch;2026-05-21;Philippe Rast;addressed notes on cran
+ph-rast_bmgarch;2026-05-20;Philippe Rast;fixed dead urls
+ph-rast_bmgarch;2026-05-09;Philippe Rast;action yaml update
+ph-rast_bmgarch;2026-05-09;Philippe Rast;added additional repos in DESC for github action
+ph-rast_bmgarch;2026-05-09;Philippe Rast;cmd check fixes
+ph-rast_bmgarch;2026-05-09;Philippe Rast;github action yaml fixes
+ph-rast_bmgarch;2026-05-09;Philippe Rast;fxied github action errors plus added 30k iterations default (in previous commit) to VB fixes issue #21
+ph-rast_bmgarch;2026-05-09;Philippe Rast;Added unit test for cmdstanr backend
+ph-rast_bmgarch;2026-05-08;Philippe Rast;renamed function names ending in jacobian. Added support for cmdstanr backend and MCMC forecasts and fc plots
+nanocomp_meep;2026-10-09;Steven G. Johnson;NEWS links
+nanocomp_meep;2026-10-09;Ardavan Oskooi;Prepare for 1.35 release (#3332)
+nanocomp_meep;2026-10-09;Luocheng Huang;Multithread the `near2far` field transformation with OpenMP (#3251)
+nanocomp_meep;2026-10-09;Ardavan Oskooi;Improvements and fixes to array-slicing routines (#3320)
+nanocomp_meep;2026-10-03;Ardavan Oskooi;tweak tolerance in test_compute_field_energy of test_mpy.py (#3331)
+nanocomp_meep;2026-10-02;Yorick Reum;Pass -no-undefined to Python modules only on Windows (#3330)
+nanocomp_meep;2026-10-02;Steven G. Johnson;use pip to install parameterized for mingw CI (#3327)
+nanocomp_meep;2026-10-02;ShurongCAO;Prevent grid_volume::str from overrunning short buffers (#3316)
+nanocomp_meep;2026-10-02;Ardavan Oskooi;Replace `nlopt` with `scipy` in `test_unfilter_design` of `test_adjoint_solver.py` (#3323)
+nanocomp_meep;2026-10-02;Yorick Reum;Native build on Windows (#3309)
+wiris_moodle-filter_wiris;2026-10-08;Carla Lara;fix: class alias (#219)
+wiris_moodle-filter_wiris;2026-10-07;Carla;build: publish #8.11.1
+wiris_moodle-filter_wiris;2026-10-05;Xinyu Jiang;fix: exclude test area from selection (#215) (#216)
+wiris_moodle-filter_wiris;2026-09-16;David Adalid;test: add  5.3 beta tests
+wiris_moodle-filter_wiris;2026-07-14;Carla Lara;fix: Corrupted characters (#212)
+wiris_moodle-filter_wiris;2026-05-29;Carla Lara;chore: Update node version (#210)
+wiris_moodle-filter_wiris;2026-04-28;Jose González;fix: include MathType integrations as reviewers for integration folder
+wiris_moodle-filter_wiris;2026-04-28;Jose González;chore: Update CODEOWNERS to include WIRIS Quizzes Team
+wiris_moodle-filter_wiris;2026-04-27;David Adalid;test: add beta branch 5.2 (#205)
+wiris_moodle-filter_wiris;2026-04-21;Carla;build: publish #8.11.0
+asgr_profound;2026-09-26;Aaron Robotham;Merge branch 'master' of https://github.com/asgr/ProFound
+asgr_profound;2026-09-26;Aaron Robotham;Lots of speed-ups and large amount of tests offering good coverage.
+asgr_profound;2026-07-07;Aaron Robotham;Doc fix
+asgr_profound;2026-03-11;Aaron Robotham;Regular Sunday runs added
+asgr_profound;2026-03-04;Aaron Robotham;Version bump
+asgr_profound;2026-03-04;Aaron Robotham;Make sure it uses floating point arithmetic.
+asgr_profound;2026-02-26;Aaron Robotham;Simplify installation instructions in README
+asgr_profound;2026-02-26;Aaron Robotham;Merge pull request #31 from asgr/copilot/fix-broken-remotes-description-file
+asgr_profound;2026-02-26;copilot-swe-agent[bot];Fix broken Remotes in DESCRIPTION: add commas between entries
+asgr_profound;2026-02-26;copilot-swe-agent[bot];Initial plan
+opticspy_lightpipes;2026-02-26;FredvanGoor;Update 7.1.1
+opticspy_lightpipes;2026-02-26;FredvanGoor;update poisson spot example
+opticspy_lightpipes;2024-08-15;FredvanGoor;added star history
+opticspy_lightpipes;2024-08-06;FredvanGoor;Changed (2) Michelson
+opticspy_lightpipes;2024-08-06;FredvanGoor;changed Michelson example
+opticspy_lightpipes;2024-08-05;FredvanGoor;repaired broken link to image
+opticspy_lightpipes;2024-08-05;FredvanGoor;changed install.rst
+opticspy_lightpipes;2024-08-05;FredvanGoor;Update PhaseRecovery.py
+opticspy_lightpipes;2024-08-05;FredvanGoor;fixed several bugs due to numpy expirations
+opticspy_lightpipes;2023-09-04;FredvanGoor;update documentation
